@@ -1,0 +1,276 @@
+# Ohio cannabis brand registry.
+#
+# Schema:
+#   - display_name: canonical brand label rendered to users
+#     aliases: alternate spellings/casings seen in menu labels; matched first
+#     legal_entity: the LLC/corp operating the brand in Ohio, or null if
+#       not yet verified. Filled in further during Phase 3 (DCC license
+#       registry integration, see docs/P4-dcc-license-registry.md).
+#
+# Match order is significant: longer/more-specific names come first so
+# "Citizen by Klutch" matches before "Klutch". Sort within a legal_entity
+# group by descending length.
+#
+# Verified consolidations (P2 §3, P4 §5):
+#   - AT-CPC of Ohio LLC (Klutch family): Citizen by Klutch, Cookies,
+#     Josh D, Habitat by Klutch, Klutch
+#   - Standard Wellness Holdings LLC: The Standard, The Solid, Standard Farms
+#   - Woodward Fine Cannabis: own entity, NOT a Klutch brand
+#   - GTI Ohio LLC: Rythm (verify exact entity name in Phase 3)
+#
+brands:
+  - display_name: "Edie Parker"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Butterfly Effect"
+    aliases: []
+    legal_entity: "Grow Ohio Pharmaceuticals LLC"
+
+  - display_name: "Citizen by Klutch"
+    aliases: ["Citizen By Klutch"]
+    legal_entity: "AT-CPC of Ohio LLC"
+
+  - display_name: "Habitat by Klutch"
+    aliases: []
+    legal_entity: "AT-CPC of Ohio LLC"
+
+  - display_name: "Cookies"
+    aliases: []
+    legal_entity: "AT-CPC of Ohio LLC"
+
+  - display_name: "Josh D"
+    aliases: []
+    legal_entity: "AT-CPC of Ohio LLC"
+
+  - display_name: "Woodward Fine Cannabis"
+    aliases: []
+    legal_entity: "Woodward Fine Cannabis"
+
+  - display_name: "Pure Ohio Wellness"
+    aliases: []
+    legal_entity: "Pure Ohio Wellness LLC"
+
+  - display_name: "Hundred Percent Labs"
+    aliases: []
+    legal_entity: "Hundred Percent Labs LLC"
+
+  - display_name: "King City Gardens"
+    aliases: []
+    legal_entity: "King City Gardens LLC"
+
+  - display_name: "Certified Cultivators"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Riviera Creek"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Ancient Roots"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Buckeye Relief"
+    aliases: []
+    legal_entity: "Buckeye Relief LLC"
+
+  - display_name: "Ub Good Labs"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Ub Good"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Bloom Cannabis"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Lighthouse Sciences"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Wellspring Fields"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "The Standard"
+    aliases: []
+    legal_entity: "Standard Wellness Holdings LLC"
+
+  - display_name: "The Solid"
+    aliases: []
+    legal_entity: "Standard Wellness Holdings LLC"
+
+  - display_name: "Standard Farms"
+    aliases: []
+    legal_entity: "Standard Wellness Holdings LLC"
+
+  - display_name: "Rebel x Anthos Organics"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Anthos Organics"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Later Days"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Eden's Trees"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Tom & Berry"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Modern Flower"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Old Pal"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Lake Effect"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Meigs County"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Good Green"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "OG Extracts"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Tyson 2.0"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Tyson"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Klutch"
+    aliases: []
+    legal_entity: "AT-CPC of Ohio LLC"
+
+  - display_name: "Rythm"
+    aliases: []
+    legal_entity: "GTI Ohio LLC"
+
+  - display_name: "Timeless"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Moxie"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Ember"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Airo"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Cresco"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Supply"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Galenas"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Farkas Farms"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Mindy's"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Rove"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Treehaus"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "HEIR"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Kynd"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Vapen"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Select"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Aura"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Hijinks"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Mozey"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Grassroots"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Wonder Wellness"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Wondergrove"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "&Shine"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Sauce"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Superflux"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "The Hunt"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "Firelands Scientific"
+    aliases: []
+    legal_entity: null
+
+  - display_name: "One Orijin"
+    aliases: []
+    legal_entity: null
