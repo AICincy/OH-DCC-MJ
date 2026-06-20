@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ohcanna"
+version = "0.1.0"
+description = "Public transparency layer for Ohio cannabis products, processors, cultivators, brands, and dispensaries."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+authors = [{ name = "AICincy LLC" }]
+dependencies = [
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+ohcanna = "ohcanna.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["ohcanna*"]
+
+[tool.setuptools.package-data]
+ohcanna = ["data/*.yaml", "data/fixtures/*.html"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
