@@ -1,0 +1,1456 @@
+[
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "1954288",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1954288+gram/bloom-cannabis-ss-diesel-cart-1g-sativa",
+    "name": "Ss Diesel",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "sativa",
+    "thc_percent": 85.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2818676",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2818676+gram/the-standard-c-r-b-live-resin-disposable-1g",
+    "name": "C.r.b.",
+    "brand": "The Standard",
+    "product_format": "live resin disposable",
+    "strain_type": null,
+    "thc_percent": 68.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2244053",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2244053+gram/certified-cultivators-modified-cookies-liquid-diamonds-ikrusher-disposable-1g-indica",
+    "name": "Modified Cookies",
+    "brand": "Certified Cultivators",
+    "product_format": "liquid diamond disposable",
+    "strain_type": "indica",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2603498",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2603498+gram/buckeye-relief-nyc-flo-live-resin-dank-tank-disposable-1g-hybrid",
+    "name": "Nyc Flo",
+    "brand": "Buckeye Relief",
+    "product_format": "live resin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": 49.12,
+    "msrp": 65.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2813313",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2813313+gram/the-standard-glitter-bomb-live-resin-disposable-1g-indica",
+    "name": "Glitter Bomb",
+    "brand": "The Standard",
+    "product_format": "live resin disposable",
+    "strain_type": "indica",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2712967",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2712967+half_gram/ub-good-labs-beach-dosi-live-resin-cart-0-5g-indica",
+    "name": "Beach Dosi",
+    "brand": "Ub Good",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2656647",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2656647+gram/standard-farms-stargazer-flexcell-disposable-1g-hybrid",
+    "name": "Stargazer",
+    "brand": "Standard Farms",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2178062",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2178062+half_gram/cookies-blue-raz-full-spectrum-co2-cart-0-5g-indica",
+    "name": "Blue Raz",
+    "brand": "Cookies",
+    "product_format": "full spec cart",
+    "strain_type": "indica",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 35.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2774937",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2774937+gram/king-city-gardens-simple-orange-live-resin-cart-1g-hybrid",
+    "name": "Simple Orange",
+    "brand": "King City Gardens",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 69.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2373569",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2373569+gram/butterfly-effect-inferno-live-resin-ikrusher-disposable-1g-indica",
+    "name": "Inferno",
+    "brand": "Butterfly Effect",
+    "product_format": "live resin disposable",
+    "strain_type": "indica",
+    "thc_percent": 68.0,
+    "sale_price": null,
+    "msrp": 65.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2817442",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2817442+gram/citizen-by-klutch-zoap-x-orange-43-full-spectrum-co2-luster-pod-1g-hybrid",
+    "name": "Zoap X Orange 43",
+    "brand": "Citizen by Klutch",
+    "product_format": "full spec luster pod",
+    "strain_type": "hybrid",
+    "thc_percent": 70.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2165734",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2165734+half_gram/ancient-roots-chimera-3-live-rosin-cart-0-5g-indica",
+    "name": "Chimera #3",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2165737",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2165737+half_gram/ancient-roots-chimera-3-live-rosin-disposable-0-5g-indica",
+    "name": "Chimera #3",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin disposable",
+    "strain_type": "indica",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 52.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "1889079",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1889079+half_gram/cookies-ridgeline-lantz-full-spectrum-co2-cart-0-5g-hybrid",
+    "name": "Ridgeline Lantz",
+    "brand": "Cookies",
+    "product_format": "full spec cart",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 35.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Linalool",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2728279",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2728279+half_gram/rythm-captain-z-solventless-live-rosin-cart-0-5g-hybrid",
+    "name": "Captain Z",
+    "brand": "Rythm",
+    "product_format": "live rosin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2546508",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2546508+gram/buckeye-relief-2-strainz-live-resin-cart-1g-hybrid",
+    "name": "2 Strainz",
+    "brand": "Buckeye Relief",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 75.0,
+    "sale_price": 45.37,
+    "msrp": 60.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2191665",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2191665+half_gram/rythm-banana-cream-solventless-live-rosin-cart-0-5g-indica",
+    "name": "Banana Cream",
+    "brand": "Rythm",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2812043",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2812043+half_gram/ancient-roots-pyxystyx-live-rosin-cart-0-5g-hybrid",
+    "name": "Pyxystyx",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2821203",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2821203+gram/buckeye-relief-jon-woo-live-resin-cart-1g-hybrid",
+    "name": "Jon Woo",
+    "brand": "Buckeye Relief",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": 45.37,
+    "msrp": 60.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "1944140",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1944140+gram/rythm-afternoon-delight-live-resin-cart-1g-hybrid",
+    "name": "Afternoon Delight",
+    "brand": "Rythm",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2645692",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2645692+gram/buckeye-relief-sparkling-orange-botanical-disposable-1g-hybrid",
+    "name": "Sparkling Orange",
+    "brand": "Buckeye Relief",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 85.0,
+    "sale_price": 31.87,
+    "msrp": 42.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2798884",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2798884+gram/king-city-gardens-paris-og-distillate-disposable-1g-indica",
+    "name": "Paris Og",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2327398",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2327398+gram/timeless-atf-disposable-1g-sativa",
+    "name": "Atf",
+    "brand": "Timeless",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 85.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "1589989",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1589989+half_gram/ub-good-cherry-limeade-disposable-0-5g-hybrid",
+    "name": "Cherry Limeade- Disposable",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2821223",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2821223+half_gram/buckeye-relief-garlic-breath-2-0-live-resin-cart-1-5g-3pk-indica",
+    "name": "Garlic Breath 2.0",
+    "brand": "Buckeye Relief",
+    "product_format": "live resin cart 1.5g - 3 pk",
+    "strain_type": "indica",
+    "thc_percent": 81.0,
+    "sale_price": 60.56,
+    "msrp": 80.75,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2399926",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2399926+half_gram/klutch-hash-burger-live-hash-rosin-disposable-0-5g-hybrid",
+    "name": "Hash Burger",
+    "brand": "Klutch",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2600799",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2600799+half_gram/riviera-creek-brier-hill-live-rosin-disposable-0-5g-hybrid",
+    "name": "Brier Hill",
+    "brand": "Riviera Creek",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 49.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2821224",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2821224+gram/buckeye-relief-gmo-pop-live-resin-dank-tank-disposable-1g-hybrid",
+    "name": "Gmo Pop",
+    "brand": "Buckeye Relief",
+    "product_format": "live resin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 83.0,
+    "sale_price": 49.12,
+    "msrp": 65.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2635064",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2635064+gram/buckeye-relief-garlic-breath-2-0-live-resin-dank-tank-disposable-1g-indica",
+    "name": "Garlic Breath 2.0",
+    "brand": "Buckeye Relief",
+    "product_format": "live resin disposable",
+    "strain_type": "indica",
+    "thc_percent": 79.0,
+    "sale_price": 49.12,
+    "msrp": 65.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2798875",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2798875+gram/king-city-gardens-green-kush-distillate-disposable-1g-sativa",
+    "name": "Green Kush",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2725103",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2725103+gram/rythm-scout-dawg-og-live-resin-cart-1g-hybrid",
+    "name": "Scout Dawg Og",
+    "brand": "Rythm",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2787257",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2787257+gram/bloom-cannabis-purple-martian-cart-1g-hybrid",
+    "name": "Purple Martian",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 84.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2791296",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2791296+gram/bloom-cannabis-hippie-crasher-cart-1g-indica",
+    "name": "Hippie Crasher",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 86.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2678737",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2678737+gram/ub-good-purple-krush-cart-1g-indica",
+    "name": "Purple Krush",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2593704",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2593704+gram/certified-cultivators-sunday-brunch-cart-1g-hybrid",
+    "name": "Sunday Brunch",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2687761",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2687761+gram/ub-good-gold-slice-cart-1g-indica",
+    "name": "Gold Slice",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 80.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "486642",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/486642+gram/timeless-blackberry-kush-cart-1g-indica",
+    "name": "Blackberry Kush",
+    "brand": "Timeless",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 86.0,
+    "sale_price": null,
+    "msrp": 58.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "1970923",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1970923+gram/timeless-blackberry-kush-disposable-1g-indica",
+    "name": "Blackberry Kush",
+    "brand": "Timeless",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 86.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2713331",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2713331+gram/certified-cultivators-grapefruit-romulan-cart-1g-hybrid",
+    "name": "Grapefruit Romulan",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2466639",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2466639+half_gram/riviera-creek-skyscraper-live-rosin-disposable-0-5g-sativa",
+    "name": "Skyscraper",
+    "brand": "Riviera Creek",
+    "product_format": "live rosin disposable",
+    "strain_type": "sativa",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 49.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2551386",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2551386+gram/certified-cultivators-hammer-no-9-cart-1g-indica",
+    "name": "Hammer No. 9",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "1520626",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1520626+half_gram/ub-good-pink-surge-disposable-0-5g-sativa",
+    "name": "Pink Surge",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2571931",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2571931+gram/standard-farms-sunburst-flex-disposable-1g-hybrid",
+    "name": "Sunburst",
+    "brand": "Standard Farms",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2745710",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2745710+gram/bloom-cannabis-brainiac-distillate-cart-1g-hybrid",
+    "name": "Brainiac",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 82.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2749331",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2749331+gram/bloom-cannabis-brulee-distillate-cart-1g-indica",
+    "name": "Brulee'",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 85.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2701569",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2701569+gram/ub-good-red-splash-cart-1g-hybrid",
+    "name": "Red Splash",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 83.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2593699",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2593699+gram/certified-cultivators-solar-tangent-cart-1g-sativa",
+    "name": "Solar Tangent",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate cart",
+    "strain_type": "sativa",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2744683",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2744683+half_gram/certified-cultivators-slurricane-cart-3g-3pk-indica",
+    "name": "Slurricane",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate cart 3g - 3 pk",
+    "strain_type": "indica",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 111.0,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2573313",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2573313+gram/hundred-percent-labs-c-berries-live-resin-crusher-disposable-1g-hybrid",
+    "name": "C. Berries",
+    "brand": "Hundred Percent Labs",
+    "product_format": "live resin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 65.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2739407",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2739407+half_gram/ub-good-labs-pink-certz-live-rosin-disposable-0-5g-hybrid",
+    "name": "Pink Certz",
+    "brand": "Ub Good",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2774089",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2774089+gram/bloom-cannabis-cambodian-hz-cart-1g-sativa",
+    "name": "Cambodian Hz",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "sativa",
+    "thc_percent": 84.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2682262",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2682262+gram/buckeye-relief-ocean-lime-botanical-cart-1g-sativa",
+    "name": "Ocean Lime",
+    "brand": "Buckeye Relief",
+    "product_format": "distillate cart",
+    "strain_type": "sativa",
+    "thc_percent": 82.0,
+    "sale_price": 31.87,
+    "msrp": 42.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2790922",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2790922+gram/bloom-cannabis-thunderbird-og-cart-1g-hybrid",
+    "name": "Thunderbird Og",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 84.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "1537070",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1537070+half_gram/ub-good-green-punch-watermelon-punch-disposable-0-5g-sativa",
+    "name": "Green Punch (watermelon Punch)",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 79.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2644852",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2644852+gram/tom-berry-big-t-og-live-resin-disposable-1g-hybrid",
+    "name": "Big-t-og",
+    "brand": "Tom & Berry",
+    "product_format": "live resin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 55.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "1170807",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1170807+gram/ub-good-blue-rush-cart-1g-sativa",
+    "name": "Blue Rush",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "sativa",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2798883",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2798883+gram/king-city-gardens-original-z-distillate-disposable-1g-hybrid",
+    "name": "Original Z",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2622435",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2622435+gram/certified-cultivators-the-pebbles-cart-1g-hybrid",
+    "name": "The Pebbles",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2313736",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2313736+gram/certified-cultivators-bacio-g-flex-disposable-1g-hybrid",
+    "name": "Bacio G",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2799176",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2799176+half_gram/standard-farms-b-part-e-live-rosin-disposable-0-5g-hybrid",
+    "name": "B Part E",
+    "brand": "Standard Farms",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 55.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-23T14:59:27Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  }
+]
