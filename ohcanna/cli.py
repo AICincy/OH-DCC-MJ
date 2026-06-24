@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import sys
 import time
 from pathlib import Path
@@ -35,11 +36,15 @@ def _cmd_scrape(args: argparse.Namespace) -> int:
                 print(f"  - {loc} / {cat}")
         return 0
 
+    record_fixtures = args.record_fixtures or os.environ.get("OHCANNA_RECORD_FIXTURES") == "1"
+
     date = time.strftime("%Y-%m-%d", time.gmtime())
     by_category: dict[str, list] = {}
     failures: list[tuple[str, str, Exception]] = []
     total = 0
-    for loc, cat, products, exc in src.scrape_all(locations, categories):
+    for loc, cat, products, exc in src.scrape_all(
+        locations, categories, record_fixtures=record_fixtures
+    ):
         if exc is not None:
             failures.append((loc, cat, exc))
             continue
@@ -91,6 +96,10 @@ def build_parser() -> argparse.ArgumentParser:
     s.add_argument("--category", help="restrict to one category")
     s.add_argument("--dry-run", action="store_true",
                    help="print the (location, category) matrix and exit")
+    s.add_argument("--record-fixtures", action="store_true",
+                   help="save raw HTML/JSON payloads under ohcanna/data/fixtures/ "
+                        "for regression tests (see README §Fixtures). Also honors "
+                        "OHCANNA_RECORD_FIXTURES=1.")
     s.set_defaults(func=_cmd_scrape)
 
     a = sub.add_parser("analyze", help="apply consistency rules to a snapshot JSON")

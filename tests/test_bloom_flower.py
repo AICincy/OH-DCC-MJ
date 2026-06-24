@@ -1,21 +1,22 @@
 """Bloom flower parser smoke test. Fixture-gated: skips if HTML fixture
-hasn't been recorded yet (operator runs `python -m ohcanna scrape
---source bloom --location akron --category flower` to seed it). The
-parser is wired through `_PARSERS["flower"]` and exercises the shared
-label-split + price-pair helpers, so a green vape test gives us most of
-the coverage already."""
+hasn't been recorded yet. Flower products don't always carry a THC%
+reading on the card, so we relax that floor relative to vape but keep
+the brand/format/price coverage bar."""
 from __future__ import annotations
 
 import pytest
 
 from ohcanna.sources.bloom import parse_cards
+from ohcanna.storage import fixture_path
 
 
-def test_flower_parser_fixture(fixtures_dir):
-    fixture = fixtures_dir / "bloom_akron_flower.html"
-    if not fixture.exists():
-        pytest.skip("flower fixture not recorded yet; see README §Fixtures")
-    products = parse_cards(fixture.read_text(), "akron", "flower")
+def test_flower_parser_against_recorded_fixture():
+    path = fixture_path("bloom", "akron", "flower")
+    if not path.exists():
+        pytest.skip(
+            f"fixture not recorded yet at {path}; see README §Fixtures"
+        )
+    products = parse_cards(path.read_text(), "akron", "flower")
     records = [p.to_dict() for p in products]
     assert len(records) >= 50
     assert all(r["brand"] for r in records)

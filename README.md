@@ -69,19 +69,23 @@ tests/                   pytest, no network
 
 ## Fixtures
 
-CI does not hit live Bloom (WAF discipline, P2 §9). Tests load HTML
-fixtures from `ohcanna/data/fixtures/`. To seed them:
+CI does not hit live Bloom (WAF discipline, P2 §9). Parser smoke tests
+in `tests/test_bloom_vape.py` and `tests/test_bloom_flower.py` load HTML
+fixtures from `ohcanna/data/fixtures/` and skip cleanly when a fixture
+is missing. To seed them from a workstation with network access:
 
 ```bash
-# From a workstation, scrape the slice you want to fixture:
-python -m ohcanna scrape --source bloom --location akron --category vape
-# Then save the raw HTML alongside the JSON snapshot (manual step today;
-# automate in a follow-up).
+python -m ohcanna scrape --source bloom --location akron --category vape   --record-fixtures
+python -m ohcanna scrape --source bloom --location akron --category flower --record-fixtures
+git add ohcanna/data/fixtures/bloom_akron_vape.html ohcanna/data/fixtures/bloom_akron_flower.html
+git commit -m "fixtures: bloom akron vape + flower"
 ```
 
-If a fixture is missing, the corresponding parser smoke test falls back to
-the POC sample (`data/snapshots/2026-06-20/bloom_all_vape.json`) so CI stays
-green while still gating the analyzer rules and brand-registry mappings.
+Re-record on a quarterly cadence (or after a Bloom template change is
+observed). The daily cron does NOT record fixtures — drifting fixtures
+would create noisy diffs and force endless test-baseline updates. Set
+`OHCANNA_RECORD_FIXTURES=1` to opt in from an environment where adding
+the CLI flag is awkward.
 
 ## Operational discipline (mandatory; from P2 §9)
 
