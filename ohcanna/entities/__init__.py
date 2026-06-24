@@ -17,3 +17,11 @@ from .graph import (  # noqa: F401
     build_all_rollups,
     load_and_rollup,
 )
+from .dcc_registry import (  # noqa: F401
+    DCCLicense,
+    BrandProcessorLink,
+    load_registry,
+    diff_registries,
+    load_brand_processor_map,
+    resolve_processor,
+)

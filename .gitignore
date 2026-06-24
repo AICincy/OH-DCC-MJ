@@ -12,3 +12,6 @@ htmlcov/
 build/
 dist/
 .DS_Store
+
+# agent worktrees
+.claude/worktrees/
