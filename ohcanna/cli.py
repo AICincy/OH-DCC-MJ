@@ -10,7 +10,7 @@ import time
 from pathlib import Path
 
 from ohcanna import __version__
-from ohcanna.analysis.rules.vape import analyze_dataset
+from ohcanna.analysis.engine import analyze_dataset
 from ohcanna.sources import REGISTRY
 from ohcanna.storage import update_latest, write_snapshot
 
