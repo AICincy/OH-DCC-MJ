@@ -105,7 +105,10 @@ Per P2 §4 "Not in Phase 1":
 - Entity rollup pages (per-cultivator, per-processor, per-brand, per-dispensary)
 - DCC license registry integration (Phase 3, see P4)
 - Additional sources beyond Bloom (Phase 2)
-- Category-specific flag rules beyond vape (Phase 2)
+- Flag rules for edibles / concentrates / pre-rolls / tinctures (Phase 2
+  T8–T11; blocked on those scrapers emitting real category data — see
+  `docs/flag-rules.md`). Vape (F-001–F-005) and flower (FL-001–FL-002)
+  rule sets are implemented.
 - User accounts, COA submission, moderation (not in OHCanna at all)
 
 ## License
