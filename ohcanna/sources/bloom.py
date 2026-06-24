@@ -387,10 +387,12 @@ class BloomSource(Source):
     def list_categories(self) -> list[str]:
         return list(BLOOM_CATEGORIES)
 
-    def scrape(self, location: str, category: str) -> list[Product]:
+    def fetch_raw(self, location: str, category: str) -> str:
         if location not in BLOOM_LOCATIONS:
             raise ValueError(f"unknown bloom location: {location}")
         if category not in BLOOM_CATEGORIES:
             raise ValueError(f"unknown bloom category: {category}")
-        html = fetch(_url(BLOOM_LOCATIONS[location], category), self.session)
-        return parse_cards(html, location, category)
+        return fetch(_url(BLOOM_LOCATIONS[location], category), self.session)
+
+    def parse_raw(self, raw: str, location: str, category: str) -> list[Product]:
+        return parse_cards(raw, location, category)
