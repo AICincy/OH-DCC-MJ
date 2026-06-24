@@ -1,0 +1,70 @@
+{
+  "_comment": "SAMPLE DATA ONLY — fake-but-plausible records used purely as a test fixture for load_registry/diff_registries. These are NOT real DCC license records. Real registry data arrives via work item V1.",
+  "_sample_data": true,
+  "licenses": [
+    {
+      "license_number": "MMCPP000123",
+      "license_type": "processor",
+      "legal_name": "AT-CPC of Ohio LLC",
+      "trade_names": ["Klutch Cannabis", "Citizen by Klutch"],
+      "address": "100 Sample Industrial Pkwy",
+      "city": "Akron",
+      "county": "Summit",
+      "zip": "44301",
+      "status": "active",
+      "issue_date": "2019-06-01",
+      "status_date": "2019-06-01",
+      "source_url": "https://example.invalid/dcc/registry/MMCPP000123",
+      "fetched_at": "2026-06-24T00:00:00Z",
+      "notes": "SAMPLE record — not real DCC data."
+    },
+    {
+      "license_number": "MMCPC000456",
+      "license_type": "cultivator_l1",
+      "legal_name": "Grow Ohio Pharmaceuticals LLC",
+      "trade_names": ["Butterfly Effect"],
+      "address": "200 Sample Farm Rd",
+      "city": "Newark",
+      "county": "Licking",
+      "zip": "43055",
+      "status": "active",
+      "issue_date": "2018-11-15",
+      "status_date": "2018-11-15",
+      "source_url": "https://example.invalid/dcc/registry/MMCPC000456",
+      "fetched_at": "2026-06-24T00:00:00Z",
+      "notes": "SAMPLE record — not real DCC data."
+    },
+    {
+      "license_number": "MMCPD000789",
+      "license_type": "dispensary",
+      "legal_name": "Sample Dispensary Holdings LLC",
+      "trade_names": ["Bloom Akron"],
+      "address": "300 Sample Retail Blvd",
+      "city": "Akron",
+      "county": "Summit",
+      "zip": "44312",
+      "status": "active",
+      "issue_date": "2020-01-10",
+      "status_date": "2020-01-10",
+      "source_url": "https://example.invalid/dcc/registry/MMCPD000789",
+      "fetched_at": "2026-06-24T00:00:00Z",
+      "notes": "SAMPLE record — not real DCC data."
+    },
+    {
+      "license_number": "MMCPT000321",
+      "license_type": "testing_lab",
+      "legal_name": "Sample Analytical Labs LLC",
+      "trade_names": [],
+      "address": "400 Sample Lab Ct",
+      "city": "Columbus",
+      "county": "Franklin",
+      "zip": "43215",
+      "status": "active",
+      "issue_date": "2019-03-22",
+      "status_date": "2019-03-22",
+      "source_url": "https://example.invalid/dcc/registry/MMCPT000321",
+      "fetched_at": "2026-06-24T00:00:00Z",
+      "notes": "SAMPLE record — not real DCC data."
+    }
+  ]
+}

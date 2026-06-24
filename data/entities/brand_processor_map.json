@@ -1,0 +1,219 @@
+{
+  "_comment": "Brand -> processor link seed map (P4 §5). processor_license_number is 'TBD' until work item V1 supplies real DCC license numbers. verification_status is 'verified' only for P4 §5 'Confirmed' rows with a known legal entity (>=2 sources each per P4 §6 O5); brands whose processor is unknown are 'unverified'.",
+  "links": [
+    {
+      "brand": "Citizen by Klutch",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Citizen by Klutch -> AT-CPC of Ohio LLC, Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Klutch family consolidation under AT-CPC of Ohio LLC"}
+      ]
+    },
+    {
+      "brand": "Cookies",
+      "processor_license_number": "TBD",
+      "link_type": "exclusive_ohio_license",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Cookies -> AT-CPC of Ohio LLC (Ohio license partnership), Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Cookies Ohio license partnership with Klutch / AT-CPC of Ohio LLC"}
+      ]
+    },
+    {
+      "brand": "Josh D",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Josh D -> AT-CPC of Ohio LLC, Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Klutch family consolidation under AT-CPC of Ohio LLC"}
+      ]
+    },
+    {
+      "brand": "Habitat by Klutch",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Habitat by Klutch -> AT-CPC of Ohio LLC, Confirmed by naming pattern"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Klutch family consolidation under AT-CPC of Ohio LLC"}
+      ]
+    },
+    {
+      "brand": "Klutch",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Klutch (own brand) -> AT-CPC of Ohio LLC, Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Klutch own brand operated by AT-CPC of Ohio LLC"}
+      ]
+    },
+    {
+      "brand": "Woodward Fine Cannabis",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Woodward Fine Cannabis is its OWN entity, separate from Klutch. Own cultivation/processing/dispensaries (woodwardcannabis.com)"},
+        {"type": "operator", "ref": "Krass correction (P4 §3)", "note": "Verified separate from Klutch directly by the operator"}
+      ]
+    },
+    {
+      "brand": "Rythm",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Rythm -> GTI Ohio LLC, Confirmed; verify exact entity name in V1"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Rythm operated by GTI (Green Thumb Industries) Ohio LLC"}
+      ]
+    },
+    {
+      "brand": "Buckeye Relief",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Buckeye Relief -> Buckeye Relief LLC, Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Buckeye Relief brand operated by Buckeye Relief LLC"}
+      ]
+    },
+    {
+      "brand": "Butterfly Effect",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Butterfly Effect -> Grow Ohio Pharmaceuticals LLC, Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Butterfly Effect operated by Grow Ohio Pharmaceuticals LLC"}
+      ]
+    },
+    {
+      "brand": "The Standard",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "The Standard -> Standard Wellness Holdings LLC, Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Standard family consolidation under Standard Wellness Holdings LLC"}
+      ]
+    },
+    {
+      "brand": "The Solid",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "The Solid -> Standard Wellness Holdings LLC, Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Standard family consolidation under Standard Wellness Holdings LLC"}
+      ]
+    },
+    {
+      "brand": "Pure Ohio Wellness",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Pure Ohio Wellness -> Pure Ohio Wellness LLC, Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Pure Ohio Wellness brand operated by Pure Ohio Wellness LLC"}
+      ]
+    },
+    {
+      "brand": "Hundred Percent Labs",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "Hundred Percent Labs -> Hundred Percent Labs LLC, Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "Hundred Percent Labs brand operated by Hundred Percent Labs LLC"}
+      ]
+    },
+    {
+      "brand": "King City Gardens",
+      "processor_license_number": "TBD",
+      "link_type": "in_house",
+      "effective_date": null,
+      "verification_status": "verified",
+      "verified_sources": [
+        {"type": "spec", "ref": "P4 §5", "note": "King City Gardens -> King City Gardens LLC, Confirmed"},
+        {"type": "investigation", "ref": "P1 investigation", "note": "King City Gardens brand operated by King City Gardens LLC"}
+      ]
+    },
+    {
+      "brand": "Edie Parker",
+      "processor_license_number": "TBD",
+      "link_type": "white_label",
+      "effective_date": null,
+      "verification_status": "unverified",
+      "verified_sources": [
+        {"type": "observation", "ref": "P4 §5", "note": "Brand observed in Bloom Akron; processor unknown"}
+      ]
+    },
+    {
+      "brand": "Timeless",
+      "processor_license_number": "TBD",
+      "link_type": "white_label",
+      "effective_date": null,
+      "verification_status": "unverified",
+      "verified_sources": [
+        {"type": "observation", "ref": "P4 §5", "note": "Brand observed; processor unknown"}
+      ]
+    },
+    {
+      "brand": "Ub Good",
+      "processor_license_number": "TBD",
+      "link_type": "white_label",
+      "effective_date": null,
+      "verification_status": "unverified",
+      "verified_sources": [
+        {"type": "observation", "ref": "P4 §5", "note": "Brand observed; processor unknown"}
+      ]
+    },
+    {
+      "brand": "Riviera Creek",
+      "processor_license_number": "TBD",
+      "link_type": "white_label",
+      "effective_date": null,
+      "verification_status": "unverified",
+      "verified_sources": [
+        {"type": "observation", "ref": "P4 §5", "note": "Brand observed; processor unknown"}
+      ]
+    },
+    {
+      "brand": "Airo",
+      "processor_license_number": "TBD",
+      "link_type": "white_label",
+      "effective_date": null,
+      "verification_status": "unverified",
+      "verified_sources": [
+        {"type": "observation", "ref": "P4 §5", "note": "Brand observed; processor unknown"}
+      ]
+    },
+    {
+      "brand": "Ancient Roots",
+      "processor_license_number": "TBD",
+      "link_type": "white_label",
+      "effective_date": null,
+      "verification_status": "unverified",
+      "verified_sources": [
+        {"type": "observation", "ref": "P4 §5", "note": "Brand observed; processor unknown"}
+      ]
+    }
+  ]
+}
