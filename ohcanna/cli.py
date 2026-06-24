@@ -79,8 +79,28 @@ def _cmd_analyze(args: argparse.Namespace) -> int:
     return 0
 
 
-def _cmd_build(_: argparse.Namespace) -> int:
-    print("publication layer not in this phase (P2 §4 'Not in Phase 1')")
+def _cmd_build(args: argparse.Namespace) -> int:
+    from ohcanna.publication.build import main as build_main
+
+    urls = build_main(out_dir=args.out_dir, data_root=args.data_root)
+    print(f"built {len(urls)} pages into {args.out_dir}/ (sitemap.xml lists all)")
+    return 0
+
+
+def _cmd_community(args: argparse.Namespace) -> int:
+    from ohcanna.community.moderation import ModerationQueue
+
+    queue = ModerationQueue(data_root=Path(args.data_root))
+    records = (
+        queue.list_by_status(args.status) if args.status else queue.list_pending()
+    )
+    label = args.status or "pending"
+    print(f"{len(records)} submission(s) [{label}]")
+    for sub in records:
+        sub_id = getattr(sub, "submission_id", None) or sub.get("submission_id")
+        brand = getattr(sub, "brand", None) or sub.get("brand", "?")
+        batch = getattr(sub, "batch_id", None) or sub.get("batch_id", "?")
+        print(f"  {sub_id}  {brand} / batch {batch}")
     return 0
 
 
@@ -106,8 +126,15 @@ def build_parser() -> argparse.ArgumentParser:
     a.add_argument("snapshot")
     a.set_defaults(func=_cmd_analyze)
 
-    b = sub.add_parser("build", help="(stub) publication-layer build")
+    b = sub.add_parser("build", help="render the static site from snapshots")
+    b.add_argument("--out-dir", default="public", help="output directory (default: public)")
+    b.add_argument("--data-root", default="data", help="snapshot data root (default: data)")
     b.set_defaults(func=_cmd_build)
+
+    c = sub.add_parser("community", help="inspect the COA moderation queue")
+    c.add_argument("--status", help="filter by submission status (default: pending)")
+    c.add_argument("--data-root", default="data", help="community data root (default: data)")
+    c.set_defaults(func=_cmd_community)
     return p
 
 

@@ -10,12 +10,23 @@ single-category snapshot and a mixed snapshot both analyze correctly.
 """
 from __future__ import annotations
 
-from ohcanna.analysis.rules import flower, vape
+from ohcanna.analysis.rules import (
+    concentrates,
+    edibles,
+    flower,
+    prerolls,
+    tinctures,
+    vape,
+)
 
 # category -> module exposing analyze_dataset(list[dict]) -> list[dict]
 RULE_MODULES = {
     "vape": vape,
     "flower": flower,
+    "edibles": edibles,
+    "concentrates": concentrates,
+    "pre-rolls": prerolls,
+    "tinctures": tinctures,
 }
 
 

@@ -40,13 +40,52 @@ FL-001 fires on 5 batches; FL-002 fires on 0 (Bloom's Akron flower THC
 tops out at 34%, within the plausible range). FL-002 stands as a guard
 and is exercised in tests with a synthetic 38% product.
 
-## Categories without rule sets yet
+## Edibles — `rules/edibles.py` (ED-001 … ED-003)
 
-Edibles (T8), concentrates (T9), pre-rolls (T10), and tinctures (T11)
-are specified in P2 §5 but not implemented. They are blocked on the
-scraper emitting real category data: the current Bloom category URLs for
-these return vape-format content rather than the category's own menu, so
-the category-specific fields (`dose_mg`, `extraction_method`,
-`cbd_thc_ratio`, …) are unpopulated. Once those scrapers are fixed and a
-fixture is recorded, each rule module drops into `engine.RULE_MODULES`
-with no other change.
+P2 §5 T8: "dosage accuracy by mg, ratio claims."
+
+| ID | Rule | Severity | Fires when |
+|----|------|----------|------------|
+| ED-001 | Total-THC-inconsistent-with-dose-times-count | watch | labeled `total_thc_mg` differs from `dose_mg` × `count_per_package` by > 10% |
+| ED-002 | Implausibly-high-single-dose | info | `dose_mg` > 100mg per piece |
+| ED-003 | Price-per-mg-above-cohort-median-for-format | info | MSRP per mg THC > 1.5× the median for that format (cohort needs ≥3 priced samples) |
+
+## Concentrates — `rules/concentrates.py` (CN-001, CN-002)
+
+P2 §5 T9: "solventless claim vs solvent disclosure."
+
+| ID | Rule | Severity | Fires when |
+|----|------|----------|------------|
+| CN-001 | Solventless-claim-with-solvent-extraction | watch | name/format claims solventless (rosin/hash/solventless/ice water/bubble) **and** `extraction_method` names a solvent (BHO/butane/CO2/distillate/propane/ethanol/hydrocarbon) |
+| CN-002 | Price-per-gram-above-cohort-median-for-format | info | MSRP/g > 1.5× the median for that format (cohort needs ≥3 priced samples) |
+
+## Pre-rolls — `rules/prerolls.py` (PR-001, PR-002)
+
+P2 §5 T10: "weight accuracy."
+
+| ID | Rule | Severity | Fires when |
+|----|------|----------|------------|
+| PR-001 | Missing-or-zero-weight | info | `weight_grams` missing or zero (weight accuracy can't be checked) |
+| PR-002 | Price-per-gram-above-cohort-median-for-format | info | MSRP/g > 1.5× the median for that format (pack weight = `weight_grams` × `count_per_package` when both present; cohort needs ≥3 priced samples) |
+
+## Tinctures — `rules/tinctures.py` (TN-001, TN-002)
+
+P2 §5 T11: "ratio claims."
+
+| ID | Rule | Severity | Fires when |
+|----|------|----------|------------|
+| TN-001 | CBD-dominant-ratio-with-high-THC-concentration | watch | `cbd_thc_ratio` is CBD-dominant (CBD share ≥ 2× THC share) **and** `total_thc_mg` / `volume_ml` > 10 mg/ml |
+| TN-002 | Price-per-mg-above-cohort-median-for-format | info | MSRP per mg THC > 1.5× the median for that format (cohort needs ≥3 priced samples) |
+
+### Validation status (T8–T11)
+
+These four rule sets are validated **only against synthetic product
+dicts**, pending a scraper fix. The current Bloom category URLs for
+edibles, concentrates, pre-rolls, and tinctures return vape-format
+content rather than the category's own menu, so the category-specific
+fields (`dose_mg`, `extraction_method`, `cbd_thc_ratio`, …) are
+unpopulated (0%) in real snapshots. Each rule is exercised with a crafted
+positive case (fires) and a crafted negative case (silent) in
+`tests/test_analysis_{edibles,concentrates,prerolls,tinctures}.py`. Once
+the scrapers emit real category data and a fixture is recorded, each
+module drops into `engine.RULE_MODULES` with no other change.
