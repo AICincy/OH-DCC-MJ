@@ -47,25 +47,69 @@ with a per-category rollup mirrored to `data/latest/bloom_<category>.json`.
 
 ```
 ohcanna/                 package
-  cli.py                 python -m ohcanna {scrape|analyze|build}
+  cli.py                 python -m ohcanna {scrape|analyze|build|community}
   models.py              Product (+ category subclasses), Flag
-  storage.py             atomic snapshot writes
+  storage.py             atomic snapshot writes, fixture recording
   brands.py              brand registry, legal-entity resolution
   sources/
-    base.py              Source ABC
-    bloom.py             Bloom Marijuana (7 locations, 7 categories)
+    base.py              Source ABC (fetch_raw / parse_raw / scrape_all)
+    bloom.py             Bloom Marijuana (production-verified)
+    dutchie.py           generic Dutchie GraphQL (synthetic-validated)
+    locals_cannabis.py   Locals scaffold (needs live validation)
   analysis/
+    engine.py            category-dispatched analyzer
     cohort.py
-    rules/vape.py        F-001..F-005
+    rules/               vape (F-001..F-005), flower (FL-001..FL-002),
+                         edibles/concentrates/prerolls/tinctures (synthetic)
+  entities/
+    graph.py             processor / brand / dispensary rollups
+    dcc_registry.py      DCC license schema + Path-B ingestion (P4)
+  publication/
+    render.py            federal-docket HTML helpers (no JS)
+    build.py             static-site generator + entity pages + sitemap
+  community/
+    accounts.py          JSON-backed accounts (salted email hashes, no raw PII)
+    moderation.py        COA submission state machine + moderation queue
+    service.py           submit / moderate facade
   data/
     brands.yaml
     fixtures/            recorded HTML for offline tests (see below)
 data/
   snapshots/<date>/      per-day, per-source, per-location, per-category JSON
   latest/                rolling per-category rollups
-docs/                    P2 / P3 / P4 / A1 specs
-tests/                   pytest, no network
+  entities/              DCC registry + brand→processor seed map
+  community/             accounts / submissions / decisions (JSON)
+docs/                    P2 / P3 / P4 / A1 specs, flag-rules catalog
+tests/                   pytest, no network (94 passing)
 ```
+
+## Build the site
+
+```bash
+python -m ohcanna build --out-dir public      # renders static HTML + sitemap.xml
+python -m ohcanna community --status pending   # inspect the COA moderation queue
+```
+
+## Maturity / what still needs a live run
+
+The swarm built every layer that is testable offline. These pieces are
+structurally complete but **gated on network access this environment does
+not have**, and must be validated against the live target before
+production:
+
+- **Dutchie / Locals sources** — GraphQL shape and CSS selectors are
+  modeled, not captured live. Record one fixture per source via
+  `--record-fixtures` and confirm the selectors before trusting output.
+- **Non-vape flag rules (edibles/concentrates/pre-rolls/tinctures)** —
+  validated against synthetic data only; the Bloom category URLs for
+  these currently return vape-format content (a scraper bug), so there is
+  no real category data to test against yet. See `docs/flag-rules.md`.
+- **DCC registry** — schema + local-file (Path B) ingestion are built;
+  the live registry fetch and URL verification are work item V1 (P4 §2).
+- **Publication hosting & community deployment** — the SSG output and the
+  community domain layer are complete, but choosing a host (P2 §7 DH) and
+  standing up real auth / COA file upload are deployment concerns, not in
+  this code.
 
 ## Fixtures
 
@@ -97,19 +141,25 @@ the CLI flag is awkward.
   "deceptive," "misleading," or "false" in user-facing copy.
 - No PII. Scrape only product and entity data.
 
-## What's not in this phase
+## Phase coverage
 
-Per P2 §4 "Not in Phase 1":
+All phases now have a built, offline-tested layer in this repo:
 
-- Static-site generator / publication layer
-- Entity rollup pages (per-cultivator, per-processor, per-brand, per-dispensary)
-- DCC license registry integration (Phase 3, see P4)
-- Additional sources beyond Bloom (Phase 2)
-- Flag rules for edibles / concentrates / pre-rolls / tinctures (Phase 2
-  T8–T11; blocked on those scrapers emitting real category data — see
-  `docs/flag-rules.md`). Vape (F-001–F-005) and flower (FL-001–FL-002)
-  rule sets are implemented.
-- User accounts, COA submission, moderation (not in OHCanna at all)
+| Area | Status |
+|------|--------|
+| Phase 1 — Bloom scrape, all categories, vape flags | ✅ merged |
+| Phase 2 — flower + edibles/concentrates/prerolls/tinctures flag rules | ✅ (non-vape synthetic-validated) |
+| Phase 2 — processor / brand / dispensary rollups | ✅ data layer |
+| Phase 2 — additional sources (Dutchie, Locals) | ⚠️ scaffold, needs live validation |
+| Phase 2 — static-site publication + entity pages + sitemap | ✅ |
+| Phase 3 — DCC license registry schema + ingestion | ✅ Path B (live fetch = V1) |
+| Community — accounts / COA submission / moderation | ✅ JSON-backed domain layer |
+
+See **Maturity / what still needs a live run** above for the
+network-gated edges. The community layer was added at operator direction,
+superseding the earlier P2 "not in OHCanna" stance; it is built
+moderation-first per the P2 §7 DR decision (revisit with an explicit
+moderation plan).
 
 ## License
 
