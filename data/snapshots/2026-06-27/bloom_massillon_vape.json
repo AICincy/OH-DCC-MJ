@@ -1,0 +1,1447 @@
+[
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2805821",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2805821+gram/bloom-cannabis-northern-lights-distillate-cart-1g-indica",
+    "name": "Northern Lights",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 82.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2225623",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2225623+gram/woodward-fine-cannabis-banana-mac-cured-resin-cart-1g-sativa",
+    "name": "Banana Mac",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "cured resin cart",
+    "strain_type": "sativa",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 55.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2656631",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2656631+gram/woodward-fine-cannabis-sour-og-cured-resin-cart-1g-hybrid",
+    "name": "Sour Og",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "cured resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 49.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2457184",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2457184+gram/ember-super-lemon-disposable-1g-sativa",
+    "name": "Super Lemon",
+    "brand": "Ember",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 48.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Humulene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2656632",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2656632+gram/woodward-fine-cannabis-sunset-sherb-cured-resin-cart-1g-indica",
+    "name": "Sunset Sherb",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "cured resin cart",
+    "strain_type": "indica",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 49.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2708269",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2708269+gram/buckeye-relief-pineapple-upside-down-cake-live-resin-cart-1g-indica",
+    "name": "Pineapple Upside-down Cake",
+    "brand": "Buckeye Relief",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Ocimene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2561992",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2561992+gram/woodward-fine-cannabis-moon-powder-cured-resin-cart-1g-hybrid",
+    "name": "Moon Powder",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "cured resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 49.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2818676",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2818676+gram/the-standard-c-r-b-live-resin-disposable-1g",
+    "name": "C.r.b.",
+    "brand": "The Standard",
+    "product_format": "live resin disposable",
+    "strain_type": null,
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2725056",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2725056+gram/rythm-fat-billy-live-resin-cart-1g-hybrid",
+    "name": "Fat Billy",
+    "brand": "Rythm",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": 35.35,
+    "msrp": 50.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2712967",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2712967+half_gram/ub-good-labs-beach-dosi-live-resin-cart-0-5g-indica",
+    "name": "Beach Dosi",
+    "brand": "Ub Good",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2799908",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2799908+half_gram/butterfly-effect-triple-chocolate-chip-live-resin-cart-0-5g-indica",
+    "name": "Triple Chocolate Chip",
+    "brand": "Butterfly Effect",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 77.0,
+    "sale_price": null,
+    "msrp": 30.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2774937",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2774937+gram/king-city-gardens-simple-orange-live-resin-cart-1g-hybrid",
+    "name": "Simple Orange",
+    "brand": "King City Gardens",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 69.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "1403686",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1403686+gram/rythm-head-cracker-live-resin-cart-1g-indica",
+    "name": "Head Cracker",
+    "brand": "Rythm",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 74.0,
+    "sale_price": 35.35,
+    "msrp": 50.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2457072",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2457072+gram/ember-blueberry-disposable-1g-indica",
+    "name": "Blueberry",
+    "brand": "Ember",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 48.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "1207077",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1207077+gram/rythm-animal-face-live-resin-cart-1g-indica",
+    "name": "Animal Face",
+    "brand": "Rythm",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 73.0,
+    "sale_price": 35.35,
+    "msrp": 50.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2830950",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2830950+gram/citizen-by-klutch-ice-cream-cake-x-grape-rtz-full-spectrum-co2-ikrusher-disposable-1g-indica",
+    "name": "Ice Cream Cake X Grape Rtz",
+    "brand": "Citizen by Klutch",
+    "product_format": "full spec disposable",
+    "strain_type": "indica",
+    "thc_percent": 69.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2178062",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2178062+half_gram/cookies-blue-raz-full-spectrum-co2-cart-0-5g-indica",
+    "name": "Blue Raz",
+    "brand": "Cookies",
+    "product_format": "full spec cart",
+    "strain_type": "indica",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 35.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2362946",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2362946+half_gram/airo-garlic-breath-2-0-live-resin-series-0-5g-indica",
+    "name": "Garlic Breath 2.0",
+    "brand": "Airo",
+    "product_format": "live resin airo pod",
+    "strain_type": "indica",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2817529",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2817529+gram/josh-d-og-kush-story-full-spectrum-co2-ikrusher-disposable-1g-indica",
+    "name": "Og Kush Story",
+    "brand": "Josh D",
+    "product_format": "full spec disposable",
+    "strain_type": "indica",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2817442",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2817442+gram/citizen-by-klutch-zoap-x-orange-43-full-spectrum-co2-luster-pod-1g-hybrid",
+    "name": "Zoap X Orange 43",
+    "brand": "Citizen by Klutch",
+    "product_format": "full spec luster pod",
+    "strain_type": "hybrid",
+    "thc_percent": 70.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2165734",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2165734+half_gram/ancient-roots-chimera-3-live-rosin-cart-0-5g-indica",
+    "name": "Chimera #3",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2706646",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2706646+gram/citizen-by-klutch-jealousy-full-spectrum-co2-ikrusher-disposable-1g-indica",
+    "name": "Jealousy",
+    "brand": "Citizen by Klutch",
+    "product_format": "full spec disposable",
+    "strain_type": "indica",
+    "thc_percent": 68.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2774364",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2774364+gram/josh-d-motorbreath-full-spectrum-co2-ikrusher-disposable-1g-indica",
+    "name": "Motorbreath",
+    "brand": "Josh D",
+    "product_format": "full spec disposable",
+    "strain_type": "indica",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2760251",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2760251+gram/cookies-berniehana-butter-full-spectrum-co2-ikrusher-disposable-1g-indica",
+    "name": "Berniehana Butter",
+    "brand": "Cookies",
+    "product_format": "full spec disposable",
+    "strain_type": "indica",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2817439",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2817439+gram/citizen-by-klutch-big-head-full-spectrum-co2-ikrusher-disposable-1g-indica",
+    "name": "Big Head",
+    "brand": "Citizen by Klutch",
+    "product_format": "full spec disposable",
+    "strain_type": "indica",
+    "thc_percent": 62.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2546508",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2546508+gram/buckeye-relief-2-strainz-live-resin-cart-1g-hybrid",
+    "name": "2 Strainz",
+    "brand": "Buckeye Relief",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2657896",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2657896+gram/timeless-green-crush-disposable-1g-sativa",
+    "name": "Green Crush",
+    "brand": "Timeless",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 85.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Ocimene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2322345",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2322345+half_gram/airo-lemon-dosi-live-resin-series-pod-0-5g-indica",
+    "name": "Lemon Dosi",
+    "brand": "Airo",
+    "product_format": "live resin airo pod",
+    "strain_type": "indica",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2011689",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2011689+gram/certified-cultivators-acapulco-gold-flex-disposable-1g-sativa",
+    "name": "Acapulco Gold",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Humulene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2191665",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2191665+half_gram/rythm-banana-cream-solventless-live-rosin-cart-0-5g-indica",
+    "name": "Banana Cream",
+    "brand": "Rythm",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 78.0,
+    "sale_price": 35.35,
+    "msrp": 50.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2812043",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2812043+half_gram/ancient-roots-pyxystyx-live-rosin-cart-0-5g-hybrid",
+    "name": "Pyxystyx",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2811806",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2811806+half_gram/ancient-roots-pyxystyx-live-rosin-disposable-0-5g-hybrid",
+    "name": "Pyxystyx",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 52.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2246776",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2246776+half_gram/rythm-dulce-de-uva-live-rosin-solventless-cart-0-5g-indica",
+    "name": "Dulce De Uva",
+    "brand": "Rythm",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 76.0,
+    "sale_price": 35.35,
+    "msrp": 50.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2487707",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2487707+half_gram/rythm-black-maple-live-rosin-solventless-cart-0-5g-indica",
+    "name": "Black Maple",
+    "brand": "Rythm",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 70.0,
+    "sale_price": 35.35,
+    "msrp": 50.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2684195",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2684195+half_gram/pure-ohio-wellness-a-b-live-rosin-cart-0-5g-indica",
+    "name": "A & B",
+    "brand": "Pure Ohio Wellness",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 35.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2687761",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2687761+gram/ub-good-gold-slice-cart-1g-indica",
+    "name": "Gold Slice",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2738137",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2738137+gram/timeless-noir-hash-plant-live-resin-terp-disposable-1g-indica",
+    "name": "Hash Plant",
+    "brand": "Timeless",
+    "product_format": "live resin disposable",
+    "strain_type": "indica",
+    "thc_percent": 83.0,
+    "sale_price": null,
+    "msrp": 70.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG",
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "1821600",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1821600+half_gram/riviera-creek-garlic-cookies-live-rosin-disposable-0-5g-indica",
+    "name": "Garlic Cookies",
+    "brand": "Riviera Creek",
+    "product_format": "live rosin disposable",
+    "strain_type": "indica",
+    "thc_percent": 76.0,
+    "sale_price": 37.12,
+    "msrp": 49.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2327398",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2327398+gram/timeless-atf-disposable-1g-sativa",
+    "name": "Atf",
+    "brand": "Timeless",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 85.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2573566",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2573566+gram/citizen-by-klutch-permanent-marker-full-spectrum-ikrusher-disposable-1g-indica",
+    "name": "Permanent Marker",
+    "brand": "Citizen by Klutch",
+    "product_format": "full spec disposable",
+    "strain_type": "indica",
+    "thc_percent": 70.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "1589989",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1589989+half_gram/ub-good-cherry-limeade-disposable-0-5g-hybrid",
+    "name": "Cherry Limeade- Disposable",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2399926",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2399926+half_gram/klutch-hash-burger-live-hash-rosin-disposable-0-5g-hybrid",
+    "name": "Hash Burger",
+    "brand": "Klutch",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "1097594",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1097594+half_gram/butterfly-effect-layer-cake-co2-cart-0-5g-indica",
+    "name": "Layer Cake",
+    "brand": "Butterfly Effect",
+    "product_format": "CO2 cart",
+    "strain_type": "indica",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 32.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2600799",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2600799+half_gram/riviera-creek-brier-hill-live-rosin-disposable-0-5g-hybrid",
+    "name": "Brier Hill",
+    "brand": "Riviera Creek",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 76.0,
+    "sale_price": 37.12,
+    "msrp": 49.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2689297",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2689297+half_gram/firelands-scientific-starbux-live-rosin-disposable-0-5g-indica",
+    "name": "Starbux",
+    "brand": "Firelands Scientific",
+    "product_format": "live rosin disposable",
+    "strain_type": "indica",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 55.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2658644",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2658644+gram/timeless-forbidden-fuel-disposable-1g-indica",
+    "name": "Forbidden Fuel",
+    "brand": "Timeless",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 87.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2701574",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2701574+gram/ub-good-yellow-split-cart-1g-hybrid",
+    "name": "Yellow Split",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 79.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2635064",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2635064+gram/buckeye-relief-garlic-breath-2-0-live-resin-dank-tank-disposable-1g-indica",
+    "name": "Garlic Breath 2.0",
+    "brand": "Buckeye Relief",
+    "product_format": "live resin disposable",
+    "strain_type": "indica",
+    "thc_percent": 79.0,
+    "sale_price": null,
+    "msrp": 65.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2725103",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2725103+gram/rythm-scout-dawg-og-live-resin-cart-1g-hybrid",
+    "name": "Scout Dawg Og",
+    "brand": "Rythm",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": 35.35,
+    "msrp": 50.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2823469",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2823469+gram/certified-cultivators-garlic-juice-live-liquid-diamonds-ikrusher-disposable-1g-indica",
+    "name": "Garlic Juice",
+    "brand": "Certified Cultivators",
+    "product_format": "live liquid diamond disposable",
+    "strain_type": "indica",
+    "thc_percent": 79.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2730571",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2730571+gram/bloom-cannabis-acapulco-gold-distillate-cart-1g-sativa",
+    "name": "Acapulco Gold",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "sativa",
+    "thc_percent": 80.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "1954288",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1954288+gram/bloom-cannabis-ss-diesel-cart-1g-sativa",
+    "name": "Ss Diesel",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "sativa",
+    "thc_percent": 85.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2457074",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2457074+gram/ember-pineapple-express-disposable-1g-hybrid",
+    "name": "Pineapple Express",
+    "brand": "Ember",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 48.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Terpinolene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "1567580",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1567580+half_gram/ub-good-yellow-split-disposable-0-5g-hybrid",
+    "name": "Yellow Split",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 83.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2716705",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2716705+gram/josh-d-crowd-surfer-full-spectrum-co2-ikrusher-disposable-1g-hybrid",
+    "name": "Crowd Surfer",
+    "brand": "Josh D",
+    "product_format": "full spec disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2639437",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2639437+gram/bloom-cannabis-thunderbird-og-flexcell-disposable-1g-hybrid",
+    "name": "Thunderbird Og",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 84.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "1567613",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1567613+half_gram/ub-good-blue-rush-disposable-0-5g-sativa",
+    "name": "Blue Rush",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2787257",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2787257+gram/bloom-cannabis-purple-martian-cart-1g-hybrid",
+    "name": "Purple Martian",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 84.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "1944140",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1944140+gram/rythm-afternoon-delight-live-resin-cart-1g-hybrid",
+    "name": "Afternoon Delight",
+    "brand": "Rythm",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 76.0,
+    "sale_price": 35.35,
+    "msrp": 50.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2791296",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2791296+gram/bloom-cannabis-hippie-crasher-cart-1g-indica",
+    "name": "Hippie Crasher",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 86.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-27T14:30:36Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  }
+]
