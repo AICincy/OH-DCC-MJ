@@ -28,7 +28,7 @@ brands:
     legal_entity: "Grow Ohio Pharmaceuticals LLC"
 
   - display_name: "Citizen by Klutch"
-    aliases: ["Citizen By Klutch"]
+    aliases: ["Citizen By Klutch", "The Citizen by Klutch"]
     legal_entity: "AT-CPC of Ohio LLC"
 
   - display_name: "Habitat by Klutch"

@@ -10,7 +10,7 @@ The analyzer is category-dispatched (`ohcanna/analysis/engine.py`): each
 product is routed to the rule set for its `category`. Categories without
 a rule set yet pass through with no flags.
 
-## Vape — `rules/vape.py` (F-001 … F-005)
+## Vape — `rules/vape.py` (F-001 … F-006)
 
 | ID | Rule | Severity | Fires when |
 |----|------|----------|------------|
@@ -19,8 +19,17 @@ a rule set yet pass through with no flags.
 | F-003 | High-THC-with-CBD-in-non-CBD-cultivar | watch | THC ≥ 70% **and** CBD present |
 | F-004 | Distillate-disposable-with-many-cannabinoids | info | format mentions "distillate" **and** ≥2 minor cannabinoids |
 | F-005 | Price-far-above-cohort-median-for-format | info | MSRP/g > 1.5× the median for that format (cohort needs ≥3 priced samples) |
+| F-006 | Non-live-extraction-below-same-strain-live-resin-THC | info | a non-live extraction (CO2 / full-spectrum / distillate) tests below 0.85× the same brand + strain's live-resin/rosin median THC |
 
-Verified distribution: 108 of 420 POC vape products carry ≥1 flag.
+Verified distribution: 108 of 420 POC vape products carry ≥1 flag (F-001…F-005).
+
+F-006 is the cross-extraction comparison the cultivator catalog exists to
+surface — e.g. a Citizen CO2 vape against the same line's live resin (P2 §9:
+context, not an accusation). It needs an `extraction_method` in the product's
+`extra` to participate, so it only applies to sources that capture one
+(Klutch today); Bloom vapes neither seed nor trip it. **Synthetic-validated
+only** — calibrate the 0.85 ratio against a live Klutch capture before
+trusting the real distribution.
 
 ## Flower — `rules/flower.py` (FL-001 … FL-002)
 

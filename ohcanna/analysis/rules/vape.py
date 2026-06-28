@@ -7,9 +7,17 @@ flags so consumers can verify against the COA.
 from __future__ import annotations
 
 from dataclasses import asdict
+from statistics import median
+from typing import Optional
 
 from ohcanna.analysis.cohort import compute_cohort_medians
+from ohcanna.brands import legal_entity_for
 from ohcanna.models import Flag
+
+# F-006: a non-live-extraction vape running this far below the same brand +
+# strain's live-resin/rosin median THC is the comparison the catalog exists
+# to surface (a CO2 vape vs the same line's live resin).
+F006_RATIO = 0.85
 
 RULES = [
     {
@@ -82,7 +90,66 @@ RULES = [
             "cost difference."
         ),
     },
+    {
+        "id": "F-006",
+        "name": "Non-live-extraction-below-same-strain-live-resin-THC",
+        "severity": "info",
+        "trigger": None,  # cohort-dependent, applied separately
+        "explain": (
+            "A CO2 / full-spectrum / distillate vape testing well below the "
+            "same producer and strain's live-resin THC. Extraction methods "
+            "legitimately differ in potency, so this is context, not a "
+            "labeling concern; compare the COAs side by side."
+        ),
+    },
 ]
+
+
+def _extract_extra(product: dict, key: str):
+    """Read a Klutch-style field from `extra`, tolerating a top-level copy."""
+    extra = product.get("extra")
+    if isinstance(extra, dict) and extra.get(key) is not None:
+        return extra.get(key)
+    return product.get(key)
+
+
+def _is_live_extraction(method) -> bool:
+    return bool(method) and "live" in str(method).lower()
+
+
+def _producer_strain_key(product: dict) -> Optional[str]:
+    """Group key for F-006: (producer, strain).
+
+    Keyed on the legal entity so sibling brands of one processor compare
+    together — Klutch sells the same strain as live resin under "Klutch" and
+    as CO2 under "Citizen by Klutch", both AT-CPC of Ohio LLC, and that is
+    exactly the pair the catalog exists to surface. Falls back to the brand
+    label when no legal entity is registered.
+    """
+    brand = (product.get("brand") or "").strip()
+    producer = (legal_entity_for(brand) or brand).lower()
+    strain = (_extract_extra(product, "strain") or "").strip().lower()
+    if producer and strain:
+        return f"{producer}||{strain}"
+    return None
+
+
+def compute_brand_strain_liveresin_medians(products: list[dict]) -> dict[str, float]:
+    """Median THC% per (producer, strain) over live-resin/rosin vapes only.
+
+    These are the reference potencies F-006 compares non-live extractions
+    against. Requires an `extraction_method` (in `extra`) to participate, so
+    sources that don't carry one (e.g. Bloom) never seed or trip this rule.
+    """
+    by_key: dict[str, list[float]] = {}
+    for p in products:
+        if not _is_live_extraction(_extract_extra(p, "extraction_method")):
+            continue
+        key = _producer_strain_key(p)
+        thc = p.get("thc_percent")
+        if key and thc is not None:
+            by_key.setdefault(key, []).append(thc)
+    return {k: median(v) for k, v in by_key.items() if v}
 
 
 def evaluate_product(product: dict) -> list[Flag]:
@@ -100,15 +167,19 @@ def evaluate_product(product: dict) -> list[Flag]:
     return flags
 
 
-def evaluate_with_cohort(product: dict, cohort_medians: dict) -> list[Flag]:
+def evaluate_with_cohort(
+    product: dict,
+    cohort_medians: dict,
+    liveresin_medians: Optional[dict] = None,
+) -> list[Flag]:
     flags = evaluate_product(product)
     fmt = (product.get("product_format") or "").lower()
     size = product.get("cart_size_grams") or 0
     msrp = product.get("msrp") or 0
     if fmt and size and msrp:
         price_per_g = msrp / size
-        median = cohort_medians.get(fmt)
-        if median and price_per_g > median * 1.5:
+        median_price = cohort_medians.get(fmt)
+        if median_price and price_per_g > median_price * 1.5:
             flags.append(
                 Flag(
                     flag_id="F-005",
@@ -116,8 +187,28 @@ def evaluate_with_cohort(product: dict, cohort_medians: dict) -> list[Flag]:
                     severity="info",
                     explanation=(
                         f"MSRP ${price_per_g:.2f}/g vs cohort median "
-                        f"${median:.2f}/g for {fmt}. Premium of "
-                        f"{(price_per_g / median - 1) * 100:.0f}%."
+                        f"${median_price:.2f}/g for {fmt}. Premium of "
+                        f"{(price_per_g / median_price - 1) * 100:.0f}%."
+                    ),
+                )
+            )
+
+    # F-006: non-live extraction below the same brand+strain live-resin median.
+    method = _extract_extra(product, "extraction_method")
+    thc = product.get("thc_percent")
+    if liveresin_medians and method and not _is_live_extraction(method) and thc is not None:
+        key = _producer_strain_key(product)
+        ref = liveresin_medians.get(key) if key else None
+        if ref and thc < ref * F006_RATIO:
+            flags.append(
+                Flag(
+                    flag_id="F-006",
+                    rule_name="Non-live-extraction-below-same-strain-live-resin-THC",
+                    severity="info",
+                    explanation=(
+                        f"{method} THC {thc:.1f}% vs the same producer's "
+                        f"live-resin median {ref:.1f}% for this strain — "
+                        f"{(1 - thc / ref) * 100:.0f}% lower."
                     ),
                 )
             )
@@ -126,9 +217,10 @@ def evaluate_with_cohort(product: dict, cohort_medians: dict) -> list[Flag]:
 
 def analyze_dataset(products: list[dict]) -> list[dict]:
     medians = compute_cohort_medians(products)
+    liveresin_medians = compute_brand_strain_liveresin_medians(products)
     results = []
     for p in products:
-        flags = evaluate_with_cohort(p, medians)
+        flags = evaluate_with_cohort(p, medians, liveresin_medians)
         results.append({
             **p,
             "flags": [asdict(f) for f in flags],

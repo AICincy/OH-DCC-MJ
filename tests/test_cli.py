@@ -1,7 +1,9 @@
 """CLI smoke tests. --dry-run prints the matrix without touching the network."""
 from __future__ import annotations
 
+from ohcanna import cli
 from ohcanna.cli import main
+from ohcanna.sources.klutch import KlutchSource
 
 
 def test_scrape_dry_run_lists_full_matrix(capsys):
@@ -19,6 +21,30 @@ def test_scrape_dry_run_narrowed(capsys):
     assert rc == 0
     out = capsys.readouterr().out
     assert "matrix: 1 locations x 1 categories = 1 sub-scrapes" in out
+
+
+def test_scrape_dry_run_klutch(capsys):
+    rc = main(["scrape", "--source", "klutch", "--dry-run"])
+    assert rc == 0
+    out = capsys.readouterr().out
+    # one statewide "catalog" location x the six mapped categories
+    assert "matrix: 1 locations x 6 categories = 6 sub-scrapes" in out
+    assert "- catalog / vape" in out
+
+
+def test_scrape_delay_propagates_to_source(monkeypatch):
+    """--delay must be set on a source that supports it before scraping."""
+    seen = {}
+
+    class FakeKlutch(KlutchSource):
+        def scrape_all(self, *args, **kwargs):
+            seen["delay"] = self.delay
+            return iter(())
+
+    monkeypatch.setitem(cli.REGISTRY, "klutch", FakeKlutch)
+    rc = main(["scrape", "--source", "klutch", "--category", "vape", "--delay", "0.5"])
+    assert rc == 0
+    assert seen["delay"] == 0.5
 
 
 def test_build_renders_site(capsys, tmp_path):

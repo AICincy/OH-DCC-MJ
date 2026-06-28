@@ -36,6 +36,11 @@ python -m ohcanna scrape --source bloom
 # Narrow to one slice (good for iterating on a parser):
 python -m ohcanna scrape --source bloom --location akron --category vape
 
+# Klutch cultivator catalog (one statewide "catalog" location). Each category
+# does a WordPress-API discovery pass then an N+1 per-product page fetch for
+# lab values + pricing; --delay tunes the inter-request sleep (default 2.0s):
+python -m ohcanna scrape --source klutch --category vape --delay 1.0
+
 # Apply F-001..F-005 consistency flags to a snapshot:
 python -m ohcanna analyze data/snapshots/<YYYY-MM-DD>/bloom_akron_vape.json
 ```
@@ -55,6 +60,7 @@ ohcanna/                 package
     base.py              Source ABC (fetch_raw / parse_raw / scrape_all)
     bloom.py             Bloom Marijuana (production-verified)
     dutchie.py           generic Dutchie GraphQL (synthetic-validated)
+    klutch.py            Klutch cultivator catalog + per-page lab data
     locals_cannabis.py   Locals scaffold (needs live validation)
   analysis/
     engine.py            category-dispatched analyzer
@@ -80,7 +86,7 @@ data/
   entities/              DCC registry + brand→processor seed map
   community/             accounts / submissions / decisions (JSON)
 docs/                    P2 / P3 / P4 / A1 specs, flag-rules catalog
-tests/                   pytest, no network (94 passing)
+tests/                   pytest, no network (110 passing)
 ```
 
 ## Build the site
@@ -100,6 +106,12 @@ production:
 - **Dutchie / Locals sources** — GraphQL shape and CSS selectors are
   modeled, not captured live. Record one fixture per source via
   `--record-fixtures` and confirm the selectors before trusting output.
+- **Klutch source** — WordPress-API field paths and the per-page
+  `data-page` lab record were modeled from real captures (2026-06-27) but
+  not run live here. Record a fixture per category via `--record-fixtures`
+  (e.g. `--source klutch --category vape --record-fixtures --delay 0.8`) and
+  confirm the field paths before trusting output. The `F-006`
+  extraction-mismatch flag's 0.85 ratio is synthetic-calibrated.
 - **Non-vape flag rules (edibles/concentrates/pre-rolls/tinctures)** —
   validated against synthetic data only; the Bloom category URLs for
   these currently return vape-format content (a scraper bug), so there is
@@ -150,7 +162,8 @@ All phases now have a built, offline-tested layer in this repo:
 | Phase 1 — Bloom scrape, all categories, vape flags | ✅ merged |
 | Phase 2 — flower + edibles/concentrates/prerolls/tinctures flag rules | ✅ (non-vape synthetic-validated) |
 | Phase 2 — processor / brand / dispensary rollups | ✅ data layer |
-| Phase 2 — additional sources (Dutchie, Locals) | ⚠️ scaffold, needs live validation |
+| Phase 2 — additional sources (Dutchie, Locals, Klutch) | ⚠️ scaffold, needs live validation |
+| Phase 2 — Klutch lab data (THC/terpene/cannabinoid panels, pricing) + F-006 extraction-mismatch flag | ✅ (synthetic-validated; live run network-gated) |
 | Phase 2 — static-site publication + entity pages + sitemap | ✅ |
 | Phase 3 — DCC license registry schema + ingestion | ✅ Path B (live fetch = V1) |
 | Community — accounts / COA submission / moderation | ✅ JSON-backed domain layer |
