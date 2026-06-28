@@ -23,6 +23,11 @@ def _cmd_scrape(args: argparse.Namespace) -> int:
         print(f"unknown source: {args.source}. options: {sorted(REGISTRY)}", file=sys.stderr)
         return 2
     src = src_cls()
+    # --delay tunes the inter-request sleep for sources that support it
+    # (e.g. Klutch's N+1 per-product page fetch). Sources without a `delay`
+    # attribute keep their built-in rate limit.
+    if args.delay is not None and hasattr(src, "delay"):
+        src.delay = args.delay
 
     locations = [args.location] if args.location else src.list_locations()
     categories = [args.category] if args.category else src.list_categories()
@@ -116,6 +121,10 @@ def build_parser() -> argparse.ArgumentParser:
     s.add_argument("--category", help="restrict to one category")
     s.add_argument("--dry-run", action="store_true",
                    help="print the (location, category) matrix and exit")
+    s.add_argument("--delay", type=float, default=None,
+                   help="seconds to sleep between requests, for sources that "
+                        "support it (e.g. klutch). Default: the source's "
+                        "built-in rate limit (2.0s, P2 §9).")
     s.add_argument("--record-fixtures", action="store_true",
                    help="save raw HTML/JSON payloads under ohcanna/data/fixtures/ "
                         "for regression tests (see README §Fixtures). Also honors "
