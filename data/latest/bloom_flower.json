@@ -13,7 +13,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -35,7 +35,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -54,10 +54,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 31.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -76,10 +76,10 @@
     "product_format": "whole buds",
     "strain_type": null,
     "thc_percent": 27.0,
-    "sale_price": 126.35,
+    "sale_price": null,
     "msrp": 180.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -98,10 +98,10 @@
     "product_format": "smalls",
     "strain_type": "sativa",
     "thc_percent": 30.0,
-    "sale_price": 78.75,
+    "sale_price": null,
     "msrp": 112.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -120,10 +120,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -142,37 +142,15 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 27.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Caryo",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "flower",
-    "product_id": "2761899",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2761899+quarter_ounce/riviera-creek-sohio-small-buds-7g-sativa",
-    "name": "Sohio",
-    "brand": "Riviera Creek",
-    "product_format": "smalls",
-    "strain_type": "sativa",
-    "thc_percent": 26.0,
-    "sale_price": 70.35,
-    "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -189,11 +167,33 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "flower",
+    "product_id": "2761899",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2761899+quarter_ounce/riviera-creek-sohio-small-buds-7g-sativa",
+    "name": "Sohio",
+    "brand": "Riviera Creek",
+    "product_format": "smalls",
+    "strain_type": "sativa",
+    "thc_percent": 26.0,
+    "sale_price": null,
+    "msrp": 100.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
       "Caryo"
     ]
   },
@@ -208,10 +208,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -233,7 +233,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -252,10 +252,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -274,10 +274,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 25.0,
-    "sale_price": 31.85,
+    "sale_price": null,
     "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -299,7 +299,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -321,7 +321,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -340,10 +340,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 127.22,
+    "sale_price": null,
     "msrp": 181.75,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -362,10 +362,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 31.85,
+    "sale_price": null,
     "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -384,15 +384,37 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 24.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Caryo",
       "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "flower",
+    "product_id": "2669217",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2669217+half_ounce/hillfire-orangelicious-14-15g-hybrid",
+    "name": "Orangelicious Hillfire whole buds",
+    "brand": "UNKNOWN",
+    "product_format": "UNKNOWN",
+    "strain_type": "hybrid",
+    "thc_percent": 21.0,
+    "sale_price": null,
+    "msrp": 140.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
+    "extra": {},
+    "package_size_grams": 14.0,
+    "terpenes": [
+      "Caryo",
+      "Humulene"
     ]
   },
   {
@@ -409,7 +431,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -428,10 +450,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 20.0,
-    "sale_price": 64.31,
+    "sale_price": null,
     "msrp": 85.75,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -453,7 +475,7 @@
     "sale_price": null,
     "msrp": 41.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -472,37 +494,15 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "flower",
-    "product_id": "2761900",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2761900+quarter_ounce/riviera-creek-garlic-cookies-small-buds-7g-indica",
-    "name": "Garlic Cookies",
-    "brand": "Riviera Creek",
-    "product_format": "smalls",
-    "strain_type": "indica",
-    "thc_percent": 33.0,
-    "sale_price": 78.75,
-    "msrp": 112.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -516,15 +516,37 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 23.0,
-    "sale_price": null,
+    "sale_price": 31.85,
     "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "flower",
+    "product_id": "2761900",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2761900+quarter_ounce/riviera-creek-garlic-cookies-small-buds-7g-indica",
+    "name": "Garlic Cookies",
+    "brand": "Riviera Creek",
+    "product_format": "smalls",
+    "strain_type": "indica",
+    "thc_percent": 33.0,
+    "sale_price": null,
+    "msrp": 112.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
     ]
   },
   {
@@ -541,7 +563,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -563,11 +585,33 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Terpinolene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "flower",
+    "product_id": "2774943",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2774943+eighth_ounce/king-city-gardens-dulce-de-uva-smalls-3-5g-hybrid",
+    "name": "Dulce De Uva",
+    "brand": "King City Gardens",
+    "product_format": "smalls",
+    "strain_type": "hybrid",
+    "thc_percent": 28.0,
+    "sale_price": 28.35,
+    "msrp": 40.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:31:53Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
       "Myrcene"
     ]
   },
@@ -582,10 +626,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 32.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -597,22 +641,22 @@
     "source": "bloom",
     "location": "akron",
     "category": "flower",
-    "product_id": "2774943",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2774943+eighth_ounce/king-city-gardens-dulce-de-uva-smalls-3-5g-hybrid",
-    "name": "Dulce De Uva",
-    "brand": "King City Gardens",
-    "product_format": "smalls",
+    "product_id": "154183",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/154183+two_gram/firelands-scientific-sour-papaya-2-83g-hybrid",
+    "name": "Sour Papaya",
+    "brand": "Firelands Scientific",
+    "product_format": "whole buds",
     "strain_type": "hybrid",
-    "thc_percent": 28.0,
+    "thc_percent": 22.0,
     "sale_price": null,
-    "msrp": 40.5,
+    "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
-    "package_size_grams": null,
+    "package_size_grams": 2.0,
     "terpenes": [
-      "Limonene",
-      "Myrcene"
+      "Myrcene",
+      "Caryo"
     ]
   },
   {
@@ -629,7 +673,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -648,10 +692,10 @@
     "product_format": "mixed buds",
     "strain_type": "indica",
     "thc_percent": 20.0,
-    "sale_price": 24.85,
+    "sale_price": null,
     "msrp": 35.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -670,10 +714,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 23.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -695,7 +739,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -714,10 +758,10 @@
     "product_format": "smalls",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -739,100 +783,12 @@
     "sale_price": null,
     "msrp": 36.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
       "Caryo",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "flower",
-    "product_id": "1974169",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/1974169+half_ounce/meigs-county-garlic-drip-14-15g-indica",
-    "name": "Garlic Drip",
-    "brand": "Meigs County",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 28.0,
-    "sale_price": 104.65,
-    "msrp": 149.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
-    "extra": {},
-    "package_size_grams": 14.0,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "flower",
-    "product_id": "2761905",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2761905+quarter_ounce/riviera-creek-uptown-f-small-buds-7g-indica",
-    "name": "Uptown F",
-    "brand": "Riviera Creek",
-    "product_format": "smalls",
-    "strain_type": "indica",
-    "thc_percent": 26.0,
-    "sale_price": 70.35,
-    "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "flower",
-    "product_id": "2768563",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2768563+eighth_ounce/riviera-creek-wild-cat-3-5g-sativa",
-    "name": "Wild Cat",
-    "brand": "Riviera Creek",
-    "product_format": "whole buds",
-    "strain_type": "sativa",
-    "thc_percent": 29.0,
-    "sale_price": 40.87,
-    "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:34Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Caryo",
-      "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "flower",
-    "product_id": "2769990",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2769990+eighth_ounce/klutch-orange-43-3-54g-sativa",
-    "name": "Orange 43",
-    "brand": "Klutch",
-    "product_format": "whole buds",
-    "strain_type": "sativa",
-    "thc_percent": 25.0,
-    "sale_price": null,
-    "msrp": 50.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Terpinolene",
-      "Myrcene"
     ]
   },
   {
@@ -849,12 +805,56 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "flower",
+    "product_id": "2769990",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2769990+eighth_ounce/klutch-orange-43-3-54g-sativa",
+    "name": "Orange 43",
+    "brand": "Klutch",
+    "product_format": "whole buds",
+    "strain_type": "sativa",
+    "thc_percent": 25.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "flower",
+    "product_id": "2761905",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2761905+quarter_ounce/riviera-creek-uptown-f-small-buds-7g-indica",
+    "name": "Uptown F",
+    "brand": "Riviera Creek",
+    "product_format": "smalls",
+    "strain_type": "indica",
+    "thc_percent": 26.0,
+    "sale_price": null,
+    "msrp": 100.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Linalool"
     ]
   },
   {
@@ -871,7 +871,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -893,7 +893,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -915,7 +915,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -937,7 +937,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -956,10 +956,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -978,10 +978,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 24.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1003,34 +1003,12 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "flower",
-    "product_id": "2728222",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2728222+two_gram/the-standard-race-gas-2-83g-indica",
-    "name": "Race Gas",
-    "brand": "The Standard",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 24.0,
-    "sale_price": null,
-    "msrp": 32.25,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
-    "extra": {},
-    "package_size_grams": 2.0,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -1047,7 +1025,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1069,12 +1047,34 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "flower",
+    "product_id": "2728222",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2728222+two_gram/the-standard-race-gas-2-83g-indica",
+    "name": "Race Gas",
+    "brand": "The Standard",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 24.0,
+    "sale_price": null,
+    "msrp": 32.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
+    "extra": {},
+    "package_size_grams": 2.0,
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
     ]
   },
   {
@@ -1091,7 +1091,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1113,7 +1113,7 @@
     "sale_price": null,
     "msrp": 42.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -1135,7 +1135,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1157,7 +1157,7 @@
     "sale_price": null,
     "msrp": 54.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1179,11 +1179,33 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "flower",
+    "product_id": "2457871",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2457871+two_gram/hillfire-papaya-dieseltang-2-83g-hybrid",
+    "name": "Papaya Dieseltang Hillfire whole buds",
+    "brand": "UNKNOWN",
+    "product_format": "UNKNOWN",
+    "strain_type": "hybrid",
+    "thc_percent": 19.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
+    "extra": {},
+    "package_size_grams": 2.0,
+    "terpenes": [
+      "Myrcene",
       "Limonene"
     ]
   },
@@ -1201,7 +1223,7 @@
     "sale_price": null,
     "msrp": 56.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1223,7 +1245,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1245,7 +1267,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1267,7 +1289,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1286,32 +1308,10 @@
     "product_format": "mixed buds",
     "strain_type": "indica",
     "thc_percent": 22.0,
-    "sale_price": 24.85,
+    "sale_price": null,
     "msrp": 35.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "flower",
-    "product_id": "1951200",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/1951200+eighth_ounce/rythm-animal-scout-3-5g-indica",
-    "name": "Animal Scout",
-    "brand": "Rythm",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 27.0,
-    "sale_price": 31.85,
-    "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:34Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:31:53Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1333,7 +1333,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -1355,7 +1355,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1377,7 +1377,7 @@
     "sale_price": null,
     "msrp": 42.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -1399,7 +1399,7 @@
     "sale_price": null,
     "msrp": 32.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -1418,37 +1418,15 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 21.0,
-    "sale_price": 99.05,
+    "sale_price": null,
     "msrp": 141.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
       "Limonene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "athens",
-    "category": "flower",
-    "product_id": "2040091",
-    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2040091+eighth_ounce/rythm-afternoon-delight-3-5g-hybrid",
-    "name": "Afternoon Delight",
-    "brand": "Rythm",
-    "product_format": "whole buds",
-    "strain_type": "hybrid",
-    "thc_percent": 27.0,
-    "sale_price": 31.85,
-    "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -1462,15 +1440,37 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 24.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Ocimene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "flower",
+    "product_id": "2040091",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2040091+eighth_ounce/rythm-afternoon-delight-3-5g-hybrid",
+    "name": "Afternoon Delight",
+    "brand": "Rythm",
+    "product_format": "whole buds",
+    "strain_type": "hybrid",
+    "thc_percent": 27.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
     ]
   },
   {
@@ -1487,7 +1487,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1509,7 +1509,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -1528,10 +1528,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 25.0,
-    "sale_price": 127.22,
+    "sale_price": null,
     "msrp": 181.75,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -1553,7 +1553,7 @@
     "sale_price": null,
     "msrp": 79.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1572,10 +1572,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 33.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1594,10 +1594,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 25.0,
-    "sale_price": 32.62,
+    "sale_price": null,
     "msrp": 43.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -1619,7 +1619,7 @@
     "sale_price": null,
     "msrp": 79.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1641,34 +1641,12 @@
     "sale_price": null,
     "msrp": 42.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "athens",
-    "category": "flower",
-    "product_id": "2760942",
-    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2760942+quarter_ounce/riviera-creek-yo-rocks-small-buds-7g-sativa",
-    "name": "Yo Rocks",
-    "brand": "Riviera Creek",
-    "product_format": "smalls",
-    "strain_type": "sativa",
-    "thc_percent": 30.0,
-    "sale_price": 78.75,
-    "msrp": 112.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -1682,10 +1660,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1704,10 +1682,10 @@
     "product_format": "smalls",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1726,10 +1704,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1748,10 +1726,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1773,7 +1751,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1795,7 +1773,7 @@
     "sale_price": null,
     "msrp": 36.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -1817,7 +1795,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1836,10 +1814,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 22.0,
-    "sale_price": 126.52,
+    "sale_price": null,
     "msrp": 180.75,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -1858,10 +1836,10 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1883,34 +1861,12 @@
     "sale_price": null,
     "msrp": 42.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
       "Limonene",
       "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "athens",
-    "category": "flower",
-    "product_id": "1905838",
-    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1905838+eighth_ounce/good-green-black-maple-3-5g-indica",
-    "name": "Black Maple",
-    "brand": "Good Green",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 25.0,
-    "sale_price": 24.85,
-    "msrp": 35.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -1927,12 +1883,56 @@
     "sale_price": null,
     "msrp": 41.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Ocimene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "flower",
+    "product_id": "2761900",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2761900+quarter_ounce/riviera-creek-garlic-cookies-small-buds-7g-indica",
+    "name": "Garlic Cookies",
+    "brand": "Riviera Creek",
+    "product_format": "smalls",
+    "strain_type": "indica",
+    "thc_percent": 33.0,
+    "sale_price": null,
+    "msrp": 112.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "flower",
+    "product_id": "2760942",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2760942+quarter_ounce/riviera-creek-yo-rocks-small-buds-7g-sativa",
+    "name": "Yo Rocks",
+    "brand": "Riviera Creek",
+    "product_format": "smalls",
+    "strain_type": "sativa",
+    "thc_percent": 30.0,
+    "sale_price": null,
+    "msrp": 112.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -1946,10 +1946,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 23.0,
-    "sale_price": null,
+    "sale_price": 31.85,
     "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1968,10 +1968,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 31.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -1993,7 +1993,7 @@
     "sale_price": null,
     "msrp": 56.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2015,7 +2015,7 @@
     "sale_price": null,
     "msrp": 32.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2034,10 +2034,10 @@
     "product_format": "Rythm whole buds",
     "strain_type": "hybrid",
     "thc_percent": 25.0,
-    "sale_price": 25.55,
+    "sale_price": null,
     "msrp": 36.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2056,10 +2056,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 28.0,
-    "sale_price": 32.62,
+    "sale_price": null,
     "msrp": 43.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2078,37 +2078,15 @@
     "product_format": "&shine smalls",
     "strain_type": "hybrid",
     "thc_percent": 19.0,
-    "sale_price": 130.72,
+    "sale_price": null,
     "msrp": 186.75,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 28.0,
     "terpenes": [
       "Caryo",
       "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "athens",
-    "category": "flower",
-    "product_id": "2790941",
-    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2790941+two_gram/the-standard-strawberry-bomber-2-83g-indica",
-    "name": "Strawberry Bomber",
-    "brand": "The Standard",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 25.0,
-    "sale_price": null,
-    "msrp": 32.25,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
-    "extra": {},
-    "package_size_grams": 2.0,
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -2125,12 +2103,34 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "flower",
+    "product_id": "2790941",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2790941+two_gram/the-standard-strawberry-bomber-2-83g-indica",
+    "name": "Strawberry Bomber",
+    "brand": "The Standard",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 25.0,
+    "sale_price": null,
+    "msrp": 32.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
+    "extra": {},
+    "package_size_grams": 2.0,
+    "terpenes": [
+      "Caryo",
+      "Limonene"
     ]
   },
   {
@@ -2147,7 +2147,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2169,7 +2169,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2191,7 +2191,7 @@
     "sale_price": null,
     "msrp": 56.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2210,10 +2210,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 127.22,
+    "sale_price": null,
     "msrp": 181.75,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -2235,7 +2235,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2254,10 +2254,10 @@
     "product_format": "mixed buds",
     "strain_type": "indica",
     "thc_percent": 20.0,
-    "sale_price": 24.85,
+    "sale_price": null,
     "msrp": 35.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2276,10 +2276,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 24.0,
-    "sale_price": 25.55,
+    "sale_price": null,
     "msrp": 36.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2301,7 +2301,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2323,7 +2323,7 @@
     "sale_price": null,
     "msrp": 33.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2342,10 +2342,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 23.0,
-    "sale_price": 87.85,
+    "sale_price": null,
     "msrp": 125.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -2364,10 +2364,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2389,7 +2389,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2408,10 +2408,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 28.0,
-    "sale_price": 31.85,
+    "sale_price": null,
     "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2430,10 +2430,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 21.0,
-    "sale_price": 24.67,
+    "sale_price": null,
     "msrp": 35.25,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2452,10 +2452,10 @@
     "product_format": "UNKNOWN",
     "strain_type": "hybrid",
     "thc_percent": 21.0,
-    "sale_price": 84.87,
+    "sale_price": null,
     "msrp": 121.25,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -2474,37 +2474,15 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 23.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "athens",
-    "category": "flower",
-    "product_id": "2801891",
-    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2801891+eighth_ounce/modern-flower-sweet-tooth-3-5g-sativa",
-    "name": "Sweet Tooth",
-    "brand": "Modern Flower",
-    "product_format": "whole buds",
-    "strain_type": "sativa",
-    "thc_percent": 26.0,
-    "sale_price": null,
-    "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -2521,12 +2499,34 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "flower",
+    "product_id": "2801891",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2801891+eighth_ounce/modern-flower-sweet-tooth-3-5g-sativa",
+    "name": "Sweet Tooth",
+    "brand": "Modern Flower",
+    "product_format": "whole buds",
+    "strain_type": "sativa",
+    "thc_percent": 26.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
     ]
   },
   {
@@ -2543,7 +2543,7 @@
     "sale_price": null,
     "msrp": 32.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2565,7 +2565,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2584,10 +2584,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 21.0,
-    "sale_price": 87.85,
+    "sale_price": null,
     "msrp": 125.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -2609,7 +2609,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2628,10 +2628,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 20.0,
-    "sale_price": 83.47,
+    "sale_price": null,
     "msrp": 119.25,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:29:50Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:10Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -2653,7 +2653,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -2675,7 +2675,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2694,15 +2694,37 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 32.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "flower",
+    "product_id": "2761899",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2761899+quarter_ounce/riviera-creek-sohio-small-buds-7g-sativa",
+    "name": "Sohio",
+    "brand": "Riviera Creek",
+    "product_format": "smalls",
+    "strain_type": "sativa",
+    "thc_percent": 26.0,
+    "sale_price": null,
+    "msrp": 100.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -2719,29 +2741,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "flower",
-    "product_id": "2760942",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2760942+quarter_ounce/riviera-creek-yo-rocks-small-buds-7g-sativa",
-    "name": "Yo Rocks",
-    "brand": "Riviera Creek",
-    "product_format": "smalls",
-    "strain_type": "sativa",
-    "thc_percent": 30.0,
-    "sale_price": 78.75,
-    "msrp": 112.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2760,37 +2760,15 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "flower",
-    "product_id": "2761868",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2761868+eighth_ounce/riviera-creek-skyscraper-3-5g-sativa",
-    "name": "Skyscraper",
-    "brand": "Riviera Creek",
-    "product_format": "whole buds",
-    "strain_type": "sativa",
-    "thc_percent": 27.0,
-    "sale_price": 40.87,
-    "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:06Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -2804,10 +2782,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2826,10 +2804,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2851,7 +2829,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2873,7 +2851,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2885,21 +2863,21 @@
     "source": "bloom",
     "location": "columbus_west",
     "category": "flower",
-    "product_id": "2817444",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2817444+eighth_ounce/king-city-gardens-blueberry-muffin-3-5g-hybrid",
-    "name": "Blueberry Muffin",
-    "brand": "King City Gardens",
-    "product_format": "whole buds",
-    "strain_type": "hybrid",
-    "thc_percent": 24.0,
+    "product_id": "2761900",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2761900+quarter_ounce/riviera-creek-garlic-cookies-small-buds-7g-indica",
+    "name": "Garlic Cookies",
+    "brand": "Riviera Creek",
+    "product_format": "smalls",
+    "strain_type": "indica",
+    "thc_percent": 30.0,
     "sale_price": null,
-    "msrp": 35.5,
+    "msrp": 112.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
-      "Caryo",
+      "Limonene",
       "Myrcene"
     ]
   },
@@ -2917,7 +2895,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2936,10 +2914,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2961,7 +2939,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -2983,7 +2961,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3002,10 +2980,10 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 28.0,
-    "sale_price": null,
+    "sale_price": 28.35,
     "msrp": 40.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3027,7 +3005,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3049,7 +3027,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -3071,7 +3049,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3093,7 +3071,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -3115,7 +3093,7 @@
     "sale_price": null,
     "msrp": 36.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -3137,34 +3115,12 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "flower",
-    "product_id": "1803789",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1803789+eighth_ounce/good-green-head-cracker-mixed-buds-3-5g-indica",
-    "name": "Head Cracker",
-    "brand": "Good Green",
-    "product_format": "mixed buds",
-    "strain_type": "indica",
-    "thc_percent": 20.0,
-    "sale_price": 24.85,
-    "msrp": 35.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -3181,7 +3137,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3200,10 +3156,54 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 31.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "flower",
+    "product_id": "2388021",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2388021+half_ounce/riviera-creek-phantom-14-15g-indica",
+    "name": "Phantom",
+    "brand": "Riviera Creek",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 25.0,
+    "sale_price": null,
+    "msrp": 181.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
+    "extra": {},
+    "package_size_grams": 14.0,
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "flower",
+    "product_id": "2765044",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2765044+eighth_ounce/buckeye-relief-sour-larry-cross-3-5g-hybrid",
+    "name": "Sour Larry Cross",
+    "brand": "Buckeye Relief",
+    "product_format": "whole buds",
+    "strain_type": "hybrid",
+    "thc_percent": 31.0,
+    "sale_price": null,
+    "msrp": 55.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3222,37 +3222,15 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "flower",
-    "product_id": "2765044",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2765044+eighth_ounce/buckeye-relief-sour-larry-cross-3-5g-hybrid",
-    "name": "Sour Larry Cross",
-    "brand": "Buckeye Relief",
-    "product_format": "whole buds",
-    "strain_type": "hybrid",
-    "thc_percent": 31.0,
-    "sale_price": null,
-    "msrp": 55.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -3269,7 +3247,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3291,7 +3269,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3313,7 +3291,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3332,10 +3310,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3357,12 +3335,34 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "flower",
+    "product_id": "2769992",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2769992+eighth_ounce/klutch-rose-gold-rtz-3-54g-indica",
+    "name": "Rose Gold Rtz",
+    "brand": "Klutch",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 24.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Myrcene",
+      "Pinene"
     ]
   },
   {
@@ -3379,12 +3379,34 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "flower",
+    "product_id": "136067",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/136067+eighth_ounce/woodward-fine-cannabis-wedding-cake-5-66g-hybrid",
+    "name": "Wedding Cake",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "whole buds",
+    "strain_type": "hybrid",
+    "thc_percent": 24.0,
+    "sale_price": null,
+    "msrp": 79.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
     ]
   },
   {
@@ -3401,7 +3423,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3423,7 +3445,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3442,10 +3464,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": null,
+    "sale_price": 31.85,
     "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3467,7 +3489,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3489,7 +3511,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -3511,11 +3533,33 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "flower",
+    "product_id": "2284218",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2284218+eighth_ounce/woodward-fine-cannabis-permanent-g-5-66g-indica",
+    "name": "Permanent G",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 29.0,
+    "sale_price": null,
+    "msrp": 79.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
       "Caryo"
     ]
   },
@@ -3533,7 +3577,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3555,34 +3599,12 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "flower",
-    "product_id": "2770533",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2770533+eighth_ounce/king-city-gardens-watermelon-z-3-5g-indica",
-    "name": "Watermelon Z",
-    "brand": "King City Gardens",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 25.0,
-    "sale_price": null,
-    "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -3596,37 +3618,15 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 21.0,
-    "sale_price": null,
+    "sale_price": 21.35,
     "msrp": 30.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "flower",
-    "product_id": "2792762",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2792762+eighth_ounce/klutch-permanent-marker-3-54g-indica",
-    "name": "Permanent Marker",
-    "brand": "Klutch",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 23.0,
-    "sale_price": null,
-    "msrp": 50.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
     ]
   },
   {
@@ -3643,7 +3643,29 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "flower",
+    "product_id": "2792762",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2792762+eighth_ounce/klutch-permanent-marker-3-54g-indica",
+    "name": "Permanent Marker",
+    "brand": "Klutch",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 23.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3662,15 +3684,37 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 20.0,
-    "sale_price": 98.35,
+    "sale_price": null,
     "msrp": 140.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
       "Caryo",
       "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "flower",
+    "product_id": "2624930",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2624930+half_ounce/klutch-cherry-rtz-14-15g-indica",
+    "name": "Cherry Rtz",
+    "brand": "Klutch",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 21.0,
+    "sale_price": null,
+    "msrp": 150.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
+    "extra": {},
+    "package_size_grams": 14.0,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -3687,7 +3731,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3706,10 +3750,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 21.0,
-    "sale_price": 99.05,
+    "sale_price": null,
     "msrp": 141.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -3721,21 +3765,21 @@
     "source": "bloom",
     "location": "columbus_west",
     "category": "flower",
-    "product_id": "2624930",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2624930+half_ounce/klutch-cherry-rtz-14-15g-indica",
-    "name": "Cherry Rtz",
-    "brand": "Klutch",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 21.0,
-    "sale_price": 105.35,
-    "msrp": 150.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "product_id": "2781002",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2781002+eighth_ounce/khalifa-kush-khalifa-kush-3-54g-hybrid",
+    "name": "Khalifa Kush Khalifa Kush whole buds",
+    "brand": "UNKNOWN",
+    "product_format": "UNKNOWN",
+    "strain_type": "hybrid",
+    "thc_percent": 20.0,
+    "sale_price": null,
+    "msrp": 54.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
-    "package_size_grams": 14.0,
+    "package_size_grams": null,
     "terpenes": [
-      "Limonene",
+      "Myrcene",
       "Caryo"
     ]
   },
@@ -3753,7 +3797,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3765,22 +3809,22 @@
     "source": "bloom",
     "location": "columbus_west",
     "category": "flower",
-    "product_id": "2781002",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2781002+eighth_ounce/khalifa-kush-khalifa-kush-3-54g-hybrid",
-    "name": "Khalifa Kush Khalifa Kush whole buds",
-    "brand": "UNKNOWN",
-    "product_format": "UNKNOWN",
-    "strain_type": "hybrid",
-    "thc_percent": 20.0,
+    "product_id": "2376906",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2376906+half_ounce/riviera-creek-uptown-f-14-15g-indica",
+    "name": "Uptown F",
+    "brand": "Riviera Creek",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 27.0,
     "sale_price": null,
-    "msrp": 54.5,
+    "msrp": 181.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
-    "package_size_grams": null,
+    "package_size_grams": 14.0,
     "terpenes": [
-      "Myrcene",
-      "Caryo"
+      "Limonene",
+      "Linalool"
     ]
   },
   {
@@ -3797,7 +3841,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -3816,10 +3860,10 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 22.0,
-    "sale_price": 70.7,
+    "sale_price": null,
     "msrp": 101.0,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -3838,15 +3882,37 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 20.0,
-    "sale_price": 105.35,
+    "sale_price": null,
     "msrp": 150.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
       "Myrcene",
       "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "flower",
+    "product_id": "2765834",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2765834+half_ounce/woodward-fine-cannabis-permanent-g-14-15g-inidca",
+    "name": "Permanent G",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "whole buds",
+    "strain_type": null,
+    "thc_percent": 27.0,
+    "sale_price": null,
+    "msrp": 180.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:27Z",
+    "extra": {},
+    "package_size_grams": 14.0,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -3863,7 +3929,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -3885,78 +3951,12 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
+    "scraped_at": "2026-06-28T14:32:27Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "flower",
-    "product_id": "2830806",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2830806+half_ounce/citizen-by-klutch-peels-smalls-14-15g-sativa",
-    "name": "Peels",
-    "brand": "Citizen by Klutch",
-    "product_format": "smalls",
-    "strain_type": "sativa",
-    "thc_percent": 23.0,
-    "sale_price": 83.47,
-    "msrp": 119.25,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
-    "extra": {},
-    "package_size_grams": 14.0,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "flower",
-    "product_id": "2600365",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2600365+two_gram/seeker-muscadine-2-83g-hybrid",
-    "name": "Muscadine Seeker whole buds",
-    "brand": "UNKNOWN",
-    "product_format": "UNKNOWN",
-    "strain_type": "hybrid",
-    "thc_percent": 21.0,
-    "sale_price": null,
-    "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:06Z",
-    "extra": {},
-    "package_size_grams": 2.0,
-    "terpenes": [
-      "Myrcene",
-      "Pinene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "flower",
-    "product_id": "2791052",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2791052+half_ounce/grassroots-blue-lobster-smalls-14-15g-hybrid",
-    "name": "Blue Lobster",
-    "brand": "Grassroots",
-    "product_format": "smalls",
-    "strain_type": "hybrid",
-    "thc_percent": 20.0,
-    "sale_price": 70.35,
-    "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:06Z",
-    "extra": {},
-    "package_size_grams": 14.0,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
     ]
   },
   {
@@ -3973,7 +3973,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -3995,7 +3995,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4014,15 +4014,37 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 32.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "flower",
+    "product_id": "2761899",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2761899+quarter_ounce/riviera-creek-sohio-small-buds-7g-sativa",
+    "name": "Sohio",
+    "brand": "Riviera Creek",
+    "product_format": "smalls",
+    "strain_type": "sativa",
+    "thc_percent": 26.0,
+    "sale_price": null,
+    "msrp": 100.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -4039,29 +4061,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "flower",
-    "product_id": "2760942",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2760942+quarter_ounce/riviera-creek-yo-rocks-small-buds-7g-sativa",
-    "name": "Yo Rocks",
-    "brand": "Riviera Creek",
-    "product_format": "smalls",
-    "strain_type": "sativa",
-    "thc_percent": 30.0,
-    "sale_price": 78.75,
-    "msrp": 112.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4080,37 +4080,15 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "flower",
-    "product_id": "2761868",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2761868+eighth_ounce/riviera-creek-skyscraper-3-5g-sativa",
-    "name": "Skyscraper",
-    "brand": "Riviera Creek",
-    "product_format": "whole buds",
-    "strain_type": "sativa",
-    "thc_percent": 27.0,
-    "sale_price": 40.87,
-    "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:22Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -4124,10 +4102,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4146,10 +4124,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4171,7 +4149,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4193,7 +4171,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4205,21 +4183,21 @@
     "source": "bloom",
     "location": "columbus",
     "category": "flower",
-    "product_id": "2817444",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2817444+eighth_ounce/king-city-gardens-blueberry-muffin-3-5g-hybrid",
-    "name": "Blueberry Muffin",
-    "brand": "King City Gardens",
-    "product_format": "whole buds",
-    "strain_type": "hybrid",
-    "thc_percent": 24.0,
+    "product_id": "2761900",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2761900+quarter_ounce/riviera-creek-garlic-cookies-small-buds-7g-indica",
+    "name": "Garlic Cookies",
+    "brand": "Riviera Creek",
+    "product_format": "smalls",
+    "strain_type": "indica",
+    "thc_percent": 30.0,
     "sale_price": null,
-    "msrp": 35.5,
+    "msrp": 112.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
-      "Caryo",
+      "Limonene",
       "Myrcene"
     ]
   },
@@ -4237,7 +4215,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4256,10 +4234,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4281,7 +4259,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4303,7 +4281,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4322,10 +4300,10 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 28.0,
-    "sale_price": null,
+    "sale_price": 28.35,
     "msrp": 40.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4347,7 +4325,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4369,7 +4347,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -4391,7 +4369,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4413,7 +4391,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -4435,7 +4413,7 @@
     "sale_price": null,
     "msrp": 36.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -4457,34 +4435,12 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "flower",
-    "product_id": "1803789",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1803789+eighth_ounce/good-green-head-cracker-mixed-buds-3-5g-indica",
-    "name": "Head Cracker",
-    "brand": "Good Green",
-    "product_format": "mixed buds",
-    "strain_type": "indica",
-    "thc_percent": 20.0,
-    "sale_price": 24.85,
-    "msrp": 35.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -4501,7 +4457,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4520,10 +4476,54 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 31.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "flower",
+    "product_id": "2388021",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2388021+half_ounce/riviera-creek-phantom-14-15g-indica",
+    "name": "Phantom",
+    "brand": "Riviera Creek",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 25.0,
+    "sale_price": null,
+    "msrp": 181.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
+    "extra": {},
+    "package_size_grams": 14.0,
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "flower",
+    "product_id": "2765044",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2765044+eighth_ounce/buckeye-relief-sour-larry-cross-3-5g-hybrid",
+    "name": "Sour Larry Cross",
+    "brand": "Buckeye Relief",
+    "product_format": "whole buds",
+    "strain_type": "hybrid",
+    "thc_percent": 31.0,
+    "sale_price": null,
+    "msrp": 55.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4542,37 +4542,15 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "flower",
-    "product_id": "2765044",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2765044+eighth_ounce/buckeye-relief-sour-larry-cross-3-5g-hybrid",
-    "name": "Sour Larry Cross",
-    "brand": "Buckeye Relief",
-    "product_format": "whole buds",
-    "strain_type": "hybrid",
-    "thc_percent": 31.0,
-    "sale_price": null,
-    "msrp": 55.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -4589,7 +4567,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4611,7 +4589,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4633,7 +4611,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4652,10 +4630,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4677,12 +4655,34 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "flower",
+    "product_id": "2769992",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2769992+eighth_ounce/klutch-rose-gold-rtz-3-54g-indica",
+    "name": "Rose Gold Rtz",
+    "brand": "Klutch",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 24.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Myrcene",
+      "Pinene"
     ]
   },
   {
@@ -4699,12 +4699,34 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "flower",
+    "product_id": "136067",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/136067+eighth_ounce/woodward-fine-cannabis-wedding-cake-5-66g-hybrid",
+    "name": "Wedding Cake",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "whole buds",
+    "strain_type": "hybrid",
+    "thc_percent": 24.0,
+    "sale_price": null,
+    "msrp": 79.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
     ]
   },
   {
@@ -4721,7 +4743,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4743,7 +4765,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4762,10 +4784,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": null,
+    "sale_price": 31.85,
     "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4787,7 +4809,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4809,7 +4831,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -4831,11 +4853,33 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "flower",
+    "product_id": "2284218",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2284218+eighth_ounce/woodward-fine-cannabis-permanent-g-5-66g-indica",
+    "name": "Permanent G",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 29.0,
+    "sale_price": null,
+    "msrp": 79.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
       "Caryo"
     ]
   },
@@ -4853,7 +4897,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4875,34 +4919,12 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "flower",
-    "product_id": "2770533",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2770533+eighth_ounce/king-city-gardens-watermelon-z-3-5g-indica",
-    "name": "Watermelon Z",
-    "brand": "King City Gardens",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 25.0,
-    "sale_price": null,
-    "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -4916,37 +4938,15 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 21.0,
-    "sale_price": null,
+    "sale_price": 21.35,
     "msrp": 30.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "flower",
-    "product_id": "2792762",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2792762+eighth_ounce/klutch-permanent-marker-3-54g-indica",
-    "name": "Permanent Marker",
-    "brand": "Klutch",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 23.0,
-    "sale_price": null,
-    "msrp": 50.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
     ]
   },
   {
@@ -4963,7 +4963,29 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "flower",
+    "product_id": "2792762",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2792762+eighth_ounce/klutch-permanent-marker-3-54g-indica",
+    "name": "Permanent Marker",
+    "brand": "Klutch",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 23.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -4982,15 +5004,37 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 20.0,
-    "sale_price": 98.35,
+    "sale_price": null,
     "msrp": 140.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
       "Caryo",
       "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "flower",
+    "product_id": "2624930",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2624930+half_ounce/klutch-cherry-rtz-14-15g-indica",
+    "name": "Cherry Rtz",
+    "brand": "Klutch",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 21.0,
+    "sale_price": null,
+    "msrp": 150.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
+    "extra": {},
+    "package_size_grams": 14.0,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -5007,7 +5051,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5026,10 +5070,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 21.0,
-    "sale_price": 99.05,
+    "sale_price": null,
     "msrp": 141.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -5041,21 +5085,21 @@
     "source": "bloom",
     "location": "columbus",
     "category": "flower",
-    "product_id": "2624930",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2624930+half_ounce/klutch-cherry-rtz-14-15g-indica",
-    "name": "Cherry Rtz",
-    "brand": "Klutch",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 21.0,
-    "sale_price": 105.35,
-    "msrp": 150.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "product_id": "2781002",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2781002+eighth_ounce/khalifa-kush-khalifa-kush-3-54g-hybrid",
+    "name": "Khalifa Kush Khalifa Kush whole buds",
+    "brand": "UNKNOWN",
+    "product_format": "UNKNOWN",
+    "strain_type": "hybrid",
+    "thc_percent": 20.0,
+    "sale_price": null,
+    "msrp": 54.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
-    "package_size_grams": 14.0,
+    "package_size_grams": null,
     "terpenes": [
-      "Limonene",
+      "Myrcene",
       "Caryo"
     ]
   },
@@ -5073,7 +5117,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5085,22 +5129,22 @@
     "source": "bloom",
     "location": "columbus",
     "category": "flower",
-    "product_id": "2781002",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2781002+eighth_ounce/khalifa-kush-khalifa-kush-3-54g-hybrid",
-    "name": "Khalifa Kush Khalifa Kush whole buds",
-    "brand": "UNKNOWN",
-    "product_format": "UNKNOWN",
-    "strain_type": "hybrid",
-    "thc_percent": 20.0,
+    "product_id": "2376906",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2376906+half_ounce/riviera-creek-uptown-f-14-15g-indica",
+    "name": "Uptown F",
+    "brand": "Riviera Creek",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 27.0,
     "sale_price": null,
-    "msrp": 54.5,
+    "msrp": 181.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
-    "package_size_grams": null,
+    "package_size_grams": 14.0,
     "terpenes": [
-      "Myrcene",
-      "Caryo"
+      "Limonene",
+      "Linalool"
     ]
   },
   {
@@ -5117,7 +5161,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5136,10 +5180,10 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 22.0,
-    "sale_price": 70.7,
+    "sale_price": null,
     "msrp": 101.0,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -5158,15 +5202,37 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 20.0,
-    "sale_price": 105.35,
+    "sale_price": null,
     "msrp": 150.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
       "Myrcene",
       "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "flower",
+    "product_id": "2765834",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2765834+half_ounce/woodward-fine-cannabis-permanent-g-14-15g-inidca",
+    "name": "Permanent G",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "whole buds",
+    "strain_type": null,
+    "thc_percent": 27.0,
+    "sale_price": null,
+    "msrp": 180.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:32:43Z",
+    "extra": {},
+    "package_size_grams": 14.0,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -5183,7 +5249,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -5205,78 +5271,12 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
+    "scraped_at": "2026-06-28T14:32:43Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "flower",
-    "product_id": "2830806",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2830806+half_ounce/citizen-by-klutch-peels-smalls-14-15g-sativa",
-    "name": "Peels",
-    "brand": "Citizen by Klutch",
-    "product_format": "smalls",
-    "strain_type": "sativa",
-    "thc_percent": 23.0,
-    "sale_price": 83.47,
-    "msrp": 119.25,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
-    "extra": {},
-    "package_size_grams": 14.0,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "flower",
-    "product_id": "2600365",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2600365+two_gram/seeker-muscadine-2-83g-hybrid",
-    "name": "Muscadine Seeker whole buds",
-    "brand": "UNKNOWN",
-    "product_format": "UNKNOWN",
-    "strain_type": "hybrid",
-    "thc_percent": 21.0,
-    "sale_price": null,
-    "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:22Z",
-    "extra": {},
-    "package_size_grams": 2.0,
-    "terpenes": [
-      "Myrcene",
-      "Pinene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "flower",
-    "product_id": "2791052",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2791052+half_ounce/grassroots-blue-lobster-smalls-14-15g-hybrid",
-    "name": "Blue Lobster",
-    "brand": "Grassroots",
-    "product_format": "smalls",
-    "strain_type": "hybrid",
-    "thc_percent": 20.0,
-    "sale_price": 70.35,
-    "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:22Z",
-    "extra": {},
-    "package_size_grams": 14.0,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
     ]
   },
   {
@@ -5293,7 +5293,7 @@
     "sale_price": null,
     "msrp": 34.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -5315,7 +5315,7 @@
     "sale_price": null,
     "msrp": 32.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -5334,10 +5334,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 21.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5356,10 +5356,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 21.0,
-    "sale_price": 99.05,
+    "sale_price": null,
     "msrp": 141.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -5381,7 +5381,7 @@
     "sale_price": null,
     "msrp": 33.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -5403,7 +5403,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5422,10 +5422,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 27.0,
-    "sale_price": 31.85,
+    "sale_price": null,
     "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5447,7 +5447,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5469,7 +5469,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5488,10 +5488,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 22.0,
-    "sale_price": 32.62,
+    "sale_price": null,
     "msrp": 43.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -5513,7 +5513,7 @@
     "sale_price": null,
     "msrp": 79.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5535,34 +5535,12 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Terpinolene",
       "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "massillon",
-    "category": "flower",
-    "product_id": "2765834",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2765834+half_ounce/woodward-fine-cannabis-permanent-g-14-15g-inidca",
-    "name": "Permanent G",
-    "brand": "Woodward Fine Cannabis",
-    "product_format": "whole buds",
-    "strain_type": null,
-    "thc_percent": 27.0,
-    "sale_price": 126.35,
-    "msrp": 180.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
-    "extra": {},
-    "package_size_grams": 14.0,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -5579,7 +5557,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -5601,7 +5579,7 @@
     "sale_price": null,
     "msrp": 44.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5623,7 +5601,7 @@
     "sale_price": null,
     "msrp": 41.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5645,7 +5623,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5667,31 +5645,9 @@
     "sale_price": null,
     "msrp": 79.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
-    "terpenes": [
-      "Caryo",
-      "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "massillon",
-    "category": "flower",
-    "product_id": "145279",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/145279+two_gram/wellspring-fields-gmo-2-83g-indica",
-    "name": "Gmo",
-    "brand": "Wellspring Fields",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 25.0,
-    "sale_price": null,
-    "msrp": 33.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
-    "extra": {},
-    "package_size_grams": 2.0,
     "terpenes": [
       "Caryo",
       "Myrcene"
@@ -5711,12 +5667,56 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "flower",
+    "product_id": "145279",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/145279+two_gram/wellspring-fields-gmo-2-83g-indica",
+    "name": "Gmo",
+    "brand": "Wellspring Fields",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 25.0,
+    "sale_price": null,
+    "msrp": 33.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
+    "extra": {},
+    "package_size_grams": 2.0,
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "flower",
+    "product_id": "2588814",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2588814+half_ounce/citizen-by-klutch-orange-43-smalls-14-15g-sativa",
+    "name": "Orange 43",
+    "brand": "Citizen by Klutch",
+    "product_format": "smalls",
+    "strain_type": "sativa",
+    "thc_percent": 23.0,
+    "sale_price": null,
+    "msrp": 119.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
+    "extra": {},
+    "package_size_grams": 14.0,
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene"
     ]
   },
   {
@@ -5730,10 +5730,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5752,10 +5752,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 27.0,
-    "sale_price": 32.62,
+    "sale_price": null,
     "msrp": 43.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -5774,10 +5774,10 @@
     "product_format": "smalls",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5799,7 +5799,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -5818,10 +5818,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 25.0,
-    "sale_price": 31.85,
+    "sale_price": null,
     "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5843,7 +5843,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5862,10 +5862,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 33.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5884,37 +5884,15 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Caryo",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "massillon",
-    "category": "flower",
-    "product_id": "2761876",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2761876+eighth_ounce/riviera-creek-uptown-f-3-5g-indica",
-    "name": "Uptown F",
-    "brand": "Riviera Creek",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 29.0,
-    "sale_price": 40.87,
-    "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:38Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
     ]
   },
   {
@@ -5931,12 +5909,34 @@
     "sale_price": null,
     "msrp": 42.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
       "Limonene",
       "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "flower",
+    "product_id": "2761876",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2761876+eighth_ounce/riviera-creek-uptown-f-3-5g-indica",
+    "name": "Uptown F",
+    "brand": "Riviera Creek",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 29.0,
+    "sale_price": null,
+    "msrp": 54.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Linalool"
     ]
   },
   {
@@ -5953,7 +5953,7 @@
     "sale_price": null,
     "msrp": 42.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -5972,10 +5972,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 31.85,
+    "sale_price": null,
     "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -5994,10 +5994,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 24.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6016,10 +6016,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6038,10 +6038,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 20.0,
-    "sale_price": 105.35,
+    "sale_price": null,
     "msrp": 150.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -6060,10 +6060,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 20.0,
-    "sale_price": 64.31,
+    "sale_price": null,
     "msrp": 85.75,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6082,10 +6082,10 @@
     "product_format": "smalls",
     "strain_type": "sativa",
     "thc_percent": 30.0,
-    "sale_price": 78.75,
+    "sale_price": null,
     "msrp": 112.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6104,10 +6104,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 23.0,
-    "sale_price": null,
+    "sale_price": 31.85,
     "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6129,7 +6129,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6148,15 +6148,37 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 18.0,
-    "sale_price": 106.05,
+    "sale_price": null,
     "msrp": 151.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
       "Terpinolene",
       "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "flower",
+    "product_id": "2773409",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2773409+eighth_ounce/meigs-county-melted-strawberries-3-5g-hybrid",
+    "name": "Melted Strawberries",
+    "brand": "Meigs County",
+    "product_format": "whole buds",
+    "strain_type": "hybrid",
+    "thc_percent": 33.0,
+    "sale_price": null,
+    "msrp": 43.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
     ]
   },
   {
@@ -6173,31 +6195,9 @@
     "sale_price": null,
     "msrp": 32.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "massillon",
-    "category": "flower",
-    "product_id": "2761852",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2761852+eighth_ounce/riviera-creek-yo-rocks-3-5g-sativa",
-    "name": "Yo Rocks",
-    "brand": "Riviera Creek",
-    "product_format": "whole buds",
-    "strain_type": "sativa",
-    "thc_percent": 32.0,
-    "sale_price": 45.37,
-    "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:38Z",
-    "extra": {},
-    "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
@@ -6214,10 +6214,10 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 28.0,
-    "sale_price": null,
+    "sale_price": 28.35,
     "msrp": 40.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6229,22 +6229,22 @@
     "source": "bloom",
     "location": "massillon",
     "category": "flower",
-    "product_id": "2254125",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2254125+two_gram/rythm-chem-n-cookies-2-83g-hybrid",
-    "name": "Chem 'n",
-    "brand": "Cookies",
-    "product_format": "Rythm whole buds",
-    "strain_type": "hybrid",
-    "thc_percent": 25.0,
-    "sale_price": 25.55,
-    "msrp": 36.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "product_id": "2761852",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2761852+eighth_ounce/riviera-creek-yo-rocks-3-5g-sativa",
+    "name": "Yo Rocks",
+    "brand": "Riviera Creek",
+    "product_format": "whole buds",
+    "strain_type": "sativa",
+    "thc_percent": 32.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
-    "package_size_grams": 2.0,
+    "package_size_grams": null,
     "terpenes": [
-      "Caryo",
-      "Limonene"
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -6261,7 +6261,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -6283,7 +6283,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -6305,7 +6305,7 @@
     "sale_price": null,
     "msrp": 36.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -6327,7 +6327,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -6346,10 +6346,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 127.22,
+    "sale_price": null,
     "msrp": 181.75,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -6368,10 +6368,10 @@
     "product_format": "mixed buds",
     "strain_type": "indica",
     "thc_percent": 20.0,
-    "sale_price": 24.85,
+    "sale_price": null,
     "msrp": 35.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6390,10 +6390,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 23.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6412,10 +6412,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 28.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6434,36 +6434,14 @@
     "product_format": "smalls",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "massillon",
-    "category": "flower",
-    "product_id": "1409174",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1409174+two_gram/rythm-animal-face-2-83g-indica",
-    "name": "Animal Face",
-    "brand": "Rythm",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 24.0,
-    "sale_price": 25.55,
-    "msrp": 36.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
-    "extra": {},
-    "package_size_grams": 2.0,
-    "terpenes": [
-      "Myrcene",
       "Caryo"
     ]
   },
@@ -6481,12 +6459,34 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Caryo",
       "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "flower",
+    "product_id": "2819241",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2819241+eighth_ounce/meigs-county-garlic-drip-3-5g-indica",
+    "name": "Garlic Drip",
+    "brand": "Meigs County",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 28.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Linalool"
     ]
   },
   {
@@ -6500,10 +6500,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6525,7 +6525,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6544,10 +6544,10 @@
     "product_format": "UNKNOWN",
     "strain_type": "hybrid",
     "thc_percent": 21.0,
-    "sale_price": 84.87,
+    "sale_price": null,
     "msrp": 121.25,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -6559,44 +6559,44 @@
     "source": "bloom",
     "location": "massillon",
     "category": "flower",
-    "product_id": "2147121",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2147121+two_gram/rythm-hash-queen-2-83g-sativa",
-    "name": "Hash Queen",
-    "brand": "Rythm",
+    "product_id": "2817415",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2817415+eighth_ounce/king-city-gardens-purple-cake-3-5g-indica",
+    "name": "Purple Cake",
+    "brand": "King City Gardens",
     "product_format": "whole buds",
-    "strain_type": "sativa",
-    "thc_percent": 21.0,
-    "sale_price": 24.67,
-    "msrp": 35.25,
+    "strain_type": "indica",
+    "thc_percent": 23.0,
+    "sale_price": 24.85,
+    "msrp": 35.5,
     "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
-    "package_size_grams": 2.0,
+    "package_size_grams": null,
     "terpenes": [
       "Myrcene",
-      "Caryo"
+      "Limonene"
     ]
   },
   {
     "source": "bloom",
     "location": "massillon",
     "category": "flower",
-    "product_id": "2476541",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2476541+ounce/rythm-scout-dawg-og-mixed-buds-28g-hybrid",
-    "name": "Scout Dawg Og",
-    "brand": "Rythm",
-    "product_format": "mixed buds",
-    "strain_type": "hybrid",
-    "thc_percent": 27.0,
-    "sale_price": 154.35,
-    "msrp": 220.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:38Z",
+    "product_id": "2801891",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2801891+eighth_ounce/modern-flower-sweet-tooth-3-5g-sativa",
+    "name": "Sweet Tooth",
+    "brand": "Modern Flower",
+    "product_format": "whole buds",
+    "strain_type": "sativa",
+    "thc_percent": 26.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:01Z",
     "extra": {},
-    "package_size_grams": 28.0,
+    "package_size_grams": null,
     "terpenes": [
-      "Caryo",
-      "Limonene"
+      "Limonene",
+      "Myrcene"
     ]
   },
   {
@@ -6613,7 +6613,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -6632,10 +6632,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 32.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6657,7 +6657,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6676,10 +6676,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 22.0,
-    "sale_price": 32.62,
+    "sale_price": null,
     "msrp": 43.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -6701,7 +6701,7 @@
     "sale_price": null,
     "msrp": 79.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6720,10 +6720,10 @@
     "product_format": "whole buds",
     "strain_type": null,
     "thc_percent": 27.0,
-    "sale_price": 126.35,
+    "sale_price": null,
     "msrp": 180.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -6745,7 +6745,7 @@
     "sale_price": null,
     "msrp": 78.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6764,10 +6764,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 27.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6786,10 +6786,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 31.0,
-    "sale_price": 78.75,
+    "sale_price": null,
     "msrp": 112.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6808,10 +6808,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 30.0,
-    "sale_price": 31.85,
+    "sale_price": null,
     "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6833,7 +6833,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6855,7 +6855,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6877,7 +6877,7 @@
     "sale_price": null,
     "msrp": 42.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -6896,32 +6896,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 31.85,
-    "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Caryo",
-      "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "flower",
-    "product_id": "2817444",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2817444+eighth_ounce/king-city-gardens-blueberry-muffin-3-5g-hybrid",
-    "name": "Blueberry Muffin",
-    "brand": "King City Gardens",
-    "product_format": "whole buds",
-    "strain_type": "hybrid",
-    "thc_percent": 24.0,
     "sale_price": null,
-    "msrp": 35.5,
+    "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6943,11 +6921,33 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "flower",
+    "product_id": "2817444",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2817444+eighth_ounce/king-city-gardens-blueberry-muffin-3-5g-hybrid",
+    "name": "Blueberry Muffin",
+    "brand": "King City Gardens",
+    "product_format": "whole buds",
+    "strain_type": "hybrid",
+    "thc_percent": 24.0,
+    "sale_price": 24.85,
+    "msrp": 35.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:17Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Caryo",
       "Myrcene"
     ]
   },
@@ -6965,7 +6965,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -6987,12 +6987,34 @@
     "sale_price": null,
     "msrp": 41.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Ocimene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "flower",
+    "product_id": "2761876",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2761876+eighth_ounce/riviera-creek-uptown-f-3-5g-indica",
+    "name": "Uptown F",
+    "brand": "Riviera Creek",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 26.0,
+    "sale_price": null,
+    "msrp": 54.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Linalool"
     ]
   },
   {
@@ -7009,34 +7031,12 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "flower",
-    "product_id": "2761876",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2761876+eighth_ounce/riviera-creek-uptown-f-3-5g-indica",
-    "name": "Uptown F",
-    "brand": "Riviera Creek",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 26.0,
-    "sale_price": 40.87,
-    "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:54Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
     ]
   },
   {
@@ -7050,10 +7050,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 24.0,
-    "sale_price": 104.65,
+    "sale_price": null,
     "msrp": 149.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -7075,7 +7075,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7097,11 +7097,33 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Terpinolene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "flower",
+    "product_id": "2774943",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2774943+eighth_ounce/king-city-gardens-dulce-de-uva-smalls-3-5g-hybrid",
+    "name": "Dulce De Uva",
+    "brand": "King City Gardens",
+    "product_format": "smalls",
+    "strain_type": "hybrid",
+    "thc_percent": 28.0,
+    "sale_price": 28.35,
+    "msrp": 40.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:17Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
       "Myrcene"
     ]
   },
@@ -7116,37 +7138,15 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 32.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "flower",
-    "product_id": "2774943",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2774943+eighth_ounce/king-city-gardens-dulce-de-uva-smalls-3-5g-hybrid",
-    "name": "Dulce De Uva",
-    "brand": "King City Gardens",
-    "product_format": "smalls",
-    "strain_type": "hybrid",
-    "thc_percent": 28.0,
-    "sale_price": null,
-    "msrp": 40.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -7163,7 +7163,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -7182,10 +7182,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7207,7 +7207,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -7229,7 +7229,7 @@
     "sale_price": null,
     "msrp": 36.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -7248,10 +7248,32 @@
     "product_format": "mixed buds",
     "strain_type": "indica",
     "thc_percent": 20.0,
-    "sale_price": 24.85,
+    "sale_price": null,
     "msrp": 35.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "flower",
+    "product_id": "2801891",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2801891+eighth_ounce/modern-flower-sweet-tooth-3-5g-sativa",
+    "name": "Sweet Tooth",
+    "brand": "Modern Flower",
+    "product_format": "whole buds",
+    "strain_type": "sativa",
+    "thc_percent": 25.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7270,37 +7292,15 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 23.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "flower",
-    "product_id": "2801891",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2801891+eighth_ounce/modern-flower-sweet-tooth-3-5g-sativa",
-    "name": "Sweet Tooth",
-    "brand": "Modern Flower",
-    "product_format": "whole buds",
-    "strain_type": "sativa",
-    "thc_percent": 25.0,
-    "sale_price": null,
-    "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -7317,7 +7317,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7336,10 +7336,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7361,7 +7361,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7383,7 +7383,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7405,7 +7405,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7427,7 +7427,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7446,59 +7446,15 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Caryo",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "flower",
-    "product_id": "2728222",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2728222+two_gram/the-standard-race-gas-2-83g-indica",
-    "name": "Race Gas",
-    "brand": "The Standard",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 24.0,
-    "sale_price": null,
-    "msrp": 32.25,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
-    "extra": {},
-    "package_size_grams": 2.0,
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "flower",
-    "product_id": "2823223",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2823223+eighth_ounce/klutch-lemon-cherry-gelato-3-54g-hybrid",
-    "name": "Lemon Cherry Gelato",
-    "brand": "Klutch",
-    "product_format": "whole buds",
-    "strain_type": "hybrid",
-    "thc_percent": 23.0,
-    "sale_price": null,
-    "msrp": 50.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
     ]
   },
   {
@@ -7515,7 +7471,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7527,22 +7483,44 @@
     "source": "bloom",
     "location": "painesville",
     "category": "flower",
-    "product_id": "2820749",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2820749+eighth_ounce/seeker-gmo-pie-3-5g-hybrid",
-    "name": "Gmo Pie Seeker whole buds",
-    "brand": "UNKNOWN",
-    "product_format": "UNKNOWN",
+    "product_id": "2823223",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2823223+eighth_ounce/klutch-lemon-cherry-gelato-3-54g-hybrid",
+    "name": "Lemon Cherry Gelato",
+    "brand": "Klutch",
+    "product_format": "whole buds",
     "strain_type": "hybrid",
-    "thc_percent": 18.0,
+    "thc_percent": 23.0,
     "sale_price": null,
-    "msrp": 35.5,
+    "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
-      "Caryo",
-      "Limonene"
+      "Limonene",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "flower",
+    "product_id": "2728222",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2728222+two_gram/the-standard-race-gas-2-83g-indica",
+    "name": "Race Gas",
+    "brand": "The Standard",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 24.0,
+    "sale_price": null,
+    "msrp": 32.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
+    "extra": {},
+    "package_size_grams": 2.0,
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
     ]
   },
   {
@@ -7559,12 +7537,34 @@
     "sale_price": null,
     "msrp": 54.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "flower",
+    "product_id": "2820749",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2820749+eighth_ounce/seeker-gmo-pie-3-5g-hybrid",
+    "name": "Gmo Pie Seeker whole buds",
+    "brand": "UNKNOWN",
+    "product_format": "UNKNOWN",
+    "strain_type": "hybrid",
+    "thc_percent": 18.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Caryo",
+      "Limonene"
     ]
   },
   {
@@ -7578,10 +7578,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": null,
+    "sale_price": 31.85,
     "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7603,7 +7603,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7625,34 +7625,12 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "flower",
-    "product_id": "1642033",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/1642033+ounce/firelands-scientific-super-silver-pupil-28-3g-sativa",
-    "name": "Super Silver Pupil",
-    "brand": "Firelands Scientific",
-    "product_format": "whole buds",
-    "strain_type": "sativa",
-    "thc_percent": 20.0,
-    "sale_price": 175.35,
-    "msrp": 250.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
-    "extra": {},
-    "package_size_grams": 28.0,
-    "terpenes": [
-      "Terpinolene",
-      "Myrcene"
     ]
   },
   {
@@ -7669,12 +7647,34 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Caryo",
       "Humulene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "flower",
+    "product_id": "1642033",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/1642033+ounce/firelands-scientific-super-silver-pupil-28-3g-sativa",
+    "name": "Super Silver Pupil",
+    "brand": "Firelands Scientific",
+    "product_format": "whole buds",
+    "strain_type": "sativa",
+    "thc_percent": 20.0,
+    "sale_price": null,
+    "msrp": 250.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
+    "extra": {},
+    "package_size_grams": 28.0,
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene"
     ]
   },
   {
@@ -7688,37 +7688,15 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 31.85,
+    "sale_price": null,
     "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "flower",
-    "product_id": "2805343",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2805343+eighth_ounce/king-city-gardens-purple-cake-smalls-3-5g-indica",
-    "name": "Purple Cake",
-    "brand": "King City Gardens",
-    "product_format": "smalls",
-    "strain_type": "indica",
-    "thc_percent": 21.0,
-    "sale_price": null,
-    "msrp": 30.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Myrcene",
-      "Caryo"
     ]
   },
   {
@@ -7735,7 +7713,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7754,10 +7732,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 25.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7779,7 +7757,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7801,7 +7779,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7823,7 +7801,7 @@
     "sale_price": null,
     "msrp": 79.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -7842,37 +7820,15 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 20.0,
-    "sale_price": 98.35,
+    "sale_price": null,
     "msrp": 140.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
       "Caryo",
       "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "flower",
-    "product_id": "1003322",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/1003322+eighth_ounce/r-o-wedding-cake-3-5g-hybrid",
-    "name": "Wedding Cake R.o. whole buds",
-    "brand": "UNKNOWN",
-    "product_format": "UNKNOWN",
-    "strain_type": "hybrid",
-    "thc_percent": 22.0,
-    "sale_price": null,
-    "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -7889,11 +7845,33 @@
     "sale_price": null,
     "msrp": 54.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "flower",
+    "product_id": "1003322",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/1003322+eighth_ounce/r-o-wedding-cake-3-5g-hybrid",
+    "name": "Wedding Cake R.o. whole buds",
+    "brand": "UNKNOWN",
+    "product_format": "UNKNOWN",
+    "strain_type": "hybrid",
+    "thc_percent": 22.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
       "Caryo"
     ]
   },
@@ -7911,12 +7889,34 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:30:54Z",
+    "scraped_at": "2026-06-28T14:33:17Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "flower",
+    "product_id": "2769992",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2769992+eighth_ounce/klutch-rose-gold-rtz-3-54g-indica",
+    "name": "Rose Gold Rtz",
+    "brand": "Klutch",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 24.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:17Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Myrcene",
+      "Pinene"
     ]
   },
   {
@@ -7933,7 +7933,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -7955,7 +7955,7 @@
     "sale_price": null,
     "msrp": 42.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -7974,54 +7974,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 32.0,
-    "sale_price": 45.37,
-    "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:31:10Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Myrcene",
-      "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "flower",
-    "product_id": "2786228",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2786228+eighth_ounce/king-city-gardens-apples-bananas-3-5g-indica",
-    "name": "Apples & Bananas",
-    "brand": "King City Gardens",
-    "product_format": "whole buds",
-    "strain_type": "indica",
-    "thc_percent": 21.0,
     "sale_price": null,
-    "msrp": 35.5,
+    "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Myrcene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "flower",
-    "product_id": "2761900",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2761900+quarter_ounce/riviera-creek-garlic-cookies-small-buds-7g-indica",
-    "name": "Garlic Cookies",
-    "brand": "Riviera Creek",
-    "product_format": "smalls",
-    "strain_type": "indica",
-    "thc_percent": 31.0,
-    "sale_price": 78.75,
-    "msrp": 112.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8040,10 +7996,10 @@
     "product_format": "UNKNOWN",
     "strain_type": "hybrid",
     "thc_percent": 24.0,
-    "sale_price": 45.37,
+    "sale_price": null,
     "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8065,7 +8021,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8084,10 +8040,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 22.0,
-    "sale_price": 32.62,
+    "sale_price": null,
     "msrp": 43.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -8109,31 +8065,9 @@
     "sale_price": null,
     "msrp": 79.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "flower",
-    "product_id": "2765834",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2765834+half_ounce/woodward-fine-cannabis-permanent-g-14-15g-inidca",
-    "name": "Permanent G",
-    "brand": "Woodward Fine Cannabis",
-    "product_format": "whole buds",
-    "strain_type": null,
-    "thc_percent": 27.0,
-    "sale_price": 126.35,
-    "msrp": 180.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
-    "extra": {},
-    "package_size_grams": 14.0,
     "terpenes": [
       "Limonene",
       "Caryo"
@@ -8150,10 +8084,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 20.0,
-    "sale_price": 64.31,
+    "sale_price": null,
     "msrp": 85.75,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8175,7 +8109,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8197,7 +8131,7 @@
     "sale_price": null,
     "msrp": 79.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8219,7 +8153,7 @@
     "sale_price": null,
     "msrp": 56.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8238,10 +8172,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8260,10 +8194,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 27.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8282,10 +8216,10 @@
     "product_format": "smalls",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8307,7 +8241,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8326,10 +8260,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8351,7 +8285,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8370,10 +8304,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 30.0,
-    "sale_price": 31.85,
+    "sale_price": null,
     "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8395,7 +8329,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8417,7 +8351,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8436,10 +8370,54 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 26.0,
-    "sale_price": 31.85,
+    "sale_price": null,
     "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "flower",
+    "product_id": "2761900",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2761900+quarter_ounce/riviera-creek-garlic-cookies-small-buds-7g-indica",
+    "name": "Garlic Cookies",
+    "brand": "Riviera Creek",
+    "product_format": "smalls",
+    "strain_type": "indica",
+    "thc_percent": 30.0,
+    "sale_price": null,
+    "msrp": 112.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "flower",
+    "product_id": "2817444",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2817444+eighth_ounce/king-city-gardens-blueberry-muffin-3-5g-hybrid",
+    "name": "Blueberry Muffin",
+    "brand": "King City Gardens",
+    "product_format": "whole buds",
+    "strain_type": "hybrid",
+    "thc_percent": 24.0,
+    "sale_price": 24.85,
+    "msrp": 35.5,
     "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8461,33 +8439,11 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
-      "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "flower",
-    "product_id": "2817444",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2817444+eighth_ounce/king-city-gardens-blueberry-muffin-3-5g-hybrid",
-    "name": "Blueberry Muffin",
-    "brand": "King City Gardens",
-    "product_format": "whole buds",
-    "strain_type": "hybrid",
-    "thc_percent": 24.0,
-    "sale_price": null,
-    "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Caryo",
       "Myrcene"
     ]
   },
@@ -8505,7 +8461,7 @@
     "sale_price": null,
     "msrp": 41.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8524,10 +8480,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8546,37 +8502,15 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 23.0,
-    "sale_price": null,
+    "sale_price": 31.85,
     "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "flower",
-    "product_id": "2820754",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2820754+eighth_ounce/seeker-zj-3-5g-sativa",
-    "name": "Zj Seeker whole buds",
-    "brand": "UNKNOWN",
-    "product_format": "UNKNOWN",
-    "strain_type": "sativa",
-    "thc_percent": 25.0,
-    "sale_price": null,
-    "msrp": 40.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -8593,12 +8527,34 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Limonene",
       "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "flower",
+    "product_id": "2820754",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2820754+eighth_ounce/seeker-zj-3-5g-sativa",
+    "name": "Zj Seeker whole buds",
+    "brand": "UNKNOWN",
+    "product_format": "UNKNOWN",
+    "strain_type": "sativa",
+    "thc_percent": 25.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Caryo",
+      "Limonene"
     ]
   },
   {
@@ -8615,7 +8571,7 @@
     "sale_price": null,
     "msrp": 56.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8634,10 +8590,10 @@
     "product_format": "smalls",
     "strain_type": "hybrid",
     "thc_percent": 28.0,
-    "sale_price": null,
+    "sale_price": 28.35,
     "msrp": 40.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8656,10 +8612,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8681,7 +8637,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -8703,7 +8659,7 @@
     "sale_price": null,
     "msrp": 38.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -8725,7 +8681,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8744,10 +8700,10 @@
     "product_format": "whole buds",
     "strain_type": "indica",
     "thc_percent": 27.0,
-    "sale_price": 127.22,
+    "sale_price": null,
     "msrp": 181.75,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": 14.0,
     "terpenes": [
@@ -8766,10 +8722,10 @@
     "product_format": "whole buds",
     "strain_type": "sativa",
     "thc_percent": 23.0,
-    "sale_price": null,
+    "sale_price": 24.85,
     "msrp": 35.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": 30,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8788,10 +8744,10 @@
     "product_format": "mixed buds",
     "strain_type": "indica",
     "thc_percent": 20.0,
-    "sale_price": 24.85,
+    "sale_price": null,
     "msrp": 35.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8810,10 +8766,10 @@
     "product_format": "smalls",
     "strain_type": "sativa",
     "thc_percent": 31.0,
-    "sale_price": 78.75,
+    "sale_price": null,
     "msrp": 112.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8835,7 +8791,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8857,7 +8813,7 @@
     "sale_price": null,
     "msrp": 36.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -8876,10 +8832,10 @@
     "product_format": "smalls",
     "strain_type": "indica",
     "thc_percent": 26.0,
-    "sale_price": 70.35,
+    "sale_price": null,
     "msrp": 100.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8901,7 +8857,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8923,7 +8879,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8945,7 +8901,7 @@
     "sale_price": null,
     "msrp": 33.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -8967,7 +8923,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -8989,7 +8945,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -9011,34 +8967,12 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Pinene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "flower",
-    "product_id": "1897723",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/1897723+eighth_ounce/rythm-bananaconda-3-5g-hybrid",
-    "name": "Bananaconda",
-    "brand": "Rythm",
-    "product_format": "whole buds",
-    "strain_type": "hybrid",
-    "thc_percent": 25.0,
-    "sale_price": 31.85,
-    "msrp": 45.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-27T14:31:10Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Linalool"
     ]
   },
   {
@@ -9052,10 +8986,10 @@
     "product_format": "whole buds",
     "strain_type": "hybrid",
     "thc_percent": 26.0,
-    "sale_price": 40.87,
+    "sale_price": null,
     "msrp": 54.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -9077,7 +9011,7 @@
     "sale_price": null,
     "msrp": 32.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
@@ -9099,7 +9033,29 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "flower",
+    "product_id": "2761852",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2761852+eighth_ounce/riviera-creek-yo-rocks-3-5g-sativa",
+    "name": "Yo Rocks",
+    "brand": "Riviera Creek",
+    "product_format": "whole buds",
+    "strain_type": "sativa",
+    "thc_percent": 32.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
@@ -9121,56 +9077,12 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "flower",
-    "product_id": "2761852",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2761852+eighth_ounce/riviera-creek-yo-rocks-3-5g-sativa",
-    "name": "Yo Rocks",
-    "brand": "Riviera Creek",
-    "product_format": "whole buds",
-    "strain_type": "sativa",
-    "thc_percent": 32.0,
-    "sale_price": 45.37,
-    "msrp": 60.5,
-    "discount_percent": 25,
-    "scraped_at": "2026-06-27T14:31:10Z",
-    "extra": {},
-    "package_size_grams": null,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "flower",
-    "product_id": "2481978",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2481978+two_gram/khalifa-kush-point-breeze-2-83g-indica",
-    "name": "Point Breeze Khalifa Kush whole buds",
-    "brand": "UNKNOWN",
-    "product_format": "UNKNOWN",
-    "strain_type": "indica",
-    "thc_percent": 19.0,
-    "sale_price": null,
-    "msrp": 42.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
-    "extra": {},
-    "package_size_grams": 2.0,
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -9187,12 +9099,34 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": 2.0,
     "terpenes": [
       "Caryo",
       "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "flower",
+    "product_id": "2481978",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2481978+two_gram/khalifa-kush-point-breeze-2-83g-indica",
+    "name": "Point Breeze Khalifa Kush whole buds",
+    "brand": "UNKNOWN",
+    "product_format": "UNKNOWN",
+    "strain_type": "indica",
+    "thc_percent": 19.0,
+    "sale_price": null,
+    "msrp": 42.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
+    "extra": {},
+    "package_size_grams": 2.0,
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -9209,12 +9143,34 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Caryo",
       "Humulene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "flower",
+    "product_id": "2819241",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2819241+eighth_ounce/meigs-county-garlic-drip-3-5g-indica",
+    "name": "Garlic Drip",
+    "brand": "Meigs County",
+    "product_format": "whole buds",
+    "strain_type": "indica",
+    "thc_percent": 25.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Limonene",
+      "Linalool"
     ]
   },
   {
@@ -9231,12 +9187,56 @@
     "sale_price": null,
     "msrp": 79.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-27T14:31:10Z",
+    "scraped_at": "2026-06-28T14:33:34Z",
     "extra": {},
     "package_size_grams": null,
     "terpenes": [
       "Terpinolene",
       "Ocimene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "flower",
+    "product_id": "2820749",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2820749+eighth_ounce/seeker-gmo-pie-3-5g-hybrid",
+    "name": "Gmo Pie Seeker whole buds",
+    "brand": "UNKNOWN",
+    "product_format": "UNKNOWN",
+    "strain_type": "hybrid",
+    "thc_percent": 18.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "flower",
+    "product_id": "2807744",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2807744+eighth_ounce/khalifa-kush-baby-turtle-3-54g-hybrid",
+    "name": "Baby Turtle Khalifa Kush whole buds",
+    "brand": "UNKNOWN",
+    "product_format": "UNKNOWN",
+    "strain_type": "hybrid",
+    "thc_percent": 22.0,
+    "sale_price": null,
+    "msrp": 54.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-28T14:33:34Z",
+    "extra": {},
+    "package_size_grams": null,
+    "terpenes": [
+      "Myrcene",
+      "Linalool"
     ]
   }
 ]
