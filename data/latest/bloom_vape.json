@@ -13,7 +13,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -39,7 +39,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -62,7 +62,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -85,7 +85,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -108,7 +108,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -133,7 +133,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -158,7 +158,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -183,7 +183,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -208,7 +208,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -231,7 +231,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -254,7 +254,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -277,7 +277,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -300,7 +300,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -323,7 +323,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -348,13 +348,59 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "vape",
+    "product_id": "2600799",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2600799+half_gram/riviera-creek-brier-hill-live-rosin-disposable-0-5g-hybrid",
+    "name": "Brier Hill",
+    "brand": "Riviera Creek",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 76.0,
+    "sale_price": 37.12,
+    "msrp": 49.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:05:39Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "vape",
+    "product_id": "2799908",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2799908+half_gram/butterfly-effect-triple-chocolate-chip-live-resin-cart-0-5g-indica",
+    "name": "Triple Chocolate Chip",
+    "brand": "Butterfly Effect",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 77.0,
+    "sale_price": null,
+    "msrp": 30.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:05:39Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
     ]
   },
   {
@@ -371,7 +417,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -396,7 +442,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -409,23 +455,26 @@
     "source": "bloom",
     "location": "akron",
     "category": "vape",
-    "product_id": "2799908",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2799908+half_gram/butterfly-effect-triple-chocolate-chip-live-resin-cart-0-5g-indica",
-    "name": "Triple Chocolate Chip",
-    "brand": "Butterfly Effect",
-    "product_format": "live resin cart",
-    "strain_type": "indica",
-    "thc_percent": 77.0,
+    "product_id": "2656647",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2656647+gram/standard-farms-stargazer-flexcell-disposable-1g-hybrid",
+    "name": "Stargazer",
+    "brand": "Standard Farms",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
     "sale_price": null,
-    "msrp": 30.5,
+    "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
     "terpenes": [
-      "Caryo",
-      "Limonene"
+      "Pinene",
+      "Myrcene"
     ]
   },
   {
@@ -442,7 +491,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -465,7 +514,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -488,7 +537,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -511,13 +560,38 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "vape",
+    "product_id": "2830950",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2830950+gram/citizen-by-klutch-ice-cream-cake-x-grape-rtz-full-spectrum-co2-ikrusher-disposable-1g-indica",
+    "name": "Ice Cream Cake X Grape Rtz",
+    "brand": "Citizen by Klutch",
+    "product_format": "full spec disposable",
+    "strain_type": "indica",
+    "thc_percent": 69.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:05:39Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Linalool",
+      "Myrcene"
     ]
   },
   {
@@ -534,7 +608,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -559,7 +633,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -582,7 +656,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -605,7 +679,7 @@
     "sale_price": null,
     "msrp": 52.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -628,7 +702,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -651,38 +725,13 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Limonene",
       "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "vape",
-    "product_id": "2760251",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2760251+gram/cookies-berniehana-butter-full-spectrum-co2-ikrusher-disposable-1g-indica",
-    "name": "Berniehana Butter",
-    "brand": "Cookies",
-    "product_format": "full spec disposable",
-    "strain_type": "indica",
-    "thc_percent": 71.0,
-    "sale_price": null,
-    "msrp": 38.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBN"
-    ],
-    "terpenes": [
-      "Linalool",
-      "Limonene"
     ]
   },
   {
@@ -699,7 +748,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -722,7 +771,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -745,7 +794,7 @@
     "sale_price": null,
     "msrp": 42.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -770,7 +819,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -796,7 +845,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -819,7 +868,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -842,7 +891,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -865,7 +914,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -888,7 +937,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -911,7 +960,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -937,7 +986,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -960,7 +1009,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -983,7 +1032,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -1009,7 +1058,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1035,7 +1084,7 @@
     "sale_price": null,
     "msrp": 70.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1058,10 +1107,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "sativa",
     "thc_percent": 72.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -1084,7 +1133,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1093,6 +1142,32 @@
     "terpenes": [
       "Linalool",
       "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "akron",
+    "category": "vape",
+    "product_id": "2701569",
+    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2701569+gram/ub-good-red-splash-cart-1g-hybrid",
+    "name": "Red Splash",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:05:39Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
     ]
   },
   {
@@ -1109,7 +1184,7 @@
     "sale_price": null,
     "msrp": 80.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -1132,7 +1207,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -1157,7 +1232,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -1180,58 +1255,12 @@
     "sale_price": null,
     "msrp": 32.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
       "CBN"
     ],
-    "terpenes": [
-      "Myrcene",
-      "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "vape",
-    "product_id": "2600799",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2600799+half_gram/riviera-creek-brier-hill-live-rosin-disposable-0-5g-hybrid",
-    "name": "Brier Hill",
-    "brand": "Riviera Creek",
-    "product_format": "live rosin disposable",
-    "strain_type": "hybrid",
-    "thc_percent": 76.0,
-    "sale_price": null,
-    "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Limonene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "akron",
-    "category": "vape",
-    "product_id": "2821224",
-    "product_url": "https://bloommarijuana.com/oh/akron-dispensary/recreational-menu/product/2821224+gram/buckeye-relief-gmo-pop-live-resin-dank-tank-disposable-1g-hybrid",
-    "name": "Gmo Pop",
-    "brand": "Buckeye Relief",
-    "product_format": "live resin disposable",
-    "strain_type": "hybrid",
-    "thc_percent": 83.0,
-    "sale_price": null,
-    "msrp": 65.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
       "Limonene"
@@ -1251,7 +1280,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1277,7 +1306,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -1302,7 +1331,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1327,7 +1356,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1353,7 +1382,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -1376,7 +1405,7 @@
     "sale_price": null,
     "msrp": 20.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -1401,7 +1430,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -1424,7 +1453,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:31:50Z",
+    "scraped_at": "2026-06-29T15:05:39Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -1447,7 +1476,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1473,7 +1502,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -1496,7 +1525,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1521,7 +1550,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -1544,7 +1573,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -1567,7 +1596,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1592,7 +1621,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -1615,7 +1644,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -1640,7 +1669,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1666,7 +1695,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -1689,7 +1718,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -1712,7 +1741,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -1735,7 +1764,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -1760,7 +1789,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -1783,7 +1812,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -1803,10 +1832,10 @@
     "product_format": "live resin disposable",
     "strain_type": "hybrid",
     "thc_percent": 69.0,
-    "sale_price": 38.85,
+    "sale_price": null,
     "msrp": 55.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1816,6 +1845,31 @@
     "terpenes": [
       "Myrcene",
       "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2812043",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2812043+half_gram/ancient-roots-pyxystyx-live-rosin-cart-0-5g-hybrid",
+    "name": "Pyxystyx",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:05:56Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
     ]
   },
   {
@@ -1832,7 +1886,7 @@
     "sale_price": null,
     "msrp": 52.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -1855,38 +1909,13 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Limonene",
       "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "athens",
-    "category": "vape",
-    "product_id": "2812043",
-    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2812043+half_gram/ancient-roots-pyxystyx-live-rosin-cart-0-5g-hybrid",
-    "name": "Pyxystyx",
-    "brand": "Ancient Roots",
-    "product_format": "live rosin cart",
-    "strain_type": "hybrid",
-    "thc_percent": 71.0,
-    "sale_price": null,
-    "msrp": 50.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [
-      "CBG"
-    ],
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -1903,7 +1932,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -1928,7 +1957,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -1951,7 +1980,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -1974,7 +2003,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2000,7 +2029,7 @@
     "sale_price": null,
     "msrp": 70.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -2023,7 +2052,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -2046,7 +2075,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -2069,10 +2098,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "hybrid",
     "thc_percent": 76.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -2095,7 +2124,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2120,7 +2149,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -2143,7 +2172,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -2168,7 +2197,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2194,7 +2223,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -2219,7 +2248,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2244,38 +2273,13 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Linalool",
       "Pinene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "athens",
-    "category": "vape",
-    "product_id": "2707754",
-    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2707754+half_gram/ub-good-labs-pasture-bedtime-live-resin-cart-0-5g-indica",
-    "name": "Pasture Bedtime",
-    "brand": "Ub Good",
-    "product_format": "live resin cart",
-    "strain_type": "indica",
-    "thc_percent": 73.0,
-    "sale_price": null,
-    "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [
-      "CBG"
-    ],
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -2292,7 +2296,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2318,13 +2322,38 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2707754",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2707754+half_gram/ub-good-labs-pasture-bedtime-live-resin-cart-0-5g-indica",
+    "name": "Pasture Bedtime",
+    "brand": "Ub Good",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:05:56Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
     ]
   },
   {
@@ -2341,7 +2370,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2367,7 +2396,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2393,7 +2422,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2418,7 +2447,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2444,39 +2473,13 @@
     "sale_price": null,
     "msrp": 58.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "athens",
-    "category": "vape",
-    "product_id": "1520626",
-    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1520626+half_gram/ub-good-pink-surge-disposable-0-5g-sativa",
-    "name": "Pink Surge",
-    "brand": "Ub Good",
-    "product_format": "distillate disposable",
-    "strain_type": "sativa",
-    "thc_percent": 78.0,
-    "sale_price": null,
-    "msrp": 30.25,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [
-      "CBG",
-      "CBN"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -2493,10 +2496,36 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1520626",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1520626+half_gram/ub-good-pink-surge-disposable-0-5g-sativa",
+    "name": "Pink Surge",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:05:56Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG",
       "CBN"
     ],
     "terpenes": [
@@ -2515,10 +2544,10 @@
     "product_format": "distillate disposable",
     "strain_type": "indica",
     "thc_percent": 74.0,
-    "sale_price": 28.35,
+    "sale_price": null,
     "msrp": 40.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2543,7 +2572,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -2565,10 +2594,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "sativa",
     "thc_percent": 72.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -2591,7 +2620,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -2616,7 +2645,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2641,7 +2670,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2666,7 +2695,7 @@
     "sale_price": null,
     "msrp": 36.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2692,7 +2721,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2718,7 +2747,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2726,8 +2755,7 @@
       "CBN"
     ],
     "terpenes": [
-      "Limonene",
-      "Caryo"
+      "Limonene"
     ]
   },
   {
@@ -2744,7 +2772,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2767,10 +2795,10 @@
     "product_format": "distillate disposable",
     "strain_type": "sativa",
     "thc_percent": 75.0,
-    "sale_price": 28.35,
+    "sale_price": null,
     "msrp": 40.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2795,7 +2823,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2821,7 +2849,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -2844,7 +2872,32 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2530209",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2530209+gram/certified-cultivators-gdp-lrt-delibox-disposable-1g-indica",
+    "name": "Gdp",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2869,7 +2922,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
+    "scraped_at": "2026-06-29T15:05:56Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2878,31 +2931,6 @@
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "athens",
-    "category": "vape",
-    "product_id": "2530209",
-    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2530209+gram/certified-cultivators-gdp-lrt-delibox-disposable-1g-indica",
-    "name": "Gdp",
-    "brand": "Certified Cultivators",
-    "product_format": "distillate disposable",
-    "strain_type": "indica",
-    "thc_percent": 73.0,
-    "sale_price": null,
-    "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:07Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBD"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -2919,7 +2947,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -2945,7 +2973,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -2968,7 +2996,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -2991,7 +3019,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3014,7 +3042,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3037,7 +3065,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3060,7 +3088,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3083,7 +3111,7 @@
     "sale_price": null,
     "msrp": 20.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -3108,36 +3136,13 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "vape",
-    "product_id": "2799908",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2799908+half_gram/butterfly-effect-triple-chocolate-chip-live-resin-cart-0-5g-indica",
-    "name": "Triple Chocolate Chip",
-    "brand": "Butterfly Effect",
-    "product_format": "live resin cart",
-    "strain_type": "indica",
-    "thc_percent": 77.0,
-    "sale_price": null,
-    "msrp": 30.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -3154,9 +3159,32 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2799908",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2799908+half_gram/butterfly-effect-triple-chocolate-chip-live-resin-cart-0-5g-indica",
+    "name": "Triple Chocolate Chip",
+    "brand": "Butterfly Effect",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 77.0,
+    "sale_price": null,
+    "msrp": 30.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:15Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Caryo",
@@ -3177,7 +3205,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -3203,7 +3231,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3226,7 +3254,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3249,7 +3277,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3272,7 +3300,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -3281,6 +3309,31 @@
     "terpenes": [
       "Linalool",
       "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2178062",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2178062+half_gram/cookies-blue-raz-full-spectrum-co2-cart-0-5g-indica",
+    "name": "Blue Raz",
+    "brand": "Cookies",
+    "product_format": "full spec cart",
+    "strain_type": "indica",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 35.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:15Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool"
     ]
   },
   {
@@ -3297,7 +3350,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3320,7 +3373,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -3343,7 +3396,7 @@
     "sale_price": null,
     "msrp": 52.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -3366,7 +3419,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3389,7 +3442,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -3412,7 +3465,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -3435,7 +3488,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3458,7 +3511,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -3484,7 +3537,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -3507,7 +3560,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -3530,7 +3583,30 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2359330",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2359330+gram/butterfly-effect-layer-cake-live-resin-disposable-1g-indica",
+    "name": "Layer Cake",
+    "brand": "Butterfly Effect",
+    "product_format": "live resin disposable",
+    "strain_type": "indica",
+    "thc_percent": 88.0,
+    "sale_price": null,
+    "msrp": 65.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3553,32 +3629,9 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Myrcene",
-      "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "vape",
-    "product_id": "2359330",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2359330+gram/butterfly-effect-layer-cake-live-resin-disposable-1g-indica",
-    "name": "Layer Cake",
-    "brand": "Butterfly Effect",
-    "product_format": "live resin disposable",
-    "strain_type": "indica",
-    "thc_percent": 88.0,
-    "sale_price": null,
-    "msrp": 65.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
@@ -3599,13 +3652,38 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
       "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2687761",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2687761+gram/ub-good-gold-slice-cart-1g-indica",
+    "name": "Gold Slice",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:15Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -3622,7 +3700,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3645,7 +3723,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -3667,10 +3745,10 @@
     "product_format": "distillate disposable",
     "strain_type": "sativa",
     "thc_percent": 71.0,
-    "sale_price": 28.35,
+    "sale_price": null,
     "msrp": 40.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -3696,7 +3774,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -3721,7 +3799,7 @@
     "sale_price": null,
     "msrp": 80.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -3744,7 +3822,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -3764,10 +3842,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "hybrid",
     "thc_percent": 76.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -3790,7 +3868,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -3815,7 +3893,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -3841,7 +3919,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -3864,13 +3942,39 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2798875",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2798875+gram/king-city-gardens-green-kush-distillate-disposable-1g-sativa",
+    "name": "Green Kush",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:15Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
     ]
   },
   {
@@ -3887,7 +3991,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -3897,31 +4001,6 @@
     "terpenes": [
       "Limonene",
       "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "vape",
-    "product_id": "2080249",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2080249+gram/citizen-by-klutch-orange-43-full-spectrum-luster-pod-1g-sativa",
-    "name": "Orange 43",
-    "brand": "Citizen by Klutch",
-    "product_format": "full spec luster pod",
-    "strain_type": "sativa",
-    "thc_percent": 73.0,
-    "sale_price": null,
-    "msrp": 38.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBN"
-    ],
-    "terpenes": [
-      "Myrcene",
-      "Caryo"
     ]
   },
   {
@@ -3938,7 +4017,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -3963,7 +4042,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -3986,7 +4065,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4011,7 +4090,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4019,6 +4098,32 @@
     ],
     "terpenes": [
       "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "2798883",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2798883+gram/king-city-gardens-original-z-distillate-disposable-1g-hybrid",
+    "name": "Original Z",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:15Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
       "Limonene"
     ]
   },
@@ -4036,7 +4141,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4061,7 +4166,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4087,7 +4192,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4113,7 +4218,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -4138,7 +4243,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4148,31 +4253,6 @@
     "terpenes": [
       "Caryo",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "vape",
-    "product_id": "2687761",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2687761+gram/ub-good-gold-slice-cart-1g-indica",
-    "name": "Gold Slice",
-    "brand": "Ub Good",
-    "product_format": "distillate cart",
-    "strain_type": "indica",
-    "thc_percent": 80.0,
-    "sale_price": null,
-    "msrp": 33.75,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBD"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -4189,7 +4269,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4215,7 +4295,7 @@
     "sale_price": null,
     "msrp": 58.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4224,6 +4304,31 @@
     "terpenes": [
       "Myrcene",
       "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus_west",
+    "category": "vape",
+    "product_id": "1520626",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1520626+half_gram/ub-good-pink-surge-disposable-0-5g-sativa",
+    "name": "Pink Surge",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:15Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -4240,7 +4345,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -4263,7 +4368,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
+    "scraped_at": "2026-06-29T15:06:15Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4272,81 +4377,6 @@
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "vape",
-    "product_id": "2466639",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2466639+half_gram/riviera-creek-skyscraper-live-rosin-disposable-0-5g-sativa",
-    "name": "Skyscraper",
-    "brand": "Riviera Creek",
-    "product_format": "live rosin disposable",
-    "strain_type": "sativa",
-    "thc_percent": 72.0,
-    "sale_price": null,
-    "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Caryo",
-      "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "vape",
-    "product_id": "2551386",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2551386+gram/certified-cultivators-hammer-no-9-cart-1g-indica",
-    "name": "Hammer No. 9",
-    "brand": "Certified Cultivators",
-    "product_format": "distillate cart",
-    "strain_type": "indica",
-    "thc_percent": 74.0,
-    "sale_price": null,
-    "msrp": 38.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBD",
-      "CBN"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Pinene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus_west",
-    "category": "vape",
-    "product_id": "2832274",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2832274+gram/pure-ohio-wellness-alaskan-thunder-funk-full-spectrum-cart-1g-sativa",
-    "name": "Alaskan Thunder Funk",
-    "brand": "Pure Ohio Wellness",
-    "product_format": "full spec cart",
-    "strain_type": "sativa",
-    "thc_percent": 72.0,
-    "sale_price": null,
-    "msrp": 36.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:24Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBD",
-      "CBN"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -4363,7 +4393,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4389,7 +4419,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4412,7 +4442,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4435,7 +4465,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4458,7 +4488,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4481,7 +4511,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4504,7 +4534,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4527,7 +4557,7 @@
     "sale_price": null,
     "msrp": 20.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -4552,36 +4582,13 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "vape",
-    "product_id": "2799908",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2799908+half_gram/butterfly-effect-triple-chocolate-chip-live-resin-cart-0-5g-indica",
-    "name": "Triple Chocolate Chip",
-    "brand": "Butterfly Effect",
-    "product_format": "live resin cart",
-    "strain_type": "indica",
-    "thc_percent": 77.0,
-    "sale_price": null,
-    "msrp": 30.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -4598,9 +4605,32 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "vape",
+    "product_id": "2799908",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2799908+half_gram/butterfly-effect-triple-chocolate-chip-live-resin-cart-0-5g-indica",
+    "name": "Triple Chocolate Chip",
+    "brand": "Butterfly Effect",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 77.0,
+    "sale_price": null,
+    "msrp": 30.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:32Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Caryo",
@@ -4621,7 +4651,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4647,7 +4677,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4670,7 +4700,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4693,7 +4723,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4716,7 +4746,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4725,6 +4755,31 @@
     "terpenes": [
       "Linalool",
       "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "vape",
+    "product_id": "2178062",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2178062+half_gram/cookies-blue-raz-full-spectrum-co2-cart-0-5g-indica",
+    "name": "Blue Raz",
+    "brand": "Cookies",
+    "product_format": "full spec cart",
+    "strain_type": "indica",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 35.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:32Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool"
     ]
   },
   {
@@ -4741,7 +4796,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4764,7 +4819,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -4787,7 +4842,7 @@
     "sale_price": null,
     "msrp": 52.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -4810,7 +4865,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4833,7 +4888,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -4856,7 +4911,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -4879,7 +4934,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4902,7 +4957,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -4928,7 +4983,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -4951,7 +5006,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -4974,7 +5029,30 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "vape",
+    "product_id": "2359330",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2359330+gram/butterfly-effect-layer-cake-live-resin-disposable-1g-indica",
+    "name": "Layer Cake",
+    "brand": "Butterfly Effect",
+    "product_format": "live resin disposable",
+    "strain_type": "indica",
+    "thc_percent": 88.0,
+    "sale_price": null,
+    "msrp": 65.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -4997,32 +5075,9 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Myrcene",
-      "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "vape",
-    "product_id": "2359330",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2359330+gram/butterfly-effect-layer-cake-live-resin-disposable-1g-indica",
-    "name": "Layer Cake",
-    "brand": "Butterfly Effect",
-    "product_format": "live resin disposable",
-    "strain_type": "indica",
-    "thc_percent": 88.0,
-    "sale_price": null,
-    "msrp": 65.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
@@ -5043,13 +5098,38 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
       "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "vape",
+    "product_id": "2687761",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2687761+gram/ub-good-gold-slice-cart-1g-indica",
+    "name": "Gold Slice",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:32Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -5066,7 +5146,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -5089,7 +5169,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5111,10 +5191,10 @@
     "product_format": "distillate disposable",
     "strain_type": "sativa",
     "thc_percent": 71.0,
-    "sale_price": 28.35,
+    "sale_price": null,
     "msrp": 40.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5140,7 +5220,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -5165,7 +5245,7 @@
     "sale_price": null,
     "msrp": 80.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -5188,7 +5268,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -5208,10 +5288,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "hybrid",
     "thc_percent": 76.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -5234,7 +5314,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -5259,7 +5339,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5285,7 +5365,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -5308,13 +5388,39 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "vape",
+    "product_id": "2798875",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2798875+gram/king-city-gardens-green-kush-distillate-disposable-1g-sativa",
+    "name": "Green Kush",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:32Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
     ]
   },
   {
@@ -5331,7 +5437,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5341,31 +5447,6 @@
     "terpenes": [
       "Limonene",
       "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "vape",
-    "product_id": "2080249",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2080249+gram/citizen-by-klutch-orange-43-full-spectrum-luster-pod-1g-sativa",
-    "name": "Orange 43",
-    "brand": "Citizen by Klutch",
-    "product_format": "full spec luster pod",
-    "strain_type": "sativa",
-    "thc_percent": 73.0,
-    "sale_price": null,
-    "msrp": 38.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBN"
-    ],
-    "terpenes": [
-      "Myrcene",
-      "Caryo"
     ]
   },
   {
@@ -5382,7 +5463,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5407,7 +5488,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -5430,7 +5511,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5455,7 +5536,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5463,6 +5544,32 @@
     ],
     "terpenes": [
       "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "vape",
+    "product_id": "2798883",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2798883+gram/king-city-gardens-original-z-distillate-disposable-1g-hybrid",
+    "name": "Original Z",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:32Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
       "Limonene"
     ]
   },
@@ -5480,7 +5587,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5505,7 +5612,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5531,7 +5638,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5557,7 +5664,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -5582,7 +5689,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5592,31 +5699,6 @@
     "terpenes": [
       "Caryo",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "vape",
-    "product_id": "2687761",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2687761+gram/ub-good-gold-slice-cart-1g-indica",
-    "name": "Gold Slice",
-    "brand": "Ub Good",
-    "product_format": "distillate cart",
-    "strain_type": "indica",
-    "thc_percent": 80.0,
-    "sale_price": null,
-    "msrp": 33.75,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBD"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -5633,7 +5715,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5659,7 +5741,7 @@
     "sale_price": null,
     "msrp": 58.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5668,6 +5750,31 @@
     "terpenes": [
       "Myrcene",
       "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "columbus",
+    "category": "vape",
+    "product_id": "1520626",
+    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/1520626+half_gram/ub-good-pink-surge-disposable-0-5g-sativa",
+    "name": "Pink Surge",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:32Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -5684,7 +5791,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -5707,7 +5814,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
+    "scraped_at": "2026-06-29T15:06:32Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5716,81 +5823,6 @@
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "vape",
-    "product_id": "2466639",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2466639+half_gram/riviera-creek-skyscraper-live-rosin-disposable-0-5g-sativa",
-    "name": "Skyscraper",
-    "brand": "Riviera Creek",
-    "product_format": "live rosin disposable",
-    "strain_type": "sativa",
-    "thc_percent": 72.0,
-    "sale_price": null,
-    "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Caryo",
-      "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "vape",
-    "product_id": "2551386",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2551386+gram/certified-cultivators-hammer-no-9-cart-1g-indica",
-    "name": "Hammer No. 9",
-    "brand": "Certified Cultivators",
-    "product_format": "distillate cart",
-    "strain_type": "indica",
-    "thc_percent": 74.0,
-    "sale_price": null,
-    "msrp": 38.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBD",
-      "CBN"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Pinene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "columbus",
-    "category": "vape",
-    "product_id": "2832274",
-    "product_url": "https://bloommarijuana.com/oh/west-columbus-dispensary/recreational-menu/product/2832274+gram/pure-ohio-wellness-alaskan-thunder-funk-full-spectrum-cart-1g-sativa",
-    "name": "Alaskan Thunder Funk",
-    "brand": "Pure Ohio Wellness",
-    "product_format": "full spec cart",
-    "strain_type": "sativa",
-    "thc_percent": 72.0,
-    "sale_price": null,
-    "msrp": 36.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:41Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBD",
-      "CBN"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -5807,7 +5839,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5832,7 +5864,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -5855,7 +5887,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5880,7 +5912,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -5905,7 +5937,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -5928,7 +5960,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -5951,7 +5983,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -5974,7 +6006,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -5997,7 +6029,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6020,7 +6052,7 @@
     "sale_price": null,
     "msrp": 30.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6040,10 +6072,10 @@
     "product_format": "live resin cart",
     "strain_type": "hybrid",
     "thc_percent": 69.0,
-    "sale_price": 35.35,
+    "sale_price": null,
     "msrp": 50.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -6066,38 +6098,13 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Limonene",
       "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "massillon",
-    "category": "vape",
-    "product_id": "2457072",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2457072+gram/ember-blueberry-disposable-1g-indica",
-    "name": "Blueberry",
-    "brand": "Ember",
-    "product_format": "distillate disposable",
-    "strain_type": "indica",
-    "thc_percent": 71.0,
-    "sale_price": null,
-    "msrp": 48.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBN"
-    ],
-    "terpenes": [
-      "Myrcene",
-      "Caryo"
     ]
   },
   {
@@ -6114,7 +6121,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -6137,7 +6144,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6162,7 +6169,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -6187,7 +6194,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6210,7 +6217,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6233,7 +6240,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6258,7 +6265,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6283,7 +6290,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6308,7 +6315,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6333,7 +6340,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -6356,7 +6363,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6381,7 +6388,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6404,7 +6411,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6414,52 +6421,6 @@
     "terpenes": [
       "Caryo",
       "Humulene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "massillon",
-    "category": "vape",
-    "product_id": "2811806",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2811806+half_gram/ancient-roots-pyxystyx-live-rosin-disposable-0-5g-hybrid",
-    "name": "Pyxystyx",
-    "brand": "Ancient Roots",
-    "product_format": "live rosin disposable",
-    "strain_type": "hybrid",
-    "thc_percent": 71.0,
-    "sale_price": null,
-    "msrp": 52.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Caryo",
-      "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "massillon",
-    "category": "vape",
-    "product_id": "2812043",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2812043+half_gram/ancient-roots-pyxystyx-live-rosin-cart-0-5g-hybrid",
-    "name": "Pyxystyx",
-    "brand": "Ancient Roots",
-    "product_format": "live rosin cart",
-    "strain_type": "hybrid",
-    "thc_percent": 71.0,
-    "sale_price": null,
-    "msrp": 50.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -6476,13 +6437,59 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Limonene",
       "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2812043",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2812043+half_gram/ancient-roots-pyxystyx-live-rosin-cart-0-5g-hybrid",
+    "name": "Pyxystyx",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:49Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2811806",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2811806+half_gram/ancient-roots-pyxystyx-live-rosin-disposable-0-5g-hybrid",
+    "name": "Pyxystyx",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 52.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:49Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
     ]
   },
   {
@@ -6499,7 +6506,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6525,7 +6532,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6548,7 +6555,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6571,7 +6578,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6594,7 +6601,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6616,10 +6623,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "indica",
     "thc_percent": 76.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6642,7 +6649,7 @@
     "sale_price": null,
     "msrp": 70.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6668,7 +6675,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6693,7 +6700,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6718,7 +6725,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -6727,6 +6734,32 @@
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2701569",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2701569+gram/ub-good-red-splash-cart-1g-hybrid",
+    "name": "Red Splash",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:49Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
     ]
   },
   {
@@ -6743,7 +6776,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -6768,7 +6801,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6791,7 +6824,7 @@
     "sale_price": null,
     "msrp": 32.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -6813,10 +6846,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "hybrid",
     "thc_percent": 76.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -6839,34 +6872,9 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [
-      "CBG"
-    ],
-    "terpenes": [
-      "Myrcene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "massillon",
-    "category": "vape",
-    "product_id": "2658644",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2658644+gram/timeless-forbidden-fuel-disposable-1g-indica",
-    "name": "Forbidden Fuel",
-    "brand": "Timeless",
-    "product_format": "distillate disposable",
-    "strain_type": "indica",
-    "thc_percent": 87.0,
-    "sale_price": null,
-    "msrp": 60.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
       "CBG"
     ],
@@ -6889,7 +6897,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -6897,6 +6905,31 @@
     ],
     "terpenes": [
       "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2658644",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2658644+gram/timeless-forbidden-fuel-disposable-1g-indica",
+    "name": "Forbidden Fuel",
+    "brand": "Timeless",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 87.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:49Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Myrcene",
       "Caryo"
     ]
   },
@@ -6914,7 +6947,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -6937,36 +6970,13 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Caryo",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "massillon",
-    "category": "vape",
-    "product_id": "2823469",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2823469+gram/certified-cultivators-garlic-juice-live-liquid-diamonds-ikrusher-disposable-1g-indica",
-    "name": "Garlic Juice",
-    "brand": "Certified Cultivators",
-    "product_format": "live liquid diamond disposable",
-    "strain_type": "indica",
-    "thc_percent": 79.0,
-    "sale_price": null,
-    "msrp": 60.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Myrcene",
-      "Caryo"
     ]
   },
   {
@@ -6983,7 +6993,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7009,7 +7019,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7025,24 +7035,22 @@
     "source": "bloom",
     "location": "massillon",
     "category": "vape",
-    "product_id": "2716705",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2716705+gram/josh-d-crowd-surfer-full-spectrum-co2-ikrusher-disposable-1g-hybrid",
-    "name": "Crowd Surfer",
-    "brand": "Josh D",
-    "product_format": "full spec disposable",
+    "product_id": "1567580",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1567580+half_gram/ub-good-yellow-split-disposable-0-5g-hybrid",
+    "name": "Yellow Split",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
     "strain_type": "hybrid",
-    "thc_percent": 71.0,
+    "thc_percent": 83.0,
     "sale_price": null,
-    "msrp": 38.5,
+    "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBN"
-    ],
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
     "terpenes": [
-      "Linalool",
+      "Caryo",
       "Limonene"
     ]
   },
@@ -7060,7 +7068,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7075,22 +7083,24 @@
     "source": "bloom",
     "location": "massillon",
     "category": "vape",
-    "product_id": "1567580",
-    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/1567580+half_gram/ub-good-yellow-split-disposable-0-5g-hybrid",
-    "name": "Yellow Split",
-    "brand": "Ub Good",
-    "product_format": "distillate disposable",
+    "product_id": "2716705",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2716705+gram/josh-d-crowd-surfer-full-spectrum-co2-ikrusher-disposable-1g-hybrid",
+    "name": "Crowd Surfer",
+    "brand": "Josh D",
+    "product_format": "full spec disposable",
     "strain_type": "hybrid",
-    "thc_percent": 83.0,
+    "thc_percent": 71.0,
     "sale_price": null,
-    "msrp": 30.25,
+    "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
     "terpenes": [
-      "Caryo",
+      "Linalool",
       "Limonene"
     ]
   },
@@ -7108,7 +7118,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7134,12 +7144,37 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "massillon",
+    "category": "vape",
+    "product_id": "2787257",
+    "product_url": "https://bloommarijuana.com/oh/massillon-dispensary/recreational-menu/product/2787257+gram/bloom-cannabis-purple-martian-cart-1g-hybrid",
+    "name": "Purple Martian",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 84.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:49Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
       "Caryo"
     ]
   },
@@ -7157,7 +7192,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7182,7 +7217,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7207,7 +7242,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7233,7 +7268,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:58Z",
+    "scraped_at": "2026-06-29T15:06:49Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7259,7 +7294,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7269,6 +7304,31 @@
     "terpenes": [
       "Myrcene",
       "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "vape",
+    "product_id": "1567613",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/1567613+half_gram/ub-good-blue-rush-disposable-0-5g-sativa",
+    "name": "Blue Rush",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 811.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:05Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
     ]
   },
   {
@@ -7285,7 +7345,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7310,7 +7370,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -7333,7 +7393,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7358,7 +7418,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7383,7 +7443,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -7406,7 +7466,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -7429,7 +7489,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -7452,7 +7512,7 @@
     "sale_price": null,
     "msrp": 20.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -7477,7 +7537,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -7502,7 +7562,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7511,32 +7571,6 @@
     "terpenes": [
       "Myrcene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "vape",
-    "product_id": "2830950",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2830950+gram/citizen-by-klutch-ice-cream-cake-x-grape-rtz-full-spectrum-co2-ikrusher-disposable-1g-indica",
-    "name": "Ice Cream Cake X Grape Rtz",
-    "brand": "Citizen by Klutch",
-    "product_format": "full spec disposable",
-    "strain_type": "indica",
-    "thc_percent": 69.0,
-    "sale_price": null,
-    "msrp": 38.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBG",
-      "CBN"
-    ],
-    "terpenes": [
-      "Linalool",
-      "Myrcene"
     ]
   },
   {
@@ -7553,7 +7587,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -7576,7 +7610,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -7601,38 +7635,13 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Limonene",
       "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "vape",
-    "product_id": "2760251",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2760251+gram/cookies-berniehana-butter-full-spectrum-co2-ikrusher-disposable-1g-indica",
-    "name": "Berniehana Butter",
-    "brand": "Cookies",
-    "product_format": "full spec disposable",
-    "strain_type": "indica",
-    "thc_percent": 71.0,
-    "sale_price": null,
-    "msrp": 38.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBN"
-    ],
-    "terpenes": [
-      "Linalool",
-      "Limonene"
     ]
   },
   {
@@ -7649,7 +7658,7 @@
     "sale_price": null,
     "msrp": 42.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7674,7 +7683,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7684,29 +7693,6 @@
     "terpenes": [
       "Caryo",
       "Humulene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "vape",
-    "product_id": "2191665",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2191665+half_gram/rythm-banana-cream-solventless-live-rosin-cart-0-5g-indica",
-    "name": "Banana Cream",
-    "brand": "Rythm",
-    "product_format": "live rosin cart",
-    "strain_type": "indica",
-    "thc_percent": 78.0,
-    "sale_price": null,
-    "msrp": 50.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Limonene",
-      "Myrcene"
     ]
   },
   {
@@ -7723,13 +7709,36 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Caryo",
       "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "vape",
+    "product_id": "2191665",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2191665+half_gram/rythm-banana-cream-solventless-live-rosin-cart-0-5g-indica",
+    "name": "Banana Cream",
+    "brand": "Rythm",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:05Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
     ]
   },
   {
@@ -7746,7 +7755,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -7769,7 +7778,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -7792,7 +7801,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -7805,26 +7814,52 @@
     "source": "bloom",
     "location": "painesville",
     "category": "vape",
-    "product_id": "2738137",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2738137+gram/timeless-noir-hash-plant-live-resin-terp-disposable-1g-indica",
-    "name": "Hash Plant",
-    "brand": "Timeless",
-    "product_format": "live resin disposable",
+    "product_id": "2798884",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2798884+gram/king-city-gardens-paris-og-distillate-disposable-1g-indica",
+    "name": "Paris Og",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
     "strain_type": "indica",
-    "thc_percent": 83.0,
+    "thc_percent": 72.0,
     "sale_price": null,
-    "msrp": 70.5,
+    "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
-      "CBG",
+      "CBD",
       "CBN"
     ],
     "terpenes": [
-      "Myrcene",
-      "Pinene"
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "vape",
+    "product_id": "2678737",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2678737+gram/ub-good-purple-krush-cart-1g-indica",
+    "name": "Purple Krush",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 80.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:05Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
     ]
   },
   {
@@ -7838,10 +7873,10 @@
     "product_format": "distillate disposable",
     "strain_type": "sativa",
     "thc_percent": 71.0,
-    "sale_price": 28.35,
+    "sale_price": null,
     "msrp": 40.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -7867,7 +7902,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -7892,7 +7927,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -7912,10 +7947,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "hybrid",
     "thc_percent": 76.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -7938,7 +7973,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -7947,6 +7982,32 @@
     "terpenes": [
       "Myrcene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "vape",
+    "product_id": "2701574",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2701574+gram/ub-good-yellow-split-cart-1g-hybrid",
+    "name": "Yellow Split",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:05Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
     ]
   },
   {
@@ -7963,7 +8024,7 @@
     "sale_price": null,
     "msrp": 32.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -7985,10 +8046,10 @@
     "product_format": "distillate disposable",
     "strain_type": "sativa",
     "thc_percent": 73.0,
-    "sale_price": 28.35,
+    "sale_price": null,
     "msrp": 40.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8014,7 +8075,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8040,7 +8101,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8066,7 +8127,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8092,7 +8153,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8118,7 +8179,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8143,62 +8204,11 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
       "CBG",
-      "CBN"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "vape",
-    "product_id": "1520626",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/1520626+half_gram/ub-good-pink-surge-disposable-0-5g-sativa",
-    "name": "Pink Surge",
-    "brand": "Ub Good",
-    "product_format": "distillate disposable",
-    "strain_type": "sativa",
-    "thc_percent": 78.0,
-    "sale_price": null,
-    "msrp": 30.25,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [
-      "CBN"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "vape",
-    "product_id": "2798884",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2798884+gram/king-city-gardens-paris-og-distillate-disposable-1g-indica",
-    "name": "Paris Og",
-    "brand": "King City Gardens",
-    "product_format": "distillate disposable",
-    "strain_type": "indica",
-    "thc_percent": 74.0,
-    "sale_price": 28.35,
-    "msrp": 40.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:33:15Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBD",
       "CBN"
     ],
     "terpenes": [
@@ -8220,7 +8230,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -8243,7 +8253,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8269,7 +8279,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8291,10 +8301,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "sativa",
     "thc_percent": 72.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -8317,7 +8327,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8343,7 +8353,7 @@
     "sale_price": null,
     "msrp": 36.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8369,7 +8379,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8377,8 +8387,7 @@
       "CBN"
     ],
     "terpenes": [
-      "Limonene",
-      "Caryo"
+      "Limonene"
     ]
   },
   {
@@ -8395,7 +8404,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8421,7 +8430,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8447,7 +8456,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8473,7 +8482,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8498,7 +8507,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8524,7 +8533,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8548,7 +8557,7 @@
     "sale_price": null,
     "msrp": 111.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -8557,32 +8566,6 @@
     "terpenes": [
       "Limonene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "vape",
-    "product_id": "2830315",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2830315+gram/buckeye-relief-garys-end-game-live-resin-dank-tank-disposable-1g-hybrid",
-    "name": "Gary's End Game",
-    "brand": "Buckeye Relief",
-    "product_format": "live resin disposable",
-    "strain_type": "hybrid",
-    "thc_percent": 77.0,
-    "sale_price": null,
-    "msrp": 65.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBG",
-      "CBN"
-    ],
-    "terpenes": [
-      "Myrcene",
-      "Limonene"
     ]
   },
   {
@@ -8599,7 +8582,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8625,7 +8608,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -8648,7 +8631,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8674,7 +8657,7 @@
     "sale_price": null,
     "msrp": 111.0,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -8697,10 +8680,10 @@
     "product_format": "live resin disposable",
     "strain_type": "hybrid",
     "thc_percent": 73.0,
-    "sale_price": 45.85,
+    "sale_price": null,
     "msrp": 65.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8710,6 +8693,57 @@
     "terpenes": [
       "Myrcene",
       "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "vape",
+    "product_id": "2182071",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2182071+half_gram/pure-ohio-wellness-frozen-bananas-live-rosin-cart-0-5g-hybrid",
+    "name": "Frozen Bananas",
+    "brand": "Pure Ohio Wellness",
+    "product_format": "live rosin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 77.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:05Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "vape",
+    "product_id": "2535896",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2535896+gram/hundred-percent-labs-swampwater-fumez-live-resin-crusher-cart-1g-indica",
+    "name": "Swampwater Fumez",
+    "brand": "Hundred Percent Labs",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 65.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:05Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
     ]
   },
   {
@@ -8726,7 +8760,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:15Z",
+    "scraped_at": "2026-06-29T15:07:05Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -8749,7 +8783,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8775,7 +8809,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8801,7 +8835,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -8824,7 +8858,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8849,7 +8883,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8874,7 +8908,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -8897,7 +8931,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -8922,7 +8956,7 @@
     "sale_price": null,
     "msrp": 49.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -8945,7 +8979,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -8968,7 +9002,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -8992,7 +9026,7 @@
     "sale_price": null,
     "msrp": 20.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -9018,7 +9052,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -9043,7 +9077,7 @@
     "sale_price": null,
     "msrp": 30.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -9066,7 +9100,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -9091,7 +9125,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -9114,7 +9148,7 @@
     "sale_price": null,
     "msrp": 48.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -9137,38 +9171,13 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "vape",
-    "product_id": "2830950",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2830950+gram/citizen-by-klutch-ice-cream-cake-x-grape-rtz-full-spectrum-co2-ikrusher-disposable-1g-indica",
-    "name": "Ice Cream Cake X Grape Rtz",
-    "brand": "Citizen by Klutch",
-    "product_format": "full spec disposable",
-    "strain_type": "indica",
-    "thc_percent": 69.0,
-    "sale_price": null,
-    "msrp": 38.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBN"
-    ],
-    "terpenes": [
-      "Linalool",
-      "Myrcene"
     ]
   },
   {
@@ -9185,7 +9194,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -9208,7 +9217,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -9233,7 +9242,7 @@
     "sale_price": null,
     "msrp": 35.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -9259,7 +9268,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -9282,38 +9291,13 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Limonene",
       "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "vape",
-    "product_id": "2760251",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2760251+gram/cookies-berniehana-butter-full-spectrum-co2-ikrusher-disposable-1g-indica",
-    "name": "Berniehana Butter",
-    "brand": "Cookies",
-    "product_format": "full spec disposable",
-    "strain_type": "indica",
-    "thc_percent": 71.0,
-    "sale_price": null,
-    "msrp": 38.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBN"
-    ],
-    "terpenes": [
-      "Linalool",
-      "Limonene"
     ]
   },
   {
@@ -9330,7 +9314,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -9353,7 +9337,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -9376,7 +9360,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -9399,10 +9383,10 @@
     "product_format": "live resin cart",
     "strain_type": "hybrid",
     "thc_percent": 69.0,
-    "sale_price": 35.35,
+    "sale_price": null,
     "msrp": 50.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -9425,7 +9409,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -9450,7 +9434,7 @@
     "sale_price": null,
     "msrp": 52.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -9475,7 +9459,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -9498,7 +9482,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -9523,7 +9507,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -9546,7 +9530,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -9569,7 +9553,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -9595,7 +9579,7 @@
     "sale_price": null,
     "msrp": 70.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -9618,10 +9602,10 @@
     "product_format": "distillate disposable",
     "strain_type": "indica",
     "thc_percent": 72.0,
-    "sale_price": 28.35,
+    "sale_price": null,
     "msrp": 40.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -9647,7 +9631,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -9670,7 +9654,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -9695,7 +9679,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -9704,6 +9688,31 @@
     ],
     "terpenes": [
       "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "vape",
+    "product_id": "1889079",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/1889079+half_gram/cookies-ridgeline-lantz-full-spectrum-co2-cart-0-5g-hybrid",
+    "name": "Ridgeline Lantz",
+    "brand": "Cookies",
+    "product_format": "full spec cart",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 35.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:22Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Linalool",
       "Limonene"
     ]
   },
@@ -9721,7 +9730,7 @@
     "sale_price": null,
     "msrp": 80.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -9730,31 +9739,6 @@
     "terpenes": [
       "Limonene",
       "Myrcene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "vape",
-    "product_id": "1889079",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/1889079+half_gram/cookies-ridgeline-lantz-full-spectrum-co2-cart-0-5g-hybrid",
-    "name": "Ridgeline Lantz",
-    "brand": "Cookies",
-    "product_format": "full spec cart",
-    "strain_type": "hybrid",
-    "thc_percent": 72.0,
-    "sale_price": null,
-    "msrp": 35.25,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [
-      "CBN"
-    ],
-    "terpenes": [
-      "Linalool",
-      "Limonene"
     ]
   },
   {
@@ -9771,7 +9755,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -9791,10 +9775,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "hybrid",
     "thc_percent": 76.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [],
@@ -9817,7 +9801,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -9825,6 +9809,32 @@
     ],
     "terpenes": [
       "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "vape",
+    "product_id": "2701574",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2701574+gram/ub-good-yellow-split-cart-1g-hybrid",
+    "name": "Yellow Split",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:22Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Caryo",
       "Limonene"
     ]
   },
@@ -9842,7 +9852,7 @@
     "sale_price": null,
     "msrp": 55.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -9851,32 +9861,6 @@
     "terpenes": [
       "Myrcene",
       "Caryo"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "vape",
-    "product_id": "2701574",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2701574+gram/ub-good-yellow-split-cart-1g-hybrid",
-    "name": "Yellow Split",
-    "brand": "Ub Good",
-    "product_format": "distillate cart",
-    "strain_type": "hybrid",
-    "thc_percent": 81.0,
-    "sale_price": null,
-    "msrp": 33.75,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [
-      "CBD",
-      "CBN"
-    ],
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -9893,7 +9877,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -9918,7 +9902,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -9941,7 +9925,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
@@ -9961,10 +9945,10 @@
     "product_format": "distillate disposable",
     "strain_type": "sativa",
     "thc_percent": 73.0,
-    "sale_price": 28.35,
+    "sale_price": null,
     "msrp": 40.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -9990,7 +9974,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -10016,7 +10000,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -10025,31 +10009,6 @@
     "terpenes": [
       "Limonene",
       "Linalool"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "vape",
-    "product_id": "2707754",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2707754+half_gram/ub-good-labs-pasture-bedtime-live-resin-cart-0-5g-indica",
-    "name": "Pasture Bedtime",
-    "brand": "Ub Good",
-    "product_format": "live resin cart",
-    "strain_type": "indica",
-    "thc_percent": 73.0,
-    "sale_price": null,
-    "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [
-      "CBG"
-    ],
-    "terpenes": [
-      "Caryo",
-      "Limonene"
     ]
   },
   {
@@ -10066,13 +10025,38 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [],
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "vape",
+    "product_id": "2707754",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2707754+half_gram/ub-good-labs-pasture-bedtime-live-resin-cart-0-5g-indica",
+    "name": "Pasture Bedtime",
+    "brand": "Ub Good",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:22Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
     ]
   },
   {
@@ -10089,7 +10073,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 0.5,
     "secondary_cannabinoids": [
@@ -10115,7 +10099,7 @@
     "sale_price": null,
     "msrp": 38.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -10141,7 +10125,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -10150,55 +10134,6 @@
     "terpenes": [
       "Myrcene",
       "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "vape",
-    "product_id": "2811412",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2811412+gram/king-city-gardens-garlic-juice-live-resin-cart-1g-indica",
-    "name": "Garlic Juice",
-    "brand": "King City Gardens",
-    "product_format": "live resin cart",
-    "strain_type": "indica",
-    "thc_percent": 78.0,
-    "sale_price": 35.35,
-    "msrp": 50.5,
-    "discount_percent": 30,
-    "scraped_at": "2026-06-28T14:33:31Z",
-    "extra": {},
-    "cart_size_grams": 1.0,
-    "secondary_cannabinoids": [],
-    "terpenes": [
-      "Myrcene",
-      "Limonene"
-    ]
-  },
-  {
-    "source": "bloom",
-    "location": "seven_mile",
-    "category": "vape",
-    "product_id": "1520626",
-    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/1520626+half_gram/ub-good-pink-surge-disposable-0-5g-sativa",
-    "name": "Pink Surge",
-    "brand": "Ub Good",
-    "product_format": "distillate disposable",
-    "strain_type": "sativa",
-    "thc_percent": 78.0,
-    "sale_price": null,
-    "msrp": 30.25,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
-    "extra": {},
-    "cart_size_grams": 0.5,
-    "secondary_cannabinoids": [
-      "CBG",
-      "CBN"
-    ],
-    "terpenes": [
-      "Limonene",
-      "Caryo"
     ]
   },
   {
@@ -10215,7 +10150,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:31Z",
+    "scraped_at": "2026-06-29T15:07:22Z",
     "extra": {},
     "cart_size_grams": 1.0,
     "secondary_cannabinoids": [
@@ -10225,6 +10160,80 @@
     "terpenes": [
       "Limonene",
       "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "vape",
+    "product_id": "1520626",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/1520626+half_gram/ub-good-pink-surge-disposable-0-5g-sativa",
+    "name": "Pink Surge",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 30.25,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:22Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "vape",
+    "product_id": "2713331",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2713331+gram/certified-cultivators-grapefruit-romulan-cart-1g-hybrid",
+    "name": "Grapefruit Romulan",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:22Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "seven_mile",
+    "category": "vape",
+    "product_id": "2466639",
+    "product_url": "https://bloommarijuana.com/oh/sevenmile-dispensary/recreational-menu/product/2466639+half_gram/riviera-creek-skyscraper-live-rosin-disposable-0-5g-sativa",
+    "name": "Skyscraper",
+    "brand": "Riviera Creek",
+    "product_format": "live rosin disposable",
+    "strain_type": "sativa",
+    "thc_percent": 72.0,
+    "sale_price": 37.12,
+    "msrp": 49.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:07:22Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
     ]
   }
 ]

@@ -13,7 +13,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:05Z",
+    "scraped_at": "2026-06-29T15:05:54Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -32,7 +32,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:05Z",
+    "scraped_at": "2026-06-29T15:05:54Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -51,7 +51,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:05Z",
+    "scraped_at": "2026-06-29T15:05:54Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -70,7 +70,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:05Z",
+    "scraped_at": "2026-06-29T15:05:54Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -89,7 +89,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:05Z",
+    "scraped_at": "2026-06-29T15:05:54Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -108,7 +108,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:05Z",
+    "scraped_at": "2026-06-29T15:05:54Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -127,7 +127,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:05Z",
+    "scraped_at": "2026-06-29T15:05:54Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -146,7 +146,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:05Z",
+    "scraped_at": "2026-06-29T15:05:54Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -165,7 +165,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:05Z",
+    "scraped_at": "2026-06-29T15:05:54Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -184,7 +184,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:05Z",
+    "scraped_at": "2026-06-29T15:05:54Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -203,7 +203,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:21Z",
+    "scraped_at": "2026-06-29T15:06:12Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -222,7 +222,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:21Z",
+    "scraped_at": "2026-06-29T15:06:12Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -241,7 +241,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:21Z",
+    "scraped_at": "2026-06-29T15:06:12Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -260,7 +260,7 @@
     "sale_price": null,
     "msrp": 52.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:21Z",
+    "scraped_at": "2026-06-29T15:06:12Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -279,7 +279,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:21Z",
+    "scraped_at": "2026-06-29T15:06:12Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -298,26 +298,7 @@
     "sale_price": null,
     "msrp": 30.25,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:21Z",
-    "extra": {},
-    "volume_ml": null,
-    "total_thc_mg": null
-  },
-  {
-    "source": "bloom",
-    "location": "athens",
-    "category": "topicals",
-    "product_id": "2707754",
-    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2707754+half_gram/ub-good-labs-pasture-bedtime-live-resin-cart-0-5g-indica",
-    "name": "Pasture Bedtime",
-    "brand": "Ub Good",
-    "product_format": "live resin cart",
-    "strain_type": "indica",
-    "thc_percent": 73.0,
-    "sale_price": null,
-    "msrp": 45.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:21Z",
+    "scraped_at": "2026-06-29T15:06:12Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -336,7 +317,26 @@
     "sale_price": null,
     "msrp": 65.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:21Z",
+    "scraped_at": "2026-06-29T15:06:12Z",
+    "extra": {},
+    "volume_ml": null,
+    "total_thc_mg": null
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "topicals",
+    "product_id": "2707754",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2707754+half_gram/ub-good-labs-pasture-bedtime-live-resin-cart-0-5g-indica",
+    "name": "Pasture Bedtime",
+    "brand": "Ub Good",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:06:12Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -355,7 +355,7 @@
     "sale_price": null,
     "msrp": 65.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:21Z",
+    "scraped_at": "2026-06-29T15:06:12Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -374,7 +374,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:21Z",
+    "scraped_at": "2026-06-29T15:06:12Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -393,7 +393,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:38Z",
+    "scraped_at": "2026-06-29T15:06:29Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -412,7 +412,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:38Z",
+    "scraped_at": "2026-06-29T15:06:29Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -431,7 +431,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:38Z",
+    "scraped_at": "2026-06-29T15:06:29Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -450,7 +450,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:38Z",
+    "scraped_at": "2026-06-29T15:06:29Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -469,7 +469,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:38Z",
+    "scraped_at": "2026-06-29T15:06:29Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -488,7 +488,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:38Z",
+    "scraped_at": "2026-06-29T15:06:29Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -507,7 +507,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:38Z",
+    "scraped_at": "2026-06-29T15:06:29Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -526,7 +526,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:38Z",
+    "scraped_at": "2026-06-29T15:06:29Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -545,7 +545,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:38Z",
+    "scraped_at": "2026-06-29T15:06:29Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -564,7 +564,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:38Z",
+    "scraped_at": "2026-06-29T15:06:29Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -583,7 +583,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:55Z",
+    "scraped_at": "2026-06-29T15:06:46Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -602,7 +602,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:55Z",
+    "scraped_at": "2026-06-29T15:06:46Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -621,7 +621,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:55Z",
+    "scraped_at": "2026-06-29T15:06:46Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -640,7 +640,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:55Z",
+    "scraped_at": "2026-06-29T15:06:46Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -659,7 +659,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:55Z",
+    "scraped_at": "2026-06-29T15:06:46Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -678,7 +678,7 @@
     "sale_price": null,
     "msrp": 33.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:55Z",
+    "scraped_at": "2026-06-29T15:06:46Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -697,7 +697,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:55Z",
+    "scraped_at": "2026-06-29T15:06:46Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -716,7 +716,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:55Z",
+    "scraped_at": "2026-06-29T15:06:46Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -735,7 +735,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:55Z",
+    "scraped_at": "2026-06-29T15:06:46Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -754,7 +754,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:32:55Z",
+    "scraped_at": "2026-06-29T15:06:46Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -773,7 +773,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:12Z",
+    "scraped_at": "2026-06-29T15:07:03Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -792,7 +792,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:12Z",
+    "scraped_at": "2026-06-29T15:07:03Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -811,7 +811,7 @@
     "sale_price": null,
     "msrp": 52.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:12Z",
+    "scraped_at": "2026-06-29T15:07:03Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -830,7 +830,7 @@
     "sale_price": null,
     "msrp": 52.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:12Z",
+    "scraped_at": "2026-06-29T15:07:03Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -849,7 +849,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:12Z",
+    "scraped_at": "2026-06-29T15:07:03Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -865,10 +865,10 @@
     "product_format": "live rosin disposable",
     "strain_type": "indica",
     "thc_percent": 76.0,
-    "sale_price": null,
+    "sale_price": 37.12,
     "msrp": 49.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:12Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:07:03Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -887,7 +887,7 @@
     "sale_price": null,
     "msrp": 65.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:12Z",
+    "scraped_at": "2026-06-29T15:07:03Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -906,7 +906,7 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:12Z",
+    "scraped_at": "2026-06-29T15:07:03Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -925,7 +925,7 @@
     "sale_price": null,
     "msrp": 65.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:12Z",
+    "scraped_at": "2026-06-29T15:07:03Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -944,7 +944,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:12Z",
+    "scraped_at": "2026-06-29T15:07:03Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -963,7 +963,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:29Z",
+    "scraped_at": "2026-06-29T15:07:20Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -982,7 +982,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:29Z",
+    "scraped_at": "2026-06-29T15:07:20Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1001,7 +1001,26 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:29Z",
+    "scraped_at": "2026-06-29T15:07:20Z",
+    "extra": {},
+    "volume_ml": null,
+    "total_thc_mg": null
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "topicals",
+    "product_id": "2701574",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2701574+gram/ub-good-yellow-split-cart-1g-hybrid",
+    "name": "Yellow Split",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 33.75,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:20Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1020,7 +1039,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:29Z",
+    "scraped_at": "2026-06-29T15:07:20Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1039,7 +1058,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:29Z",
+    "scraped_at": "2026-06-29T15:07:20Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1058,7 +1077,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:29Z",
+    "scraped_at": "2026-06-29T15:07:20Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1077,7 +1096,26 @@
     "sale_price": null,
     "msrp": 40.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:29Z",
+    "scraped_at": "2026-06-29T15:07:20Z",
+    "extra": {},
+    "volume_ml": null,
+    "total_thc_mg": null
+  },
+  {
+    "source": "bloom",
+    "location": "painesville",
+    "category": "topicals",
+    "product_id": "2653524",
+    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2653524+gram/timeless-og-kush-cart-1g-hybrid",
+    "name": "Og Kush",
+    "brand": "Timeless",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 84.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-06-29T15:07:20Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1093,48 +1131,10 @@
     "product_format": "riv sticks",
     "strain_type": "sativa",
     "thc_percent": 31.0,
-    "sale_price": null,
+    "sale_price": 13.69,
     "msrp": 18.25,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:29Z",
-    "extra": {},
-    "volume_ml": null,
-    "total_thc_mg": null
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "topicals",
-    "product_id": "2228767",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2228767+two_gram/select-elite-tangie-briq-disposable-2g-sativa",
-    "name": "Tangie",
-    "brand": "Select",
-    "product_format": "distillate disposable",
-    "strain_type": "sativa",
-    "thc_percent": 85.0,
-    "sale_price": null,
-    "msrp": 75.25,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:29Z",
-    "extra": {},
-    "volume_ml": null,
-    "total_thc_mg": null
-  },
-  {
-    "source": "bloom",
-    "location": "painesville",
-    "category": "topicals",
-    "product_id": "2598875",
-    "product_url": "https://bloommarijuana.com/oh/painesville-dispensary/recreational-menu/product/2598875+each/woodward-fine-cannabis-blueberry-cheesecake-preroll-2-5g-5pk-hybrid",
-    "name": "Blueberry Cheesecake",
-    "brand": "Woodward Fine Cannabis",
-    "product_format": "pks 2.5g - 5 pk ( 0.5g ea)",
-    "strain_type": "hybrid",
-    "thc_percent": 22.0,
-    "sale_price": null,
-    "msrp": 38.5,
-    "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:29Z",
+    "discount_percent": 25,
+    "scraped_at": "2026-06-29T15:07:20Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1153,7 +1153,7 @@
     "sale_price": null,
     "msrp": 35.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1172,7 +1172,7 @@
     "sale_price": null,
     "msrp": 65.75,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1191,7 +1191,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1210,7 +1210,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1229,7 +1229,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1248,7 +1248,7 @@
     "sale_price": null,
     "msrp": 50.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1267,7 +1267,7 @@
     "sale_price": null,
     "msrp": 45.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1286,7 +1286,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1305,7 +1305,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1324,7 +1324,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
@@ -1343,7 +1343,7 @@
     "sale_price": null,
     "msrp": 60.5,
     "discount_percent": null,
-    "scraped_at": "2026-06-28T14:33:45Z",
+    "scraped_at": "2026-06-29T15:07:36Z",
     "extra": {},
     "volume_ml": null,
     "total_thc_mg": null
