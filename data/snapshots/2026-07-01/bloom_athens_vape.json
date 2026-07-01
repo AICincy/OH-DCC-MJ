@@ -1,0 +1,1475 @@
+[
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1954288",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1954288+gram/bloom-cannabis-ss-diesel-cart-1g-sativa",
+    "name": "Ss Diesel",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "sativa",
+    "thc_percent": 85.0,
+    "sale_price": 24.85,
+    "msrp": 35.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2225623",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2225623+gram/woodward-fine-cannabis-banana-mac-cured-resin-cart-1g-sativa",
+    "name": "Banana Mac",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "cured resin cart",
+    "strain_type": "sativa",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 55.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2457184",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2457184+gram/ember-super-lemon-disposable-1g-sativa",
+    "name": "Super Lemon",
+    "brand": "Ember",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 48.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Humulene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2818676",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2818676+gram/the-standard-c-r-b-live-resin-disposable-1g",
+    "name": "C.r.b.",
+    "brand": "The Standard",
+    "product_format": "live resin disposable",
+    "strain_type": null,
+    "thc_percent": 68.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2561992",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2561992+gram/woodward-fine-cannabis-moon-powder-cured-resin-cart-1g-hybrid",
+    "name": "Moon Powder",
+    "brand": "Woodward Fine Cannabis",
+    "product_format": "cured resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 49.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2712967",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2712967+half_gram/ub-good-labs-beach-dosi-live-resin-cart-0-5g-indica",
+    "name": "Beach Dosi",
+    "brand": "Ub Good",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 76.0,
+    "sale_price": 34.12,
+    "msrp": 45.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2656647",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2656647+gram/standard-farms-stargazer-flexcell-disposable-1g-hybrid",
+    "name": "Stargazer",
+    "brand": "Standard Farms",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Pinene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1403686",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1403686+gram/rythm-head-cracker-live-resin-cart-1g-indica",
+    "name": "Head Cracker",
+    "brand": "Rythm",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2457072",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2457072+gram/ember-blueberry-disposable-1g-indica",
+    "name": "Blueberry",
+    "brand": "Ember",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 70.0,
+    "sale_price": null,
+    "msrp": 48.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1207077",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1207077+gram/rythm-animal-face-live-resin-cart-1g-indica",
+    "name": "Animal Face",
+    "brand": "Rythm",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2178062",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2178062+half_gram/cookies-blue-raz-full-spectrum-co2-cart-0-5g-indica",
+    "name": "Blue Raz",
+    "brand": "Cookies",
+    "product_format": "full spec cart",
+    "strain_type": "indica",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 35.25,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2165734",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2165734+half_gram/ancient-roots-chimera-3-live-rosin-cart-0-5g-indica",
+    "name": "Chimera #3",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2728279",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2728279+half_gram/rythm-captain-z-solventless-live-rosin-cart-0-5g-hybrid",
+    "name": "Captain Z",
+    "brand": "Rythm",
+    "product_format": "live rosin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2688287",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2688287+gram/hundred-percent-labs-coupe-de-ville-live-resin-crusher-disposable-1g-hybrid",
+    "name": "Coupe De Ville",
+    "brand": "Hundred Percent Labs",
+    "product_format": "live resin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 69.0,
+    "sale_price": null,
+    "msrp": 55.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2812043",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2812043+half_gram/ancient-roots-pyxystyx-live-rosin-cart-0-5g-hybrid",
+    "name": "Pyxystyx",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2811806",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2811806+half_gram/ancient-roots-pyxystyx-live-rosin-disposable-0-5g-hybrid",
+    "name": "Pyxystyx",
+    "brand": "Ancient Roots",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 71.0,
+    "sale_price": null,
+    "msrp": 52.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2191665",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2191665+half_gram/rythm-banana-cream-solventless-live-rosin-cart-0-5g-indica",
+    "name": "Banana Cream",
+    "brand": "Rythm",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 78.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2487485",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2487485+gram/buckeye-relief-rainbow-x-live-resin-dank-tank-disposable-1g-hybrid",
+    "name": "Rainbow X",
+    "brand": "Buckeye Relief",
+    "product_format": "live resin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 65.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2246776",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2246776+half_gram/rythm-dulce-de-uva-live-rosin-solventless-cart-0-5g-indica",
+    "name": "Dulce De Uva",
+    "brand": "Rythm",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2684195",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2684195+half_gram/pure-ohio-wellness-a-b-live-rosin-cart-0-5g-indica",
+    "name": "A & B",
+    "brand": "Pure Ohio Wellness",
+    "product_format": "live rosin cart",
+    "strain_type": "indica",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 35.25,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2687761",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2687761+gram/ub-good-gold-slice-cart-1g-indica",
+    "name": "Gold Slice",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 81.0,
+    "sale_price": 25.31,
+    "msrp": 33.75,
+    "discount_percent": 25,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2738137",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2738137+gram/timeless-noir-hash-plant-live-resin-terp-disposable-1g-indica",
+    "name": "Hash Plant",
+    "brand": "Timeless",
+    "product_format": "live resin disposable",
+    "strain_type": "indica",
+    "thc_percent": 83.0,
+    "sale_price": null,
+    "msrp": 70.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2327398",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2327398+gram/timeless-atf-disposable-1g-sativa",
+    "name": "Atf",
+    "brand": "Timeless",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 85.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Linalool",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1589989",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1589989+half_gram/ub-good-cherry-limeade-disposable-0-5g-hybrid",
+    "name": "Cherry Limeade- Disposable",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 78.0,
+    "sale_price": 22.69,
+    "msrp": 30.25,
+    "discount_percent": 25,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG",
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2600799",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2600799+half_gram/riviera-creek-brier-hill-live-rosin-disposable-0-5g-hybrid",
+    "name": "Brier Hill",
+    "brand": "Riviera Creek",
+    "product_format": "live rosin disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 49.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2658644",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2658644+gram/timeless-forbidden-fuel-disposable-1g-indica",
+    "name": "Forbidden Fuel",
+    "brand": "Timeless",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 87.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1970923",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1970923+gram/timeless-blackberry-kush-disposable-1g-indica",
+    "name": "Blackberry Kush",
+    "brand": "Timeless",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 81.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1537068",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1537068+half_gram/ub-good-purple-krush-disposable-0-5g-indica",
+    "name": "Purple Krush",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 82.0,
+    "sale_price": 22.69,
+    "msrp": 30.25,
+    "discount_percent": 25,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2080249",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2080249+gram/citizen-by-klutch-orange-43-full-spectrum-luster-pod-1g-sativa",
+    "name": "Orange 43",
+    "brand": "Citizen by Klutch",
+    "product_format": "full spec luster pod",
+    "strain_type": "sativa",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG",
+      "CBN"
+    ],
+    "terpenes": [
+      "Terpinolene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1567653",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1567653+half_gram/ub-good-gold-slice-pineapple-cake-disposable-0-5g-indica",
+    "name": "Gold Slice (pineapple Cake)",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 82.0,
+    "sale_price": 22.69,
+    "msrp": 30.25,
+    "discount_percent": 25,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2530215",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2530215+gram/certified-cultivators-dstar-lrt-delibox-disposable-1g-hybrid",
+    "name": "Dstar",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "36340",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/36340+gram/timeless-atf-cart-1g-sativa",
+    "name": "Atf",
+    "brand": "Timeless",
+    "product_format": "distillate cart",
+    "strain_type": "sativa",
+    "thc_percent": 86.0,
+    "sale_price": null,
+    "msrp": 60.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Linalool",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2787257",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2787257+gram/bloom-cannabis-purple-martian-cart-1g-hybrid",
+    "name": "Purple Martian",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 84.0,
+    "sale_price": 24.85,
+    "msrp": 35.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG",
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1944140",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1944140+gram/rythm-afternoon-delight-live-resin-cart-1g-hybrid",
+    "name": "Afternoon Delight",
+    "brand": "Rythm",
+    "product_format": "live resin cart",
+    "strain_type": "hybrid",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2707754",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2707754+half_gram/ub-good-labs-pasture-bedtime-live-resin-cart-0-5g-indica",
+    "name": "Pasture Bedtime",
+    "brand": "Ub Good",
+    "product_format": "live resin cart",
+    "strain_type": "indica",
+    "thc_percent": 73.0,
+    "sale_price": 34.12,
+    "msrp": 45.5,
+    "discount_percent": 25,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2791296",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2791296+gram/bloom-cannabis-hippie-crasher-cart-1g-indica",
+    "name": "Hippie Crasher",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 86.0,
+    "sale_price": 24.85,
+    "msrp": 35.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG",
+      "CBN"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2678737",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2678737+gram/ub-good-purple-krush-cart-1g-indica",
+    "name": "Purple Krush",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 78.0,
+    "sale_price": 25.31,
+    "msrp": 33.75,
+    "discount_percent": 25,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBG",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2593704",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2593704+gram/certified-cultivators-sunday-brunch-cart-1g-hybrid",
+    "name": "Sunday Brunch",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2730365",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2730365+gram/bloom-cannabis-paris-og-distillate-cart-1g-indica",
+    "name": "Paris Og",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 84.0,
+    "sale_price": 24.85,
+    "msrp": 35.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "486642",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/486642+gram/timeless-blackberry-kush-cart-1g-indica",
+    "name": "Blackberry Kush",
+    "brand": "Timeless",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 86.0,
+    "sale_price": null,
+    "msrp": 58.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1520626",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1520626+half_gram/ub-good-pink-surge-disposable-0-5g-sativa",
+    "name": "Pink Surge",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 78.0,
+    "sale_price": 22.69,
+    "msrp": 30.25,
+    "discount_percent": 25,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2668370",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2668370+gram/ub-good-pink-surge-cart-1g-sativa",
+    "name": "Pink Surge",
+    "brand": "Ub Good",
+    "product_format": "distillate cart",
+    "strain_type": "sativa",
+    "thc_percent": 78.0,
+    "sale_price": 25.31,
+    "msrp": 33.75,
+    "discount_percent": 25,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2798884",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2798884+gram/king-city-gardens-paris-og-distillate-disposable-1g-indica",
+    "name": "Paris Og",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2243309",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2243309+half_gram/pure-ohio-wellness-skunky-jack-live-rosin-cart-0-5g-sativa",
+    "name": "Skunky Jack",
+    "brand": "Pure Ohio Wellness",
+    "product_format": "live rosin cart",
+    "strain_type": "sativa",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 35.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2466639",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2466639+half_gram/riviera-creek-skyscraper-live-rosin-disposable-0-5g-sativa",
+    "name": "Skyscraper",
+    "brand": "Riviera Creek",
+    "product_format": "live rosin disposable",
+    "strain_type": "sativa",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 49.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "1537070",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/1537070+half_gram/ub-good-green-punch-watermelon-punch-disposable-0-5g-sativa",
+    "name": "Green Punch (watermelon Punch)",
+    "brand": "Ub Good",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 81.0,
+    "sale_price": 22.69,
+    "msrp": 30.25,
+    "discount_percent": 25,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2622426",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2622426+gram/certified-cultivators-sherry-pi-flex-disposable-1g-hybrid",
+    "name": "Sherry Pi",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2551386",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2551386+gram/certified-cultivators-hammer-no-9-cart-1g-indica",
+    "name": "Hammer No. 9",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 74.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2832274",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2832274+gram/pure-ohio-wellness-alaskan-thunder-funk-full-spectrum-cart-1g-sativa",
+    "name": "Alaskan Thunder Funk",
+    "brand": "Pure Ohio Wellness",
+    "product_format": "full spec cart",
+    "strain_type": "sativa",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 36.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2701189",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2701189+gram/airo-bramble-kush-strain-series-pod-1g-indica",
+    "name": "Bramble Kush",
+    "brand": "Airo",
+    "product_format": "distillate airo pod",
+    "strain_type": "indica",
+    "thc_percent": 83.0,
+    "sale_price": null,
+    "msrp": 50.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBG"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2571931",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2571931+gram/standard-farms-sunburst-flex-disposable-1g-hybrid",
+    "name": "Sunburst",
+    "brand": "Standard Farms",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 72.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2745710",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2745710+gram/bloom-cannabis-brainiac-distillate-cart-1g-hybrid",
+    "name": "Brainiac",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 82.0,
+    "sale_price": 24.85,
+    "msrp": 35.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2798866",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2798866+gram/king-city-gardens-acdc-distillate-disposable-1g-sativa",
+    "name": "Acdc",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Pinene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2749331",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2749331+gram/bloom-cannabis-brulee-distillate-cart-1g-indica",
+    "name": "Brulee'",
+    "brand": "Bloom Cannabis",
+    "product_format": "distillate cart",
+    "strain_type": "indica",
+    "thc_percent": 85.0,
+    "sale_price": 24.85,
+    "msrp": 35.5,
+    "discount_percent": 30,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD",
+      "CBN"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2457073",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2457073+gram/ember-purple-urkle-disposable-1g-indica",
+    "name": "Purple Urkle",
+    "brand": "Ember",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 48.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [],
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2508117",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2508117+gram/certified-cultivators-red-velvet-flex-disposable-1g-hybrid",
+    "name": "Red Velvet",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate disposable",
+    "strain_type": "hybrid",
+    "thc_percent": 76.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2713331",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2713331+gram/certified-cultivators-grapefruit-romulan-cart-1g-hybrid",
+    "name": "Grapefruit Romulan",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate cart",
+    "strain_type": "hybrid",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 38.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Myrcene",
+      "Limonene"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2530209",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2530209+gram/certified-cultivators-gdp-lrt-delibox-disposable-1g-indica",
+    "name": "Gdp",
+    "brand": "Certified Cultivators",
+    "product_format": "distillate disposable",
+    "strain_type": "indica",
+    "thc_percent": 73.0,
+    "sale_price": null,
+    "msrp": 45.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Limonene",
+      "Caryo"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "978314",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/978314+half_gram/cookies-london-pound-cake-full-spectrum-co2-cart-0-5g-sativa",
+    "name": "London Pound Cake",
+    "brand": "Cookies",
+    "product_format": "full spec cart",
+    "strain_type": "sativa",
+    "thc_percent": 70.0,
+    "sale_price": null,
+    "msrp": 35.25,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 0.5,
+    "secondary_cannabinoids": [
+      "CBG"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Linalool"
+    ]
+  },
+  {
+    "source": "bloom",
+    "location": "athens",
+    "category": "vape",
+    "product_id": "2798875",
+    "product_url": "https://bloommarijuana.com/oh/athens-dispensary/recreational-menu/product/2798875+gram/king-city-gardens-green-kush-distillate-disposable-1g-sativa",
+    "name": "Green Kush",
+    "brand": "King City Gardens",
+    "product_format": "distillate disposable",
+    "strain_type": "sativa",
+    "thc_percent": 75.0,
+    "sale_price": null,
+    "msrp": 40.5,
+    "discount_percent": null,
+    "scraped_at": "2026-07-01T14:56:12Z",
+    "extra": {},
+    "cart_size_grams": 1.0,
+    "secondary_cannabinoids": [
+      "CBD"
+    ],
+    "terpenes": [
+      "Caryo",
+      "Myrcene"
+    ]
+  }
+]
